@@ -1,6 +1,19 @@
 ---
-title: Home
+title: Whatifididnt
 layout: "base.njk"
 ---
 
-<h1>Hello, world!</h1>
+<h2>Recent Posts</h2>
+<ul role="list">
+
+  {%- for post in collections.post -%}
+  <li>
+    <article class="snippet">
+      <h3><a href="{{ post.url }}"">{{ post.data.title }}</a></h3>
+      <p>{{ post.data.date | postDate }}</p>
+      <p>{{ post.data.description }}</p>
+    </article>
+  </li>
+  {%- endfor -%}
+
+</ul>

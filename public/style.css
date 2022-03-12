@@ -1,0 +1,77 @@
+/* General */
+
+body {
+	font-family: "Open Sans", sans-serif;
+	font-size: 16px;
+}
+
+img {
+	display: block;
+	width: 100%;
+}
+
+/* Typography */
+
+h1,
+h2,
+h3,
+h4 {
+	font-family: "Hind", sans-serif;
+	font-weight: 700;
+}
+
+h1 {
+	font-size: 3.157rem;
+}
+h2 {
+	font-size: 2.369rem;
+}
+h3 {
+	font-size: 1.777rem;
+}
+h4 {
+	font-size: 1.333rem;
+}
+
+/* Sidebar Layout */
+
+#sidebar {
+  display: none;
+}
+
+@media (min-width: 768px) {
+  #sidebar {
+    margin-left: 1.5rem;
+  }
+  .main--sidebar {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-between;
+  }
+  
+  .main--sidebar main {
+    width: 75%;
+  }
+ }
+
+/* Sidebar */
+.widget__img {
+	max-width: 60%;
+	margin-bottom: 1.5rem;
+}
+
+/* Helpers */
+
+ul[role="list"] {
+	list-style: none;
+	padding: 0;
+}
+
+.flex {
+	display: flex;
+}
+
+/* Images  */
+.img-circle {
+	border-radius: 50%;
+}

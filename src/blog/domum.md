@@ -5,8 +5,6 @@ date: 2022-01-01
 description: Lorem markdownum ignis.
 ---
 
-# Domum Myrrha est fallere
-
 ## Ab haberet videtur inmitibus corpora fluctus
 
 Lorem markdownum ignis. Quam qua!
