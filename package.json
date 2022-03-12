@@ -1,0 +1,24 @@
+{
+  "name": "whatifididnt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "eleventy --serve",
+    "build": "eleventy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benpages/whatifididnt.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/benpages/whatifididnt/issues"
+  },
+  "homepage": "https://github.com/benpages/whatifididnt#readme",
+  "devDependencies": {
+    "@11ty/eleventy": "^1.0.0"
+  }
+}
