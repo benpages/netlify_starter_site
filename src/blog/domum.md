@@ -2,7 +2,6 @@
 title: Domum Myrrha est fallere
 author: Ben Pages
 date: 2022-01-01
-tag: post
 description: Lorem markdownum ignis.
 ---
 
