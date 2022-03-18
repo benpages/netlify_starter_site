@@ -1,0 +1,87 @@
+
+$color-primary: #bf7160;
+$color-secondary: #d99e91;
+$color-light-gray: #dee2e6;
+$color-dark: #0A0B0D;
+
+
+$ff-body: "Open Sans", sans-serif;
+$ff-heading: "Hind", sans-serif;
+
+
+/* General */
+
+body {
+	font-family: $ff-body;
+	font-size: 16px;
+}
+
+img {
+	display: block;
+	width: 100%;
+}
+
+section {
+	padding-top: 3rem;
+	padding-bottom: 3rem;
+}
+
+.jumbotron {
+	margin-top: -3rem;
+}
+
+a {
+	color: $color-primary;
+	text-decoration: none;
+}
+
+a:hover,
+a:focus {
+	color: $color-secondary;
+}
+
+/**
+ * Basic typography style for copy text
+ */
+
+ h1,
+ h2,
+ h3,
+ h4 {
+	 font-family: $ff-heading;
+	 font-weight: 400;
+ }
+ 
+ h1 {
+	 font-size: 3.157rem;
+ }
+ h2 {
+	 font-size: 2.369rem;
+ }
+ h3 {
+	 font-size: 1.777rem;
+ }
+ h4 {
+	 font-size: 1.333rem;
+ }
+
+/* Helpers */
+
+ul[role="list"] {
+	list-style: none;
+	padding: 0;
+}
+
+.flex {
+	display: flex;
+}
+
+/* Images  */
+.img-circle {
+	border-radius: 50%;
+}
+
+hr {
+	background-color: $color-light-gray;
+	opacity: 1;
+}

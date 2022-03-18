@@ -1,0 +1,32 @@
+// Navigation
+
+.site__title, .site__tagline {
+	color: $color-dark;
+	margin-bottom:0;
+}
+
+.site__title {
+	font-size: 1.5rem;
+}
+
+.site__tagline {
+	font-size: 1rem;
+}
+
+.site__brand {
+	display: flex;
+	align-items: center;
+}
+
+.site__logo{
+	border-right: 1px solid $color-dark;
+	padding-right:1rem;
+	margin-right: 1rem;
+}
+
+// Home
+
+.newsletter-signup {
+	border-radius: .25rem;
+	border: 4px solid $color-primary;
+}

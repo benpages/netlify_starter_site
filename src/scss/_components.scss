@@ -1,0 +1,25 @@
+// Buttons
+
+.btn-primary {
+	background-color: #BF7160;
+	border-color: #BF7160;
+}
+
+.btn-primary:hover,
+.btn-primary:focus {
+	background-color: #D99E91;
+	border-color: #D99E91;
+	color: white;
+}
+
+.btn-outline-secondary {
+	color: #BF7160;
+	border-color: #BF7160;
+}
+
+.btn-outline-secondary:hover,
+.btn-outline-secondary:focus {
+	color: white;
+	background-color: #BF7160;
+	border-color: #BF7160;
+}
