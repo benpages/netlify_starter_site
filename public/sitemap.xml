@@ -3,6 +3,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     
         <url>
+            <loc>https://whatifididnt.com/blog/toxic-job/</loc>
+            <lastmod>2016-03-30T00:00:00.000Z</lastmod>
+        </url>
+    
+        <url>
             <loc>https://whatifididnt.com/blog/morning-routine/</loc>
             <lastmod>2019-05-14T00:00:00.000Z</lastmod>
         </url>
@@ -18,13 +23,13 @@
         </url>
     
         <url>
-            <loc>https://whatifididnt.com/</loc>
-            <lastmod>2022-03-20T17:43:21.883Z</lastmod>
+            <loc>https://whatifididnt.com/blog/</loc>
+            <lastmod>2022-03-20T19:55:09.843Z</lastmod>
         </url>
     
         <url>
-            <loc>https://whatifididnt.com/blog/</loc>
-            <lastmod>2022-03-20T18:50:29.875Z</lastmod>
+            <loc>https://whatifididnt.com/</loc>
+            <lastmod>2022-03-20T19:55:09.845Z</lastmod>
         </url>
     
 </urlset>
