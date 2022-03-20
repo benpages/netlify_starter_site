@@ -1,6 +1,51 @@
 ---
-title: Home
+title: Whatifididnt
 layout: "base.njk"
 ---
 
-<h1>Coming Soon</h1>
+<section class="jumbotron py-5 text-center container">
+  <div class="row py-lg-5">
+    <div class="col-lg-6 col-md-8 mx-auto">
+      <h1>Rethink Life</h1>
+      <p class="lead text-muted">What would happen if you didn't do what you were supposed to? This blog is about challenging everything we take for granted. The goal? Design a life where one is truly be free and happy.</p>
+      <p>
+        <a href="/blog" class="btn btn-primary my-2">Browse All Posts</a>
+        {# <a href="#" class="btn btn-outline-secondary my-2">Learn More</a> #}
+      </p>
+    </div>
+  </div>
+</section>
+<hr>
+
+<section>
+  <h2>Featured Posts</h2>
+
+  <ul class="recent-posts__list row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3" role="list">
+
+    {%- for post in collections.featured | reverse -%}
+      {% include 'article-snippet.njk' %}
+    {%- endfor -%}
+
+  </ul>
+</section>
+
+<section class="newsletter-signup shadow-sm bg-light bg-gradient px-3 px-md-0">
+  <div class="col-md-6 offset-md-3">
+  <h2 class="text-center">Newsletter</h2>
+  <p class="">Enter your name and email address to join the newsletter. You'll receive
+  new posts, exclusive content, and much more.</p>
+  <form name="newsletter" method="POST" data-netlify="true">
+    <p>
+      <!-- <label for="name" class="form-label">Your Name:</label> -->
+      <input id="name" class="form-control" type="text" name="name" placeholder="Your name" />
+    </p>
+    <p>
+      <!-- <label for="email" class="form-label">Your Email:</label> -->
+      <input id="email" class="form-control" type="email" name="email" placeholder="Your email"/>
+    </p>
+    <p>
+      <button type="submit" class="btn btn-primary" width="100%">Sign Up</button>
+    </p>
+  </form>
+</div>
+</section>
