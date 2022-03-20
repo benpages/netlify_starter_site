@@ -5,6 +5,7 @@ author: Ben Pages
 date: 2019-05-21
 description: Deep breathing might be the quickest and easiest way you have to reduce stress and improve your overall health. Here are 3 breathing techniques to know and practice daily.
 image: /assets/blog/woman-breathing.jpg
+imageAlt: spiritual woman doing breathing exercises
 ---
 
 ## 3 Guided Breathing Exercises to Get Started
