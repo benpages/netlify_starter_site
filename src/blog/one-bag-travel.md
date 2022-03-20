@@ -1,4 +1,5 @@
 ---
+tags: ["post", "featured"]
 title: The Ultimate Guide to One Bag Travel
 author: Ben Pages
 date: 2022-01-12

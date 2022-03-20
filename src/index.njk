@@ -9,8 +9,8 @@ layout: "base.njk"
       <h1>Rethink Life</h1>
       <p class="lead text-muted">What would happen if you didn't do what you were supposed to? This blog is about challenging everything we take for granted. The goal? Design a life where one is truly be free and happy.</p>
       <p>
-        <a href="#" class="btn btn-primary my-2">Browse All Posts</a>
-        <a href="#" class="btn btn-outline-secondary my-2">Learn More</a>
+        <a href="/blog" class="btn btn-primary my-2">Browse All Posts</a>
+        {# <a href="#" class="btn btn-outline-secondary my-2">Learn More</a> #}
       </p>
     </div>
   </div>
@@ -18,22 +18,12 @@ layout: "base.njk"
 <hr>
 
 <section>
+  <h2>Featured Posts</h2>
 
   <ul class="recent-posts__list row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3" role="list">
 
-    {%- for post in collections.post | reverse -%}
-    <div class="col">
-    <li class="card shadow-sm">
-      <a href="{{ post.url }}">
-        <img src="{{ post.data.image }}" class="card-img-top" alt="">
-      </a>
-      <article class="snippet card-body">
-        <h4 class="card-title"><a href="{{ post.url }}"">{{ post.data.title }}</a></h4>
-        <p class="card-text">{{ post.data.description }}</p>
-        <a href="{{ post.url }}">Read ></a>
-      </article>
-    </li>
-    </div>
+    {%- for post in collections.featured | reverse -%}
+      {% include 'article-snippet.njk' %}
     {%- endfor -%}
 
   </ul>

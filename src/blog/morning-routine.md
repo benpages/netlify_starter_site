@@ -1,4 +1,5 @@
 ---
+tags: ["post", "featured"]
 title: Morning Routine to Be Productive and Win the Day
 author: Ben Pages
 date: 2019-05-14

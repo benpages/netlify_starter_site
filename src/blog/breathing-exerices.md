@@ -1,37 +1,11 @@
 ---
+tags: ["post", "featured"]
 title: 3 Breathing Exercices for Anxiety Relief
 author: Ben Pages
 date: 2019-05-21
 description: Deep breathing might be the quickest and easiest way you have to reduce stress and improve your overall health. Here are 3 breathing techniques to know and practice daily.
 image: https://picsum.photos/300/200
 ---
-
-## What are the benefits of deep breathing?
-
-Deep breathing might be the quickest and easiest way you have to reduce stress and improve your overall health. Traditional Chinese Medicine has been employing breathwork for centuries as a way to heal and energize the body. In yoga, the breath is used to induce a mental state of calm, relaxation, and mindfulness.
-
-In Western medicine, breathing is a relatively new topic scientists are only now starting to look at. Research would have probably been much more advanced by now if pharma companies had figured out a way to earn profits from it. However, practicing a regular deep breathing routine has been associated with many benefits, such as:
-- lowering blood pressure
-- improving lung function
-- encouraging weight loss
-- relieving stress and anxiety
-- helping sleep
-
-## Are breathing exercises safe?
-
-If you have never practiced any sort of mindfulness or breathwork, starting a daily breathing ritual may seem intimidating. However, breathing exercises are one of the safest forms of therapy out there. Little to no downside with unlimited upside potential; that's the best investment of 3 minutes a day most of us will ever have the chance to make in our lives.
-The first few times you perform a breathing exercise, you may feel slightly light-headed or you may notice some tingling sensations in various parts of your body. Nothing to worry about; that's 100% normal and will go away with time and practice. If anything, try to enjoy the feeling; it is quite pleasant.
-
-## When to do breathing exercises?
-
-Practicing some sort of breathing exercise daily can truly lead to miraculous results, from improving your mental performance to relieving the symptoms of your mood or sleep disorders.
-
-The key to experiencing those results firsthand, however, is not as much the frequency at which one performs the exercises, but the consistency with which they do.
-It's like anything else. You don't get ripped after one month of hitting weights. You don't lose weight by eating a cucumber salad once in a blue moon. You don't become an expert in your field by reading Amazon's best-selling book on the topic.
-
-When performing breathing exercises, you are training your body to unlearn its breathing patterns and replace them with new, healthier ones. It's that very learning process that requires time and repetition.
-
-Long answer short, I'd do these twice a day - right upon waking and before going to sleep - for 5 weeks minimum. Then (and only then) would I make a judgment call and decide whether or not they are beneficial for me.
 
 ## 3 Guided Breathing Exercises to Get Started
 
@@ -72,6 +46,33 @@ You can count at whatever speed you're comfortable with. Just make sure that you
 Perform 4 reps and you're done. This is the last time-consuming exercise of all 3.
 
 <iframe src="https://www.youtube.com/embed/gz4G31LGyog?start=52" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+
+## When to do breathing exercises?
+
+Practicing some sort of breathing exercise daily can truly lead to miraculous results, from improving your mental performance to relieving the symptoms of your mood or sleep disorders.
+
+The key to experiencing those results firsthand, however, is not as much the frequency at which one performs the exercises, but the consistency with which they do.
+It's like anything else. You don't get ripped after one month of hitting weights. You don't lose weight by eating a cucumber salad once in a blue moon. You don't become an expert in your field by reading Amazon's best-selling book on the topic.
+
+When performing breathing exercises, you are training your body to unlearn its breathing patterns and replace them with new, healthier ones. It's that very learning process that requires time and repetition.
+
+Long answer short, I'd do these twice a day - right upon waking and before going to sleep - for 5 weeks minimum. Then (and only then) would I make a judgment call and decide whether or not they are beneficial for me.
+
+## Are breathing exercises safe?
+
+If you have never practiced any sort of mindfulness or breathwork, starting a daily breathing ritual may seem intimidating. However, breathing exercises are one of the safest forms of therapy out there. Little to no downside with unlimited upside potential; that's the best investment of 3 minutes a day most of us will ever have the chance to make in our lives.
+The first few times you perform a breathing exercise, you may feel slightly light-headed or you may notice some tingling sensations in various parts of your body. Nothing to worry about; that's 100% normal and will go away with time and practice. If anything, try to enjoy the feeling; it is quite pleasant.
+
+## What are the benefits of deep breathing?
+
+Deep breathing might be the quickest and easiest way you have to reduce stress and improve your overall health. Traditional Chinese Medicine has been employing breathwork for centuries as a way to heal and energize the body. In yoga, the breath is used to induce a mental state of calm, relaxation, and mindfulness.
+
+In Western medicine, breathing is a relatively new topic scientists are only now starting to look at. Research would have probably been much more advanced by now if pharma companies had figured out a way to earn profits from it. However, practicing a regular deep breathing routine has been associated with many benefits, such as:
+- lowering blood pressure
+- improving lung function
+- encouraging weight loss
+- relieving stress and anxiety
+- helping sleep
 
 ## Conclusion
 

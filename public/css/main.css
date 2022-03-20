@@ -9130,25 +9130,34 @@ a:focus {
 h1,
 h2,
 h3,
-h4 {
+h4,
+h5 {
+  margin: 3rem 0 1.38rem;
   font-family: "Hind", sans-serif;
   font-weight: 400;
+  line-height: 1.3;
 }
 
 h1 {
-  font-size: 3.157rem;
+  margin-top: 0;
+  font-size: 3.052rem;
 }
 
 h2 {
-  font-size: 2.369rem;
+  font-size: 2.441rem;
+  font-weight: 700;
 }
 
 h3 {
-  font-size: 1.777rem;
+  font-size: 1.953rem;
 }
 
 h4 {
-  font-size: 1.333rem;
+  font-size: 1.563rem;
+}
+
+h5 {
+  font-size: 1.25rem;
 }
 
 /* Helpers */
@@ -9174,7 +9183,7 @@ hr {
 }
 
 .site__title, .site__tagline {
-  color: #0A0B0D;
+  color: #0a0b0d;
   margin-bottom: 0;
 }
 
@@ -9196,14 +9205,17 @@ hr {
 }
 
 .site__logo {
-  border-right: 1px solid #0A0B0D;
+  border-right: 1px solid #0a0b0d;
   padding-right: 1rem;
   margin-right: 1rem;
 }
 
+.single__title {
+  margin-bottom: 0;
+}
+
 .newsletter-signup {
   border-radius: .25rem;
-  border: 4px solid #bf7160;
 }
 
 urlset {
