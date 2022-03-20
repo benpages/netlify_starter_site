@@ -1,11 +1,10 @@
 ---
-tags: ["post", "featured"]
 title: Morning Routine to Be Productive and Win the Day
-author: Ben Pages
 date: 2019-05-14
 description: The way you spend the first 60 minutes of your day can have a dramatic impact on the unfolding of the remaining 23 hours. Try out this morning routine for 9 consecutive days  .
 image: /assets/blog/morning-routine.jpg
 imageAlt: woman starting her morning routine
+url: morning-routine
 ---
 
 The way you spend the first 60 minutes of your day can have a dramatic impact on the unfolding of the remaining 23 hours. Having a well-established routine is a key differentiator between people who react to and those who design life.

@@ -1,11 +1,11 @@
 ---
 tags: ["post", "featured"]
 title: The Ultimate Guide to One Bag Travel
-author: Ben Pages
 date: 2022-01-12
 description: Learn how to pack for one bag travel. You’ll discover unique gear and hacks to ditch the suitcase, breeze through airports & travel freely.
 image: /assets/blog/one-bag-travel.jpg
 imageAlt: One bag travel guide
+url: one-bag-travel
 ---
 
 One bag travel is a style of travel that involves carrying a single carry-on size bag. Nothing less. Nothing more.
