@@ -5,7 +5,7 @@ date: 2020-06-20
 description: Willpower and self-discipline don't work for preventing procrastination. Try this daily 20-minute ritual instead to FINALLY get things done.
 image: /assets/blog/end-procrastination-journal.jpg
 imageAlt: journal with text "Let's Get Started"
-url: procrastination
+mySlug: procrastination
 ---
 
 You've decided today would be a good day to write something on your blog. You open up a blank text file armed with all the goodwill in the world. 

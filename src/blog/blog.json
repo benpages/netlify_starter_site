@@ -1,5 +1,6 @@
 {
   "layout": "article.njk",
   "tags": "post",
-  "author": "Ben Pages"
+  "author": "Ben Pages",
+  "permalink": "blog/{{ mySlug }}/"
 }

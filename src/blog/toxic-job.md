@@ -4,7 +4,7 @@ date: 2016-03-30
 description: After a year working out of a cubicle on the the 20th floor of a Chinese high-rise, it became clear to me my life needed change.
 image: /assets/blog/sri-lanka-backpacker.jpg
 imageAlt: backpacker escaping toxic job on a train
-url: borsstix-job
+mySlug: toxic-job
 ---
 
 
