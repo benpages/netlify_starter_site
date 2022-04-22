@@ -1,25 +1,26 @@
 <!DOCTYPE html>
 <html lang="en">
 	<head>
-		<meta charset="UTF-8" />
-		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
-		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<meta charset="UTF-8"/>
+		<meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
 		<title>I Quit a Toxic Job. Here&#39;s What Happened Next.</title>
-		<!-- Fonts -->
+		
 		<link rel="preconnect" href="https://fonts.googleapis.com">
 		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-		<link href="https://fonts.googleapis.com/css2?family=Hind:wght@400;700&family=Open+Sans:wght@400;700&display=swap" rel="stylesheet"> 
-		<link rel="stylesheet" href="/css/main.css" />
-		<!-- Netlify -->
+		<link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,400;0,700;0,900;1,400&display=swap" rel="stylesheet">
+		
+		<link rel="stylesheet" href="/css/styles.css"/>
+		
 		<script
 			defer
 			src="https://identity.netlify.com/v1/netlify-identity-widget.js"
 		></script>
 	</head>
 	<body>
-		<div class="col-lg-8 mx-auto p-3 py-md-5">
-			<header class="d-flex align-items-center pb-3 mb-5 border-bottom">
-	<a href="/" class="navbar-brand site__brand">
+		<div class="container">
+			<header>
+	<a href="/">
 		<svg
 			version="1.0"
 			xmlns="http://www.w3.org/2000/svg"
@@ -27,7 +28,6 @@
 			height="50px"
 			viewBox="0 0 3000.000000 3000.000000"
 			preserveAspectRatio="xMidYMid meet"
-			class="site__logo"
 		>
 			<g
 				transform="translate(0.000000,3000.000000) scale(0.100000,-0.100000)"
@@ -81,14 +81,13 @@ l478 -3380 494 -3 495 -2 736 1766 c405 971 740 1765 745 1766 4 0 338 -794
 				/>
 			</g>
 		</svg>
-		<p class="site__title">whatifididnt</p>
+		<p>whatifididnt</p>
 	</a>
 </header>
-
-				<main>
-					<article>
-  <h1 class="single__title">I Quit a Toxic Job. Here&#39;s What Happened Next.</h1>
-  <p class="text-muted">by Ben Pages on Mar 30, 2016</p>
+			<main>
+				<article>
+  <h1>I Quit a Toxic Job. Here&#39;s What Happened Next.</h1>
+  <p>by Ben Pages on Mar 30, 2016</p>
   <p>I've been voluntarily unemployed for 3 full months now.  What do I feel? I feel stillness, I feel peace, I feel aliveness.</p>
 <p>My last job was inside a 30-people office on the 20th floor of a grey building in the Zhejiang province of China. After a year working in the import/export industry, it became clear to me my life needed change. I had let myself sunk into a whirlwind of negativity. I had fully destructed the spiritual sanity I had cultivated over the years and had submitted to a mechanical and disheartening lifestyle.</p>
 <p>My emotions were controlled by the people I worked with and no matter the energy I started with at the beginning of each day, most of it would transform into frustration, anger and worthlessness as the hours went by.</p>
@@ -106,10 +105,11 @@ l478 -3380 494 -3 495 -2 736 1766 c405 971 740 1765 745 1766 4 0 338 -794
 <p><strong>What do you want in this life? Do you have it? Why not?</strong></p>
 
 </article>
-				</main>
+			</main>
 			<footer class="pt-5 my-5 text-muted border-top">
   Ben Pages · © 2022
-</footer> <!-- Bootstrap Bundle with Popper -->
+</footer>
+			<!-- Bootstrap Bundle with Popper -->
 <script
   src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
   integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM"
@@ -119,13 +119,17 @@ l478 -3380 494 -3 495 -2 736 1766 c405 971 740 1765 745 1766 4 0 338 -794
 
 		<script>
 			if (window.netlifyIdentity) {
-				window.netlifyIdentity.on("init", (user) => {
-					if (!user) {
-						window.netlifyIdentity.on("login", () => {
-							document.location.href = "/admin/";
-						});
-					}
-				});
+				window
+					.netlifyIdentity
+					.on("init", (user) => {
+						if (!user) {
+							window
+								.netlifyIdentity
+								.on("login", () => {
+									document.location.href = "/admin/";
+								});
+						}
+					});
 			}
 		</script>
 	</body>

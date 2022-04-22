@@ -6,8 +6,8 @@ title: 'Blog | Ben Pages'
 <h1>Blog</h1>
 <ul class="recent-posts__list row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3" role="list">
 
-    {%- for post in collections.post | reverse -%}
-      {% include 'article-snippet.njk' %}
-    {%- endfor -%}
+  {%- for post in collections.post | reverse -%}
+    {% include 'article-snippet.njk' %}
+  {%- endfor -%}
 
-  </ul>
+</ul>

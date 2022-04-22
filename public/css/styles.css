@@ -1,0 +1,98 @@
+/* CSS Reset */
+
+html {
+	box-sizing: border-box;
+	/* Sets the root font size (rem) */
+	font-size: 21px;
+}
+
+*,
+*:before,
+*:after {
+	box-sizing: inherit;
+}
+
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+ol,
+ul {
+	margin: 0;
+	padding: 0;
+	font-weight: none;
+}
+
+img {
+	max-width: 100%;
+	height: auto;
+}
+
+/* Typography */
+
+body {
+	font-size: 1rem;
+	letter-spacing: 0.5px;
+	line-height: 1.5;
+}
+
+h4,
+h3,
+h2,
+h1 {
+	margin-top: 0;
+	margin-bottom: 1rem;
+	font-weight: 400;
+	line-height: 1.2;
+}
+
+h1 {
+	font-size: 3.052rem;
+	letter-spacing: -1.5px;
+}
+
+h2 {
+	font-size: 2.441rem;
+	letter-spacing: -0.5px;
+}
+
+h3 {
+	font-size: 1.953rem;
+	letter-spacing: 0;
+}
+
+h4 {
+	font-size: 1.563rem;
+	letter-spacing: 0.15px;
+}
+
+p,
+ul,
+ol {
+	margin-bottom: 1rem;
+}
+
+ul,
+ol {
+	padding-left: 1rem;
+}
+
+/* end */
+
+.container {
+	/* 65 characters per line, including spaces and punctuation */
+	max-width: 650px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+/* Helpers */
+
+.list-style-none {
+	list-style: none;
+	padding-left: 0;
+}
