@@ -7,7 +7,7 @@ layout: "base.njk"
   <h2>Posts</h2>
   <ul class="list-style-none">
 
-    {%- for post in collections.featured | reverse -%}
+    {%- for post in collections.post | reverse -%}
       {% include 'article-snippet.njk' %}
     {%- endfor -%}
 
@@ -26,8 +26,7 @@ layout: "base.njk"
       <input id="email" type="email" name="email" placeholder="Your email"/>
     </p>
     <p>
-      <button type="submit">Sign Up</button>
+      <button class="btn btn-primary" type="submit">Sign Up</button>
     </p>
   </form>
-</div>
 </section>

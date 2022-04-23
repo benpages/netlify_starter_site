@@ -1,9 +1,15 @@
+/* Variables */
+
+:root {
+	--primary-color: #bf7160;
+	--primary-color-rgb: 191, 113, 96;
+}
+
 /* CSS Reset */
 
 html {
 	box-sizing: border-box;
-	/* Sets the root font size (rem) */
-	font-size: 21px;
+	font-size: 18px;
 }
 
 *,
@@ -35,39 +41,61 @@ img {
 /* Typography */
 
 body {
-	font-size: 1rem;
-	letter-spacing: 0.5px;
-	line-height: 1.5;
+	font-family: "Open Sans", sans-serif;
+	font-weight: false;
+	line-height: 1.65;
+}
+
+p {
+	font-size: 1em;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+	font-family: "Open Sans", sans-serif;
+	font-weight: true;
+	line-height: 1.15;
+	margin-top: 1em;
+	margin-bottom: 1em;
+}
+
+h1,
+.h1 {
+	font-family: "Open Sans", sans-serif;
+	font-weight: true;
+	margin-top: 0;
+	font-size: 2.49em;
+}
+
+h2,
+.h2 {
+	font-size: 2.07em;
+}
+
+h3,
+.h3 {
+	font-size: 1.73em;
 }
 
 h4,
-h3,
-h2,
-h1 {
-	margin-top: 0;
-	margin-bottom: 1rem;
-	font-weight: 400;
-	line-height: 1.2;
+.h4 {
+	font-size: 1.44em;
 }
 
-h1 {
-	font-size: 3.052rem;
-	letter-spacing: -1.5px;
+h5,
+.h5 {
+	font-size: 1.2em;
 }
 
-h2 {
-	font-size: 2.441rem;
-	letter-spacing: -0.5px;
+figcaption {
+	font-size: 0.83em;
 }
 
-h3 {
-	font-size: 1.953rem;
-	letter-spacing: 0;
-}
-
-h4 {
-	font-size: 1.563rem;
-	letter-spacing: 0.15px;
+small {
+	font-size: 0.69em;
 }
 
 p,
@@ -81,18 +109,56 @@ ol {
 	padding-left: 1rem;
 }
 
-/* end */
+/* Grid */
 
 .container {
 	/* 65 characters per line, including spaces and punctuation */
 	max-width: 650px;
+	padding-left: 1rem;
+	padding-right: 1rem;
 	margin-left: auto;
 	margin-right: auto;
 }
+
+/* Componenets */
 
 /* Helpers */
 
 .list-style-none {
 	list-style: none;
 	padding-left: 0;
+}
+
+/* Buttons and links */
+
+a {
+	color: var(--primary-color);
+	text-decoration: none;
+}
+
+a:hover,
+.btn:hover {
+	cursor: pointer;
+}
+
+a:hover,
+a:focus {
+	color: rgba(var(--primary-color-rgb), 0.85);
+}
+
+.btn {
+	padding: 0.5em 1em;
+	border-radius: 0.125em;
+}
+
+.btn-primary {
+	color: white;
+	background-color: var(--primary-color);
+	border: 1px solid var(--primary-color);
+}
+
+.btn-primary:hover,
+.btn-primary:focus {
+	background-color: rgba(var(--primary-color-rgb), 0.85);
+	border: 1px solid rgba(var(--primary-color-rgb), 0.85);
 }
