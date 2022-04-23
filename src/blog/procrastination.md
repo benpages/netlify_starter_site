@@ -1,5 +1,5 @@
 ---
-tags: ["post", "featured"]
+tags: ["post"]
 title: How to Train Yourself to Stop Procrastinating (20-Minute Practice)
 date: 2020-06-20
 description: Willpower and self-discipline don't work for preventing procrastination. Try this daily 20-minute ritual instead to FINALLY get things done.

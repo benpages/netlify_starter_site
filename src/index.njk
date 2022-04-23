@@ -4,7 +4,15 @@ layout: "base.njk"
 ---
 
 <section>
-  <h2>Posts</h2>
+
+  {%- for post in collections.featured | reverse -%}
+    {% include 'hero.njk' %}
+  {%- endfor -%}
+
+</section>
+
+<section>
+  <h2>Recent Posts</h2>
   <ul class="list-style-none">
 
     {%- for post in collections.post | reverse -%}
