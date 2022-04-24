@@ -3,7 +3,8 @@
 :root {
 	--primary-color: #bf7160;
 	--primary-color-rgb: 191, 113, 96;
-	--clr-black: #3a001e;
+	--clr-black: #353535;
+	--clr-black-rgb: 53, 53, 53;
 }
 
 /* CSS Reset */
@@ -128,6 +129,12 @@ ol {
 	border: 1px solid lightgray;
 }
 
+.container-lg {
+	max-width: 1140px;
+	margin-left:auto;
+	margin-right: auto;
+}
+
 @media screen and (max-width: 768px) {
 	.container {
 		padding: 1rem;
@@ -193,4 +200,60 @@ a:focus {
 .btn-primary:focus {
 	background-color: rgba(var(--primary-color-rgb), 0.85);
 	border: 1px solid rgba(var(--primary-color-rgb), 0.85);
+}
+
+
+/* Header and Footer */
+
+.footer {
+	text-align: center;
+	padding: 1em 0; 
+}
+
+.navbar {
+	display: grid;
+	grid-template-columns: 10% 80% 1fr;
+	justify-content: space-around;
+	
+	align-items: center;
+	padding: 1em 0;
+}
+
+.nav-list {
+	display: flex;
+	margin: 0;
+}
+
+.nav__item {
+	padding: 1em .5em;
+}
+
+.nav__item a {
+	color: rgba(var(--clr-black-rgb), 0.65);
+}
+
+.nav__item a:hover,
+.nav__item a:focus
+ {
+	color: rgba(var(--primary-color-rgb), 0.85);
+}
+
+.nav__cta {
+	font-weight: 500;
+}
+
+.site-logo {
+	position: relative;
+}
+
+.site-logo svg {
+	position: absolute;
+  top: 50%;
+  -webkit-transform: translateY(-50%);
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+  left: 0;
+  right: 0;
+  margin: auto;
+  text-align: center;
 }
