@@ -3,38 +3,42 @@ title: Whatifididnt
 layout: "base.njk"
 ---
 
-<section>
-
-  {%- for post in collections.featured | reverse -%}
-    {% include 'hero.njk' %}
-  {%- endfor -%}
-
-</section>
-
-<section>
-  <h2>Recent Posts</h2>
-  <ul class="list-style-none">
-
-    {%- for post in collections.post | reverse -%}
-      {% include 'article-snippet.njk' %}
+<section id="hero">
+  <div class="container-lg">
+    {%- for post in collections.featured | reverse -%}
+      {% include 'hero.njk' %}
     {%- endfor -%}
-
-  </ul>
+  </div>
 </section>
 
 <section>
-  <h2>Newsletter</h2>
-  <p>Enter your name and email address to join the newsletter. You'll receive
+  <div class="container-sm">
+    <h2 class"section-title">Recent Posts</h2>
+    <ul class="list-style-none">
+
+      {%- for post in collections.post | reverse -%}
+        {% include 'article-snippet.njk' %}
+      {%- endfor -%}
+
+    </ul>
+  </div>
+</section>
+
+<section>
+  <div class="container-sm newsletter-signup">
+    <h2 class="section-title">Newsletter</h2>
+    <p>Enter your name and email address to join the newsletter. You'll receive
   new posts, exclusive content, and much more.</p>
-  <form name="newsletter" method="POST" data-netlify="true">
-    <p>
-      <input id="name" type="text" name="name" placeholder="Your name"/>
-    </p>
-    <p>
-      <input id="email" type="email" name="email" placeholder="Your email"/>
-    </p>
-    <p>
-      <button class="btn btn-primary" type="submit">Sign Up</button>
-    </p>
-  </form>
+    <form name="newsletter" method="POST" data-netlify="true">
+      <p>
+        <input id="name" type="text" name="name" placeholder="Your name"/>
+      </p>
+      <p>
+        <input id="email" type="email" name="email" placeholder="Your email"/>
+      </p>
+      <p>
+        <button class="btn btn-primary" type="submit">Sign Up</button>
+      </p>
+    </form>
+  </div>
 </section>

@@ -5,6 +5,8 @@
 	--primary-color-rgb: 191, 113, 96;
 	--clr-black: #353535;
 	--clr-black-rgb: 53, 53, 53;
+	--clr-light-gray: #f7fafc;
+	--clr-gray: #dae8f1;
 }
 
 /* CSS Reset */
@@ -47,7 +49,7 @@ body {
 	color: var(--clr-black);
 	letter-spacing: 0.3px;
 	line-height: 1.65;
-	background: #f7fafc;
+	background: var(--clr-light-gray);
 }
 
 p {
@@ -119,46 +121,82 @@ ol {
 
 /* Grid */
 
-.container {
-	/* 65 characters per line, including spaces and punctuation */
+.container-sm {
 	max-width: 768px;
-	padding: 3.5rem;
 	margin-left: auto;
 	margin-right: auto;
-	background-color: white;
-	border: 1px solid lightgray;
 }
 
 .container-lg {
 	max-width: 1140px;
-	margin-left:auto;
+	margin-left: auto;
 	margin-right: auto;
 }
 
 @media screen and (max-width: 768px) {
 	.container {
 		padding: 1rem;
-	}	
-}
-	
+	}
 }
 
 /* Components */
 
-.hero {
-	background-color: rgba(0, 0, 0, 0.5);
-	background-image: url("http://localhost:8080/assets/blog/one-bag-travel.jpg");
-	background-blend-mode: multiply;
-	padding: 2em;
+section {
+	margin-top: 3em;
 }
 
-.hero p {
+.section-title {
+	margin-top: 0;
+}
+
+input {
+	padding: 0.25em 0.5em;
+	border-radius: 0.25em;
+	border: 1px solid var(--clr-gray);
+}
+
+#hero {
+	background-color: rgba(var(--clr-black-rgb), 0.9);
+	background-image: url("../assets/blog/coffee-alternatives.jpg");
+	background-blend-mode: multiply;
+	padding-top: 6em;
+	padding-bottom: 6em;
+	background-size: cover;
+	margin-top: 0;
+}
+
+.hero__title,
+.hero__cta {
+	margin-top: 0;
+	font-weight: bold;
+}
+
+.hero__title a:hover,
+.hero__title a:focus,
+.hero__cta:hover,
+.hero__cta:focus {
+	text-decoration: underline;
+}
+
+.hero__article p {
 	color: white;
 	font-weight: bold;
 }
 
-.hero small {
+.hero__article small {
 	color: white;
+}
+
+.newsletter-signup {
+	background-color: white;
+	border: 1px solid var(--clr-gray);
+	padding: 1.75rem;
+}
+
+.content {
+	padding: 3.5rem;
+	background-color: white;
+	border: 1px solid var(--clr-gray);
 }
 
 /* Helpers */
@@ -172,7 +210,8 @@ ol {
 
 a {
 	color: var(--primary-color);
-	text-decoration: none;
+	text-decoration: underline solid transparent;
+	transition: text-decoration 600ms ease;
 }
 
 a:hover,
@@ -182,12 +221,13 @@ a:hover,
 
 a:hover,
 a:focus {
-	color: rgba(var(--primary-color-rgb), 0.85);
+	/* color: rgba(var(--primary-color-rgb), 0.85); */
+	text-decoration: underline solid rgba(var(--primary-color-rgb), 0.85);
 }
 
 .btn {
 	padding: 0.5em 1em;
-	border-radius: 0.125em;
+	border-radius: 0.25em;
 }
 
 .btn-primary {
@@ -202,19 +242,18 @@ a:focus {
 	border: 1px solid rgba(var(--primary-color-rgb), 0.85);
 }
 
-
 /* Header and Footer */
 
 .footer {
 	text-align: center;
-	padding: 1em 0; 
+	padding: 1em 0;
 }
 
 .navbar {
 	display: grid;
 	grid-template-columns: 10% 80% 1fr;
 	justify-content: space-around;
-	
+
 	align-items: center;
 	padding: 1em 0;
 }
@@ -225,7 +264,7 @@ a:focus {
 }
 
 .nav__item {
-	padding: 1em .5em;
+	padding: 1em 0.5em;
 }
 
 .nav__item a {
@@ -233,8 +272,7 @@ a:focus {
 }
 
 .nav__item a:hover,
-.nav__item a:focus
- {
+.nav__item a:focus {
 	color: rgba(var(--primary-color-rgb), 0.85);
 }
 
@@ -248,12 +286,9 @@ a:focus {
 
 .site-logo svg {
 	position: absolute;
-  top: 50%;
-  -webkit-transform: translateY(-50%);
-  -ms-transform: translateY(-50%);
-  transform: translateY(-50%);
-  left: 0;
-  right: 0;
-  margin: auto;
-  text-align: center;
+	top: 50%;
+	-webkit-transform: translateY(-50%);
+	-ms-transform: translateY(-50%);
+	transform: translateY(-50%);
+	left: 0;
 }
