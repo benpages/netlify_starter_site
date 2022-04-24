@@ -3,13 +3,14 @@
 :root {
 	--primary-color: #bf7160;
 	--primary-color-rgb: 191, 113, 96;
+	--clr-black: #3a001e;
 }
 
 /* CSS Reset */
 
 html {
 	box-sizing: border-box;
-	font-size: 18px;
+	font-size: 21px;
 }
 
 *,
@@ -30,7 +31,6 @@ ol,
 ul {
 	margin: 0;
 	padding: 0;
-	font-weight: none;
 }
 
 img {
@@ -41,13 +41,20 @@ img {
 /* Typography */
 
 body {
-	font-family: "Open Sans", sans-serif;
-	font-weight: false;
+	font-family: "Lato", sans-serif;
+	font-weight: 300;
+	color: var(--clr-black);
+	letter-spacing: 0.3px;
 	line-height: 1.65;
+	background: #f7fafc;
 }
 
 p {
 	font-size: 1em;
+}
+
+strong {
+	font-weight: 500;
 }
 
 h1,
@@ -55,19 +62,21 @@ h2,
 h3,
 h4,
 h5 {
-	font-family: "Open Sans", sans-serif;
-	font-weight: true;
-	line-height: 1.15;
+	font-family: "Lato", sans-serif;
+	line-height: 1.2;
+	font-weight: 300;
 	margin-top: 1em;
 	margin-bottom: 1em;
 }
 
 h1,
 .h1 {
-	font-family: "Open Sans", sans-serif;
-	font-weight: true;
 	margin-top: 0;
 	font-size: 2.49em;
+	text-transform: uppercase;
+	word-spacing: 0.125em;
+	letter-spacing: -1.5px;
+	text-align: center;
 }
 
 h2,
@@ -77,21 +86,19 @@ h2,
 
 h3,
 .h3 {
-	font-size: 1.73em;
+	font-size: 1.44em;
+	font-weight: 400;
 }
 
 h4,
 .h4 {
-	font-size: 1.44em;
-}
-
-h5,
-.h5 {
 	font-size: 1.2em;
 }
 
 figcaption {
 	font-size: 0.83em;
+	text-align: center;
+	font-style: italic;
 }
 
 small {
@@ -113,11 +120,20 @@ ol {
 
 .container {
 	/* 65 characters per line, including spaces and punctuation */
-	max-width: 650px;
-	padding-left: 1rem;
-	padding-right: 1rem;
+	max-width: 768px;
+	padding: 3.5rem;
 	margin-left: auto;
 	margin-right: auto;
+	background-color: white;
+	border: 1px solid lightgray;
+}
+
+@media screen and (max-width: 768px) {
+	.container {
+		padding: 1rem;
+	}	
+}
+	
 }
 
 /* Components */

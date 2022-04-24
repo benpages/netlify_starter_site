@@ -1,8 +1,10 @@
 ---
 layout: 'base.njk'
 ---
-<article>
-  <h1>{{ title }}</h1>
-  <p>by {{ author }} on {{ date | postDate }}</p>
-  {{ content | safe }}
-</article>
+<div class="container">
+  <article>
+    <h1>{{ title }}</h1>
+    <p>by {{ author }} on {{ date | postDate }}</p>
+    {{ content | safe }}
+  </article>
+</div>
