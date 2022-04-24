@@ -8,7 +8,7 @@ imageAlt: spiritual woman doing breathing exercises
 mySlug: coffee-alternatives
 ---
 
-<img class="figure-img" src="/assets/blog/coffee-alternatives.jpg" alt="">
+<img class="img-fw" src="/assets/blog/coffee-alternatives.jpg" alt="best coffee alternatives for energy">
 
 In this article, you will discover 10 healthy coffee alternatives, caffeinated and non-caffeinated.
 
@@ -38,7 +38,7 @@ Add about 2-3 ounces of warm water (60-70 degrees). Then, use a whisk or spoon (
 
 If you want a sweeter drink, you can add honey or sugar to taste. For a cold drink, mix matcha with cold water or milk and ice.
 
-<img class="figure-img" src="/assets/blog/matcha.jpg" alt="">
+<img class="img-fw" src="/assets/blog/matcha.jpg" alt="matcha coffee alternative">
 
 ## **2. Yerba Mate**
 
@@ -56,7 +56,7 @@ It contains theobromine and theophylline, which help smooth out the effects of c
 
 The traditional way to drik yerba is to use a gourd and a metallic straw called a bombilla.
 
-<img class="figure-img" src="/assets/blog/yerba.jpg" alt="">
+<img class="img-fw" src="/assets/blog/yerba.jpg" alt="drink yerba matte instead of coffee">
 
 ## **3. Green Tea**
 
@@ -76,7 +76,7 @@ Place the green tea leaves in a tea filter and into your tea pot or teacup. Pour
 
 Once the tea has finished steeping, remove the leaves, and set them aside. Don't throw them out. You can use them again for your next batch of tea.
 
-<img class="figure-img" src="/assets/blog/green-tea.jpg" alt="">
+<img class="img-fw" src="/assets/blog/green-tea.jpg" alt="drinking green tea as a coffee alternative">
 
 ## **4. Black Tea**
 
@@ -94,7 +94,7 @@ So let the water cool down at least 2 minutes before pouring it in.
 
 Set the leaves aside and reuse them once or twice more.
 
-<img class="figure-img" src="/assets/blog/black-tea.jpg" alt="">
+<img class="img-fw" src="/assets/blog/black-tea.jpg" alt="black tea is a great coffee alternative">
 
 ## **5. Mushroom Coffee**
 
@@ -108,7 +108,7 @@ Choose a brand that uses high-quality mushrooms and doesn't add fillers. I like[
 
 Four Sigmatic's mushroom coffee is instant and comes in individual packets. Mix it with hot water, drink up, and buckle up! You can also add milk or sugar to taste.
 
-<img class="figure-img" src="/assets/blog/mushroom-coffee.jpg" alt="">
+<img class="img-fw" src="/assets/blog/mushroom-coffee.jpg" alt="Mushroom coffee from Four Sigmatic">
 
 ## **6. Chicory**
 
@@ -146,7 +146,7 @@ Once the milk heats through, strain the spices out and enjoy.
 
 Sweeten it with honey or stevia. I like to whisk in a tablespoon of coconut milk. The result is Oh-So creamy.
 
-<img class="figure-img" src="/assets/blog/turmeric-latte.jpg" alt="">
+<img class="img-fw" src="/assets/blog/turmeric-latte.jpg" alt="Turmeric latte best coffee alternative">
 
 ## **8. Chai**
 
@@ -160,7 +160,7 @@ Chai tea has many health benefits. It may reduce the risk of heart disease, boos
 
 Brewing chai tea is simple. Steep black tea with cardamom, cinnamon, cloves, and ginger for 3-5 minutes. Add sweetener if desired. Milk is optional.
 
-<img class="figure-img" src="/assets/blog/chai.jpg" alt="">
+<img class="img-fw" src="/assets/blog/chai.jpg" alt="drink chai latte as a coffee alternative">
 
 ## **9. Lemon Water**
 
@@ -184,32 +184,13 @@ If you feel adventurous, here are additions worth trying:
 - Himalayan sea salt: It helps you recover the electrolytes you've lost during the night.
 - Apple cider vinegar (ACV): ACV improves the taste of the mixture. And drinking it every day also[ ](https://www.webmd.com/diet/apple-cider-vinegar-and-your-health)[may have health benefits](https://www.webmd.com/diet/apple-cider-vinegar-and-your-health).
 
-<img class="figure-img" src="/assets/blog/lemon-water.jpg" alt="">
+<img class="img-fw" src="/assets/blog/lemon-water.jpg" alt="lemon water instead of coffee for energy">
 
 ## **10. Ginger Tea**
 
-Coffee is a popular morning drink. But if you only drink it to wake yourself up in the mornings, you may want to try lemon water instead.
+[TK]
 
-Here's why.
-
-The reason you are low in energy when you wake up may be that you're dehydrated. During sleep, your body loses a lot of water and electrolytes through sweat and breath.
-
-If those aren't replenished, your body can't perform at its best. And you may feel fatigued or lethargic as a result.
-
-Lemon water is a great source of Vitamin C and other antioxidants. It kickstarts digestion, boosts your immune system, and can even help you lose weight.
-
-Plus, it tastes great and is refreshing first thing in the morning.
-
-If you feel adventurous, here are additions worth trying:
-
-1. **Drink it warm.** Drinking cold water can actually shock your system and cause indigestion. Warm water can help to improve digestion, prevent constipation, and clear out the respiratory system.
-1. **Make it a cocktail.** Try adding the following ingredients:
-
-- Himalayan sea salt: It helps you recover the electrolytes you've lost during the night.
-- Apple cider vinegar (ACV): ACV improves the taste of the mixture. And drinking it every day also[ ](https://www.webmd.com/diet/apple-cider-vinegar-and-your-health)[may have health benefits](https://www.webmd.com/diet/apple-cider-vinegar-and-your-health).
-- Ginger: It has anti-inflammatory properties and is a natural antioxidant.
-
-<img class="figure-img" src="/assets/blog/ginger-tea.jpg" alt="">
+<img class="img-fw" src="/assets/blog/ginger-tea.jpg" alt="ginger tea is a coffee alternative">
 
 ## **Reasons to Avoid Coffee**
 
