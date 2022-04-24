@@ -308,3 +308,13 @@ a:focus {
 	transform: translateY(-50%);
 	left: 0;
 }
+
+.site-title a {
+	color: var(--clr-black);
+	text-decoration: none;
+}
+
+.site-title a:hover,
+.site-title a:focus {
+	text-decoration: none;
+}
