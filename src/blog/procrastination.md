@@ -9,7 +9,7 @@ tags:
   - post
 image: /assets/blog/end-procrastination-journal.jpg
 imageAlt: journal with text "Let's Get Started"
-eleventyExcludeFromCollections: true
+eleventyExcludeFromCollections: false
 ---
 
 You've decided today would be a good day to write something on your blog. You open up a blank text file armed with all the goodwill in the world.
