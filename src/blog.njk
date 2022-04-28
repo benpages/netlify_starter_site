@@ -1,13 +1,25 @@
 ---
 layout: 'base.njk'
-title: 'Blog | Ben Pages'
+title: 'Blog - whatifididnt'
 ---
+<div class="content">
+  <h1>Blog</h1>
+  <ul class="list-style-none">
 
-<h1>Blog</h1>
-<ul class="recent-posts__list row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3" role="list">
+    {%- for post in collections.post | reverse -%}
+      {% include 'article-snippet.njk' %}
+    {%- endfor -%}
 
-  {%- for post in collections.post | reverse -%}
-    {% include 'article-snippet.njk' %}
-  {%- endfor -%}
-
-</ul>
+  </ul>
+  <br>
+  <div class="well text-center">
+    <p>
+      <strong>Want to request an article? Have a story to share?</strong>
+    </p>
+    <p>
+      💌 <a href="/contact">
+        <strong>Drop us a note</strong>
+      </a>
+    </p>
+  </div>
+</div>
