@@ -1,5 +1,5 @@
 ---
-tags: ["post", "featured"]
+tags: ["post"]
 title: 3 Breathing Exercices for Anxiety Relief
 date: 2019-05-21
 description: Deep breathing might be the quickest and easiest way you have to reduce stress and improve your overall health. Here are 3 breathing techniques to know and practice daily.
@@ -21,7 +21,6 @@ The breath goes in and out through the nose. The air is projected in bursts from
 Perform 3 sets of 30 breaths with 30-60 seconds of rest between each set. As you rest, close your eyes and notice any sensation or emotion that arises.
 
 <iframe src="https://www.youtube.com/embed/yJ8TTMfhIfo?start=3400" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
-
 
 ### 2. The Wim Hof Method
 
@@ -69,6 +68,7 @@ The first few times you perform a breathing exercise, you may feel slightly ligh
 Deep breathing might be the quickest and easiest way you have to reduce stress and improve your overall health. Traditional Chinese Medicine has been employing breathwork for centuries as a way to heal and energize the body. In yoga, the breath is used to induce a mental state of calm, relaxation, and mindfulness.
 
 In Western medicine, breathing is a relatively new topic scientists are only now starting to look at. Research would have probably been much more advanced by now if pharma companies had figured out a way to earn profits from it. However, practicing a regular deep breathing routine has been associated with many benefits, such as:
+
 - lowering blood pressure
 - improving lung function
 - encouraging weight loss

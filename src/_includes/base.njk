@@ -1,39 +1,45 @@
 <!DOCTYPE html>
 <html lang="en">
 	<head>
-		<meta charset="UTF-8" />
-		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
-		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<meta charset="UTF-8"/>
+		<meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
 		<title>{{ title }}</title>
-		<!-- Fonts -->
+		{# Fonts #}
 		<link rel="preconnect" href="https://fonts.googleapis.com">
 		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-		<link href="https://fonts.googleapis.com/css2?family=Hind:wght@400;700&family=Open+Sans:wght@400;700&display=swap" rel="stylesheet"> 
-		<link rel="stylesheet" href="/css/main.css" />
-		<!-- Netlify -->
+		<link href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400&display=swap" rel="stylesheet">
+		{# Stylesheets #}
+		<link rel="stylesheet" href="/css/normalize.css"/>
+		<link rel="stylesheet" href="/css/styles.css"/>
+		{# Font  Awesome #}
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+		{# Netlify #}
 		<script
 			defer
 			src="https://identity.netlify.com/v1/netlify-identity-widget.js"
 		></script>
 	</head>
 	<body>
-		<div class="col-lg-8 mx-auto p-3 py-md-5">
-			{% include 'header.njk' %}
-				<main>
-					{{ content | safe }}
-				</main>
-			{% include 'footer.njk' %} {% include 'scripts.njk' %}
-		</div>
+		{% include 'header.njk' %}
+		<main>
+			{{ content | safe }}
+		</main>
+		{% include 'footer.njk' %}
 
 		<script>
 			if (window.netlifyIdentity) {
-				window.netlifyIdentity.on("init", (user) => {
-					if (!user) {
-						window.netlifyIdentity.on("login", () => {
-							document.location.href = "/admin/";
-						});
-					}
-				});
+				window
+					.netlifyIdentity
+					.on("init", (user) => {
+						if (!user) {
+							window
+								.netlifyIdentity
+								.on("login", () => {
+									document.location.href = "/admin/";
+								});
+						}
+					});
 			}
 		</script>
 	</body>

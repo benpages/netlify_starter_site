@@ -1,0 +1,8 @@
+<article class="hero__article">
+  <h2 class="hero__title">
+    <a href="{{ post.url }}">{{ post.data.title }}</a>
+  </h2>
+  <small>{{ post.date | postDate }}</small>
+  <p>{{ post.data.description }}</p>
+  <a class="hero__cta" href="{{ post.url }}">Read ></a>
+</article>
