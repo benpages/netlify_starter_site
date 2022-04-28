@@ -190,7 +190,7 @@ textarea {
 
 #hero {
 	background-color: rgba(var(--clr-black-rgb), 0.9);
-	background-image: url("../assets/blog/coffee-alternatives.jpg");
+	background-image: url("../assets/blog/one-bag-travel.jpg");
 	background-blend-mode: multiply;
 	padding-top: 6em;
 	padding-bottom: 6em;
@@ -209,6 +209,7 @@ textarea {
 .hero__cta:hover,
 .hero__cta:focus {
 	text-decoration: underline;
+	-webkit-text-decoration: underline;
 }
 
 .hero__article p {
@@ -248,7 +249,9 @@ textarea {
 a {
 	color: var(--primary-color);
 	text-decoration: underline solid transparent;
+	-webkit-text-decoration: underline solid transparent;
 	transition: text-decoration 600ms ease;
+	-webkit-transition: text-decoration 600ms ease;
 }
 
 a:hover,
@@ -260,6 +263,7 @@ a:hover,
 a:focus {
 	/* color: rgba(var(--primary-color-rgb), 0.85); */
 	text-decoration: underline solid rgba(var(--primary-color-rgb), 0.85);
+	-webkit-text-decoration: underline solid rgba(var(--primary-color-rgb), 0.85);
 }
 
 .btn {

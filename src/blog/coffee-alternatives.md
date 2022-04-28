@@ -1,11 +1,12 @@
 ---
-tags: ["post", "featured"]
+tags: ["featured", "post"]
 title: 10 Healthy Coffee Alternatives for Energy
 date: 2022-04-22
 description: "Looking for a HEALTHY Coffee Alternative? Check Out These Delicious and Energizing Options: Golden Milk, Matcha, Chai, Chicory, Mushroom Coffee..."
 image: /assets/blog/coffee-alternatives.jpg
 imageAlt: spiritual woman doing breathing exercises
 mySlug: coffee-alternatives
+eleventyExcludeFromCollections: true
 ---
 
 <img class="img-fw" src="/assets/blog/coffee-alternatives.jpg" alt="best coffee alternatives for energy">
