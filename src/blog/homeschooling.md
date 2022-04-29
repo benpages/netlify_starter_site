@@ -1,5 +1,5 @@
 ---
-title: "Homeschooling: How to get started and make it work for your family"
+title: "Homeschooling: How to Get Started and Make it Work for Your Family"
 mySlug: homeschooling
 description: Wondering if homeschooling is right for you? This guide will help
   you get started, figure out the best curriculum for your family & overcome
@@ -7,9 +7,10 @@ description: Wondering if homeschooling is right for you? This guide will help
 date: 2022-04-29T11:46:27.913Z
 tags:
   - post
-eleventyExcludeFromCollections: true
+eleventyExcludeFromCollections: false
 ---
-<img class="img-fw" href="/assets/blog/homeschooling.jpg" alt="mother homeschooling daughter">
+
+<img class="img-fw" src="/assets/blog/homeschooling.jpg" alt="mother homeschooling daughter">
 
 Millions of parents have started homeschooling their children in recent years. For good reason.
 
@@ -45,7 +46,7 @@ Instead of guilting or arguing with your child, give her time. Let him explore h
 
 Honoring the unschooling phase will help both parents and children stay sane.
 
-<img class="img-fw" href="/assets/blog/homeschooled-boys.jpg" alt="two boys doing homework at home">
+<img class="img-fw" src="/assets/blog/homeschooled-boys.jpg" alt="two boys doing homework at home">
 
 ## Different curriculums and approaches to homeschooling
 
@@ -71,7 +72,7 @@ And then, there's unschooling, a method whereby children learn based on their in
 
 No matter what curriculum or teaching style you choose, the important thing is to find one that works best for your child.
 
-<img class="img-fw" href="/assets/blog/homeschooling-materials.jpg" alt="materials used for montessori homeschooling">
+<img class="img-fw" src="/assets/blog/homeschooling-materials.jpg" alt="materials used for montessori homeschooling">
 
 ## The benefits of homeschooling
 
@@ -105,7 +106,7 @@ Here are a few tips to help you make homeschooling work for your family:
 
 **Have realistic expectations.** Don't expect homeschooling to be perfect. There will be good days and bad days, like with anything else. As long as you're doing your best, that's all that matters.
 
-<img class="img-fw" href="/assets/blog/homework-girl.jpg" alt="girl doing math homework at home">
+<img class="img-fw" src="/assets/blog/homework-girl.jpg" alt="girl doing math homework at home">
 
 ## Common misconceptions about homeschooling
 

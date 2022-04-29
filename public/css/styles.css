@@ -8,7 +8,7 @@
 	--clr-light-gray: #f7fafc;
 	--clr-light-gray-rgb: 247, 250, 252;
 	--clr-gray: #dae8f1;
-	--hero-bg: url("../assets/blog/one-bag-travel.jpg");
+	--hero-bg: url("../assets/blog/homeschooling.jpg");
 }
 
 /* CSS Reset */
@@ -33,7 +33,8 @@ h5,
 h6,
 p,
 ol,
-ul {
+ul,
+figure {
 	margin: 0;
 	padding: 0;
 }
