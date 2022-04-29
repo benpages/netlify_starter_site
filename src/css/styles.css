@@ -8,6 +8,7 @@
 	--clr-light-gray: #f7fafc;
 	--clr-light-gray-rgb: 247, 250, 252;
 	--clr-gray: #dae8f1;
+	--hero-bg: url("../assets/blog/one-bag-travel.jpg");
 }
 
 /* CSS Reset */
@@ -188,9 +189,10 @@ textarea {
 	resize: none;
 }
 
-#hero {
+.section--hero {
 	background-color: rgba(var(--clr-black-rgb), 0.9);
-	background-image: url("../assets/blog/one-bag-travel.jpg");
+	/* background-image: url("../assets/blog/one-bag-travel.jpg"); */
+	background-image: var(--hero-bg);
 	background-blend-mode: multiply;
 	padding-top: 6em;
 	padding-bottom: 6em;

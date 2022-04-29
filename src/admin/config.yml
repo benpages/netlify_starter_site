@@ -11,6 +11,12 @@ collections:
     slug: "{{slug}}"
     fields:
       - { label: "Title", name: "title", widget: "string" }
+       - {
+          label: "Draft",
+          name: "eleventyExcludeFromCollections",
+          widget: "boolean",
+          default: false,
+        }
       - { label: "Slug", name: "mySlug", widget: "string" }
       - {
           label: "Description",
@@ -40,9 +46,4 @@ collections:
           required: false,
         }
       - { label: "Body", name: "body", widget: "markdown" }
-      - {
-          label: "Draft",
-          name: "eleventyExcludeFromCollections",
-          widget: "boolean",
-          default: false,
-        }
+     
