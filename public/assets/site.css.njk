@@ -1,0 +1,10 @@
+---
+# ./src/assets/site.css.njk
+permalink: assets/site.css
+---
+
+{%- set latest = collections.post | last -%}
+
+.section--hero {
+  background-image: url("{{ latest.data.image }}");
+}

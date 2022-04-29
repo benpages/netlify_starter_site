@@ -5,10 +5,13 @@ mySlug: homeschooling
 description: Wondering if homeschooling is right for you? This guide will help
   you get started, figure out the best curriculum for your family & overcome
   misconceptions.
+image: /assets/blog/homeschooling.jpg
+imageAlt: mom homeschooling her daughter
 date: 2022-04-29T11:46:27.913Z
 tags:
   - post
 ---
+
 <img class="img-fw" src="/assets/blog/homeschooling.jpg" alt="mother homeschooling daughter">
 
 Millions of parents have started homeschooling their children in recent years. For good reason.
