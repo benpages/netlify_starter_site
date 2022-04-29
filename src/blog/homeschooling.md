@@ -1,5 +1,6 @@
 ---
 title: "Homeschooling: How to Get Started and Make it Work for Your Family"
+eleventyExcludeFromCollections: false
 mySlug: homeschooling
 description: Wondering if homeschooling is right for you? This guide will help
   you get started, figure out the best curriculum for your family & overcome
@@ -7,9 +8,7 @@ description: Wondering if homeschooling is right for you? This guide will help
 date: 2022-04-29T11:46:27.913Z
 tags:
   - post
-eleventyExcludeFromCollections: false
 ---
-
 <img class="img-fw" src="/assets/blog/homeschooling.jpg" alt="mother homeschooling daughter">
 
 Millions of parents have started homeschooling their children in recent years. For good reason.
@@ -134,7 +133,7 @@ Homeschooling doesn't mean giving up your career. You can homeschool part-time o
 
 ## Conclusion
 
-o you’ve decided to homeschool. Congratulations! It’s a great decision for many families. But where do you start? How do you make it work for your family?
+So you’ve decided to homeschool. Congratulations! It’s a great decision for many families. But where do you start? How do you make it work for your family?
 
 There are many different ways to homeschool. Some families use a strict curriculum, while others take a more relaxed approach. It’s important to find what works best for your family and your child. There are also many resources available to homeschoolers, so don’t be afraid to ask for help.
 
