@@ -19,28 +19,34 @@ layout: "base.njk"
 			<ul class="list-style-none">
 
 				{%- for post in collections.post | reverse -%}
-					{% include 'article-snippet.njk' %}
-				{%- endfor -%}
+					{% if loop.index0 < 5 %}
+						{% include 'article-snippet.njk' %}
+						{% endif%}
+					{%- endfor -%}
+					<li style="text-align:right;">
 
-			</ul>
-		</div>
-	</section>
+						<a class="btn btn-pimrary" href="/blog">... see all</a>
 
-	<section>
-		<div class="container-sm newsletter-signup">
-			<h2 class="section-title">Newsletter</h2>
-			<p>Enter your name and email address to join the newsletter. You'll receive
+					</li>
+				</ul>
+			</div>
+		</section>
+
+		<section>
+			<div class="container-sm newsletter-signup">
+				<h2 class="section-title">Newsletter</h2>
+				<p>Enter your name and email address to join the newsletter. You'll receive
   new posts, exclusive content, and much more.</p>
-			<form name="newsletter" method="POST" data-netlify="true">
-				<p>
-					<input id="name" type="text" name="name" placeholder="Your name"/>
-				</p>
-				<p>
-					<input id="email" type="email" name="email" placeholder="Your email"/>
-				</p>
-				<p>
-					<button class="btn btn-primary" type="submit">Sign Up</button>
-				</p>
-			</form>
-		</div>
-	</section>
+				<form name="newsletter" method="POST" data-netlify="true">
+					<p>
+						<input id="name" type="text" name="name" placeholder="Your name"/>
+					</p>
+					<p>
+						<input id="email" type="email" name="email" placeholder="Your email"/>
+					</p>
+					<p>
+						<button class="btn btn-primary" type="submit">Sign Up</button>
+					</p>
+				</form>
+			</div>
+		</section>

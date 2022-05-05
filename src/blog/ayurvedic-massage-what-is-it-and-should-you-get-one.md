@@ -1,6 +1,6 @@
 ---
 title: "Ayurvedic Massage: What Is It and Should You Get One?"
-eleventyExcludeFromCollections: true
+eleventyExcludeFromCollections: false
 mySlug: ayurvedic-massage
 description: Discover the benefits of an Ayurvedic Massage, how it works, and
   how to find the right massage therapist. Plus tips to prep your first visit.
@@ -10,13 +10,28 @@ tags:
 image: /assets/blog/ayurvedic-massage-top.jpg
 imageAlt: woman performing ayurvedic massage
 ---
+
 Ayurvedic massages restore health and balance. They are more personal and in-depth than other massage techniques.
 
 In this post, you'll learn what they are and how they compare to other types of massages. We'll also give you helpful tips to prepare for your first Ayurvedic massage experience.
 
 Let's dive in.
 
-## What Is an Ayurvedic Massage?
+<div class="toc">
+<h4 class="toc__title">Table of Content</h4>
+<ul class="list-style-none">
+<li><a href="#what-is">What Is an Ayurvedic Massage?</a></li>
+<li><a href="#vs">Ayurvedic Massage vs Regular Massage</a></li>
+<li><a href="#types">Different Types of Ayurvedic Massages</a></li>
+<li><a href="#benefits">The Health Benefits of Ayurvedic Massage</a></li>
+<li><a href="#tips">Tips for the Best Ayurvedic Massage</a></li>
+<li><a href="#other-principles">Ayurveda Principles to Live By</a></li>
+</ul>
+</div>
+
+<img class="img-fw" src="/assets/blog/ayurvedic-back-massage.jpg" alt="ayurvedic back massage">
+
+<h2 id="what-is">What Is an Ayurvedic Massage?</h2>
 
 Ayurveda is a 5000-year-old holistic healing system. It uses natural therapies like massage, herbs, and yoga to restore balance in the body.
 
@@ -24,19 +39,23 @@ Ayurveda believes a body in balance is a body that's healthy and free from disea
 
 Massage is one way Ayurveda restores and nurtures that balance. Yoga and diet would are other methods it uses.
 
-When Ayurveda speaks of *balance*, it refers to the three *doshas:* Vata, Pitta, and Kapha. Dosha is a Sanskrit word that translates to "defect" and refers to the body's energy centers:
+When Ayurveda speaks of _balance_, it refers to <a href="https://www.webmd.com/balance/what-is-ayurveda" target="_blank" rel="noopener noreferrer">the three _doshas_</a>: Vata, Pitta, and Kapha. Dosha is a Sanskrit word that translates to "defect" and refers to the body's energy centers:
 
-* Vata represents the energy of movement
-* Pitta represents the energy of transformation
-* Kapha represents the energy of structure and stability
+- Vata represents the energy of movement
+- Pitta represents the energy of transformation
+- Kapha represents the energy of structure and stability
+<figure>
+<img class="img-fw" src="/assets/blog/ayurvedic-oil.jpg" alt="ayurvedic massage oil">
+<figcaption>Most ayurvedic massages use oil</figcaption>
+</figure>
 
-## Ayurvedic Massage vs Regular Massage
+<h2 id="vs">Ayurvedic Massage vs Regular Massage</h2>
 
 An ayurvedic massage is different from other types of massage.
 
 It caters to the individual's ayurvedic constitution.
 
-When you go for your first ayurvedic massage, you will have to fill out a questionnaire. Questions about your habits and health. The therapist may also ask you follow-up questions before starting the therapy.
+When you go for your first ayurvedic massage, you will have to fill out a questionnaire about your habits and health. The therapist may also ask you follow-up questions before starting the therapy.
 
 The therapist will then choose techniques and essential oils that are beneficial for your dosha.
 
@@ -44,37 +63,44 @@ Information gathering is an important part of the ayurvedic massage process. It 
 
 You don't get this level of detail and attention when going for a regular massage.
 
-A Swedish masseuse, for example, may ask you if something hurts and if you'd like to focus on a specific area of the body. Then she gets to work.
+A <a href="https://www.healthdirect.gov.au/swedish-massage" target="_blank" rel="noopener noreferrer">Swedish masseur</a>, for example, may ask you if your body hurts and if you'd like them to focus on a specific area. Then he gets to work.
 
 The Ayurveda therapist will ask about your diet, sleep, bowels, and emotions. And only then will they decide how to massage you.
 
-## Different types of ayurvedic massages
+<img class="img-fw" src="/assets/blog/ayurvedic-massage-front.jpg" alt="ayurvedic body massage">
+
+<h2 id="types">Different Types of Ayurvedic Massages</h2>
 
 There are a variety of ayurvedic massages, each with its own unique benefits.
 
-* Abhyanga is the most popular Ayurvedic massage. It is an oil massage known for its ability to improve circulation and lymphatic drainage.
-* Shirodhara focuses on the head, neck, and shoulders. It uses a steady stream of warm oil to relax the mind and relieve stress.
-* Sukha is a dry massage. The therapist applies powders or herbs to the skin and does not use any oils.
+- Abhyanga is the most popular Ayurvedic massage. It is an oil massage known for its ability to improve circulation and lymphatic drainage.
+- Shirodhara focuses on the head, neck, and shoulders. It uses a steady stream of warm oil to relax the mind and relieve stress.
+- Sukha is a dry massage. The therapist applies powders or herbs to the skin and does not use any oils.
 
 Ayurvedic massage comes in many forms: oil-based body massages, dry massages, and specialized massages that focus on certain parts of the body (such as the feet).
 
-## The health benefits of ayurvedic massage
+<figure>
+<img class="img-fw" src="/assets/blog/ayurvedic-self-massage.jpg" alt="ayurveda self massage">
+<figcaption>Ayurvedic self-massage</figcaption>
+</figure>
+
+<h2 id="benefits">The Health Benefits of Ayurvedic Massage</h2>
 
 Many people turn to ayurvedic massage for its soothing and relaxing effects.
 
 Ayurvedic massages can also help to:
 
-* relieve stress
-* improve circulation
-* boost the immune system
-* detoxify the body
-* improve digestion
-* reduce inflammation
-* ease pain and stiffness
+- relieve stress
+- improve circulation
+- boost the immune system
+- detoxify the body
+- improve digestion
+- reduce inflammation
+- ease pain and stiffness
 
 While there is some scientific evidence to support the benefits of ayurvedic massage, more research is needed to confirm all claims.
 
-## Tips for the best ayurvedic massage
+<h2 id="tips">Tips for the Best Ayurvedic Massage</h2>
 
 ### How to choose a therapist?
 
@@ -104,13 +130,15 @@ Most people find that 1 to 2 massages per month are effective for general relaxa
 
 Avoid getting a massage if you are experiencing digestion problems, during periods, and if you are sick or pregnant.
 
-## 5. Ayurveda principles to live by
+<img class="img-fw" src="/assets/blog/ayurvedic-practices.jpg" alt="meditation is another ayurvedic practice">
+
+<h2 id="other-principles">Ayurveda Principles to Live By</h2>
 
 Massage is one of many ways Ayurveda helps us live a healthy and balanced life.
 
-Here are other strategies you can use daily to balance your doshas and improve your health.
+Here are other strategies you can incorporate into your <a href="https://www.ayurveda.com/the-daily-routine/" target="_blank" rel="noopener noreferrer">daily routine</a> to balance your doshas and improve your health.
 
-### Eat Fresh Foods
+### 1. Eat Fresh Foods
 
 Seasonal fruits and vegetables are a key part of Ayurveda.
 
@@ -118,7 +146,7 @@ The philosophy behind Ayurveda is that you must eat fresh, seasonal foods to sta
 
 Oily-junk food is bad for you because it is heavy and difficult to digest.
 
-### Move
+### 2. Move
 
 Besides eating fresh, seasonal foods, Ayurveda also recommends staying active.
 
@@ -126,13 +154,13 @@ This can be as simple as taking a walk instead of getting in the car or doing so
 
 Being active promotes circulation and helps keep your body balanced and healthy.
 
-### Meditate
+### 3. Meditate
 
 Ayurveda is a philosophy that believes in the importance of taking care of our body, mind, soul, and spirit. This includes regular meditation. Meditation is an easy way to connect with our inner selves and promote balance and well-being.
 
 Start with 10 minutes of guided meditation per day. Increase the duration over time.
 
-### Drink Warm Water
+### 4. Drink Warm Water
 
 Before you eat your morning breakfast, drink a glass of warm water. This will help to stimulate your digestive system and get your metabolism going for the day.
 
@@ -140,7 +168,7 @@ Warm water also helps to flush out toxins and improve circulation.
 
 Drink at least eight glasses of water per day for optimal health.
 
-**Watch Your Poo**
+### 5. Watch Your Poo
 
 Ayurveda has a strong belief in the importance of healthy elimination.
 

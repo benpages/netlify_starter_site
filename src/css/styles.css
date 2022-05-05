@@ -23,6 +23,12 @@ html {
 	box-sizing: inherit;
 }
 
+@media (prefers-reduced-motion: no-preference) {
+	:root {
+		scroll-behavior: smooth;
+	}
+}
+
 body,
 h1,
 h2,
@@ -41,6 +47,10 @@ figure {
 img {
 	max-width: 100%;
 	height: auto;
+}
+
+figure {
+	margin-bottom: 1rem;
 }
 
 /* Typography */
@@ -229,10 +239,19 @@ textarea {
 	text-align: center;
 }
 
-.well {
+.well,
+.toc {
 	padding: 1rem 0.5rem;
 	background-color: rgba(var(--clr-light-gray-rgb), 0.5);
 	border: 1px solid var(--clr-gray);
+}
+.toc {
+	padding: 1rem 1.5rem;
+	margin-bottom: 1.5rem;
+}
+
+.toc__title {
+	font-weight: bold;
 }
 
 /* Buttons and links */
