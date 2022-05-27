@@ -206,7 +206,7 @@ textarea {
 }
 
 .hero__title a {
-	color: white;
+	/* color: white; */
 }
 
 .hero__title a:hover,
@@ -256,6 +256,11 @@ textarea {
 
 .toc__title {
 	font-weight: bold;
+}
+
+.toc ul {
+	list-style: none;
+	padding-left: 0;
 }
 
 /* Buttons and links */

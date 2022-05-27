@@ -6,7 +6,7 @@ permalink: css/dynamic.css
 {%- set latest = collections.post | last -%}
 
 .section--hero {
-	{# background-color: rgba(var(--clr-black-rgb), 0.9); #}
+	background-color: rgba(var(--clr-black-rgb), 0.9);
 	background-image: url("{{ latest.data.image }}");
 	background-blend-mode: multiply;
 	padding-top: 6em;
