@@ -44,11 +44,12 @@ A pound of body fat represents approximately <a href="https://www.healthline.com
 
 This means a 180 lb individual with 15% body fat would burn up to 486 calories in a week, 97 calories in 45 minutes, or 21.5 calories every 10 minutes.
 
+These numbers assume you're jumping in the sauna 3 to 5 times per week for at least half an hour.
+
 <figure>
 <img class="img-fw" src="/assets/blog/calories-burned-sauna.jpg" alt="table showing the number of calories one burns sitting in the sauna for 10 minutes">
 <figcaption>Calories you burn in a sauna during 10 minutes (very appox.)</figcaption>
 </figure>
-These numbers assume you're jumping in the sauna 3 to 5 times per week for at least half an hour.
 
 <h2 id="factors">Biggest Factors That Affect Your Burn Rate</h2>
 
