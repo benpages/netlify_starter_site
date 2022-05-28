@@ -226,7 +226,7 @@ textarea {
 }
 
 .hero__form {
-	max-width: 25vw;
+	width: 100%;
 }
 
 .newsletter-signup {
@@ -447,9 +447,7 @@ nav a:focus {
 		padding-left: calc((100vw - 1140px) / 2 + 2em);
 		padding-right: calc((100vw - 1140px) / 2 + 2em);
 	}
-	.site-brand {
-		/* grid-column: 2 / 3; */
-	}
+
 	nav {
 		all: unset;
 		/* grid-column: 3 / 4; */
@@ -471,20 +469,14 @@ nav a:focus {
 
 .article-snippet {
 	display: grid;
-	grid-template-columns: 1fr 1fr;
-	gap: 1rem;
-	margin-bottom: 1.5rem;
+	grid-template-columns: 1fr;
+	gap: 0.25rem;
+	margin-bottom: 2em;
 }
 
 .article-snippet h4 {
 	margin: 0;
 	font-size: 1.25rem;
-}
-
-.article-snippet img {
-	height: 100%;
-	object-fit: cover;
-	stroke: black;
 }
 
 .section--hero {
@@ -527,5 +519,18 @@ nav a:focus {
 
 	.section--hero .column-right {
 		display: flex;
+	}
+
+	.article-snippet {
+		grid-template-columns: 1fr 1fr;
+	}
+
+	.article-snippet img {
+		height: 100%;
+		object-fit: cover;
+	}
+	.article-snippet {
+		gap: 1rem;
+		margin-bottom: 1.5em;
 	}
 }
