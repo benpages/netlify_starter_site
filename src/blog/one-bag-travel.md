@@ -22,8 +22,7 @@ Let's jump right in and look at the benefits of one bag travel.
 </figure>
 
 <div class="toc">
-    <p><strong>Want to Breeze Through This Post? </strong></p>
-    <p>Here’s are some quick links that’ll take you further down the post.</p>
+    <h4 class="toc__title">Want to Breeze Through This Post?</h4>
     <ul>
         <li><a href="#why-one-bag">Why One Bag Travel?</a></li>
         <li><a href="#backpack-considerations">Backpack Considerations</a></li>

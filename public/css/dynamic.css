@@ -1,0 +1,10 @@
+.section--hero {
+	background-color: rgba(var(--clr-black-rgb), 0.9);
+	background-image: url("/assets/blog/burning-calories-sauna.jpg");
+	background-blend-mode: multiply;
+	padding-top: 6em;
+	padding-bottom: 6em;
+	background-size: cover;
+	margin-top: 0;
+	background-position:center;
+}

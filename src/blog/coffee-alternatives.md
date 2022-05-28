@@ -1,21 +1,23 @@
 ---
-tags: ["featured", "post"]
 title: 10 Healthy Coffee Alternatives for Energy
-date: 2022-04-22
-description: "Looking for a HEALTHY Coffee Alternative? Check Out These Delicious and Energizing Options: Golden Milk, Matcha, Chai, Chicory, Mushroom Coffee..."
-image: /assets/blog/coffee-alternatives.jpg
-imageAlt: spiritual woman doing breathing exercises
 mySlug: coffee-alternatives
-eleventyExcludeFromCollections: true
+description: "Looking for a HEALTHY Coffee Alternative? Check Out These
+  Delicious and Energizing Options: Golden Milk, Matcha, Chicory, Mushroom
+  Coffee, & More."
+date: 2022-04-29T09:00:00.000Z
+tags:
+  - post
+image: /assets/blog/coffee-alternatives.jpg
+imageAlt: woman in sweater drinking a coffee alternative
+eleventyExcludeFromCollections: false
 ---
-
 <img class="img-fw" src="/assets/blog/coffee-alternatives.jpg" alt="best coffee alternatives for energy">
 
-In this article, you will discover 10 healthy coffee alternatives, caffeinated and non-caffeinated.
+In this article, you will discover 10 healthy coffee alternatives, both caffeinated and non-caffeinated.
 
 You may be wondering: "How can I get energy without coffee?". You'll discover that coffee isn't the only beverage you can have in the morning to wake up.
 
-In fact, many people find coffee too acidic, too caffeinated, or just ustnot their style. Here's what they drink instead:
+In fact, many people find coffee too acidic, too caffeinated, or just not their style. Here's what they drink instead:
 
 ## **1. Matcha**
 
@@ -55,7 +57,7 @@ Like coffee, Yerba mate improves mental focus, increases physical energy, and en
 
 It contains theobromine and theophylline, which help smooth out the effects of caffeine. In other words, you shouldn't experience the infamous caffeine crash after drinking Yerba.
 
-The traditional way to drik yerba is to use a gourd and a metallic straw called a bombilla.
+The traditional way to drink yerba is to use a gourd and a metallic straw called a bombilla.
 
 <img class="img-fw" src="/assets/blog/yerba.jpg" alt="drink yerba matte instead of coffee">
 
@@ -73,7 +75,7 @@ To brew green tea, start by boiling water in a pot or kettle. Remove the water f
 
 Time to make the tea. Use one teaspoon of leaves for every 5 ounces of tea you want to brew.
 
-Place the green tea leaves in a tea filter and into your tea pot or teacup. Pour the water over the leaves and let them steep for 2 to 3 minutes, depending on how intense of a flavor you want.
+Place the green tea leaves in a tea filter and into your teapot or teacup. Pour the water over the leaves and let them steep for 2 to 3 minutes, depending on how intense of a flavor you want.
 
 Once the tea has finished steeping, remove the leaves, and set them aside. Don't throw them out. You can use them again for your next batch of tea.
 
@@ -127,10 +129,10 @@ Chicory coffee is instant. You mix it with hot water, stir it for a few seconds,
 
 Turmeric Latte (also known as Golden Milk) is a popular drink in India. It contains:
 
-- Turmeric: a natural anti-inflammatory and antioxidant
-- Ginger: helps digestion
-- Black pepper: helps the absorption of curcumin, the active ingredient in turmeric
-- Cinnamon
+* Turmeric: a natural anti-inflammatory and antioxidant
+* Ginger: helps digestion
+* Black pepper: helps the absorption of curcumin, the active ingredient in turmeric
+* Cinnamon
 
 Turmeric latte is caffeine-free which means you can enjoy it at any time of day.
 
@@ -138,10 +140,10 @@ Golden milk improves brain function, skin health, and blood circulation.
 
 To make a turmeric latte, simmer 1 cup of your favorite milk with:
 
-- 1 teaspoon of turmeric
-- 1/4 teaspoon of black pepper
-- 1/2 teaspoon of ginger
-- a cinnamon stick.
+* 1 teaspoon of turmeric
+* 1/4 teaspoon of black pepper
+* 1/2 teaspoon of ginger
+* a cinnamon stick.
 
 Once the milk heats through, strain the spices out and enjoy.
 
@@ -180,16 +182,27 @@ Plus, it tastes great and is refreshing first thing in the morning.
 If you feel adventurous, here are additions worth trying:
 
 1. **Drink it warm.** Drinking cold water can actually shock your system and cause indigestion. Warm water can help to improve digestion, prevent constipation, and clear out the respiratory system.
-1. **Make it a cocktail.** Try adding the following ingredients:
+2. **Make it a cocktail.** Try adding the following ingredients:
 
-- Himalayan sea salt: It helps you recover the electrolytes you've lost during the night.
-- Apple cider vinegar (ACV): ACV improves the taste of the mixture. And drinking it every day also[ ](https://www.webmd.com/diet/apple-cider-vinegar-and-your-health)[may have health benefits](https://www.webmd.com/diet/apple-cider-vinegar-and-your-health).
+* Himalayan sea salt: It helps you recover the electrolytes you've lost during the night.
+* Apple cider vinegar (ACV): ACV improves the taste of the mixture. And drinking it every day also[ ](https://www.webmd.com/diet/apple-cider-vinegar-and-your-health)[may have health benefits](https://www.webmd.com/diet/apple-cider-vinegar-and-your-health).
 
 <img class="img-fw" src="/assets/blog/lemon-water.jpg" alt="lemon water instead of coffee for energy">
 
 ## **10. Ginger Tea**
 
-[TK]
+Ginger tea is a great choice for anyone looking for an easy way to improve their health and boost their immune system. It is a non-caffeinated beverage you can drink instead of coffee at any time of day.
+
+Ginger tea has many health benefits. It calms the stomach and may also help reduce nausea, lower cholesterol levels, fight cancer, and aid in muscle recovery.
+
+To make ginger tea:
+
+1. Start by peeling about an inch of fresh ginger root and slicing it into thin pieces
+2. Bring a pot of water to a boil and add the ginger slices
+3. Reduce the heat and let the ginger simmer for about 5-10 minutes
+4. Strain the liquid and enjoy!
+
+Ginger is a strong-tasting spice. You may need time to get used to it. You can add milk or honey to taste.
 
 <img class="img-fw" src="/assets/blog/ginger-tea.jpg" alt="ginger tea is a coffee alternative">
 
