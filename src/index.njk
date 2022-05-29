@@ -4,49 +4,58 @@ layout: "base.njk"
 ---
 
 <section class="section--hero">
-	<div class="container-lg">
-		{%- for post in collections.post | reverse -%}
-			{% if loop.index0 < 1 %}
-				{% include 'hero.njk' %}
-				{% endif%}
-			{%- endfor -%}
-		</div>
-	</section>
+  <div class="column-left">
+    <h2 class="hero__title">
+				Live your best life.
+			</h2>
+    <p class="hero__lead h4">Sign up to receive new lifestyle tips and hacks in your inbox each month.</p>
+    <form class="hero__form" name="newsletter" method="POST" data-netlify="true">
 
-	<section>
-		<div class="container-sm">
-			<h2 class"section-title">Recent Posts</h2>
-			<ul class="list-style-none">
+      <input id="email" type="email" name="email" placeholder="Your email"/>
 
-				{%- for post in collections.post | reverse -%}
-					{% if loop.index0 < 5 %}
-						{% include 'article-snippet.njk' %}
-						{% endif%}
-					{%- endfor -%}
-					<li style="text-align:right;">
+      <button class="btn btn-primary" type="submit">Sign Up</button>
 
-						<a class="btn btn-pimrary" href="/blog">... see all</a>
+    </form>
+  </div>
+  <div class="column-right">
+    <img src="/assets/ben-transparent.png" alt="author ben pages smiling" class="hero__img">
+  </div>
+</section>
 
-					</li>
-				</ul>
-			</div>
-		</section>
+<section>
+  <div class="container-sm">
+    <h2 class"section-title">Recent Posts</h2>
+    <ul class="list-style-none">
 
-		<section>
-			<div class="container-sm newsletter-signup">
-				<h2 class="section-title">Newsletter</h2>
-				<p>Enter your name and email address to join the newsletter. You'll receive
+      {%- for post in collections.post | reverse -%}
+        {% if loop.index0 < 5 %}
+          {% include 'article-snippet.njk' %}
+          {% endif%}
+        {%- endfor -%}
+        <li style="text-align:right;">
+
+          <a class="btn" href="/blog">👉 see all 👀</a>
+
+        </li>
+      </ul>
+    </div>
+  </section>
+
+  <section>
+    <div class="container-sm newsletter-signup">
+      <h2 class="section-title">Newsletter</h2>
+      <p>Enter your name and email address to join the newsletter. You'll receive
   new posts, exclusive content, and much more.</p>
-				<form name="newsletter" method="POST" data-netlify="true">
-					<p>
-						<input id="name" type="text" name="name" placeholder="Your name"/>
-					</p>
-					<p>
-						<input id="email" type="email" name="email" placeholder="Your email"/>
-					</p>
-					<p>
-						<button class="btn btn-primary" type="submit">Sign Up</button>
-					</p>
-				</form>
-			</div>
-		</section>
+      <form name="newsletter" method="POST" data-netlify="true">
+        <p>
+          <input id="name" type="text" name="name" placeholder="Your name"/>
+        </p>
+        <p>
+          <input id="email" type="email" name="email" placeholder="Your email"/>
+        </p>
+        <p>
+          <button class="btn btn-primary" type="submit">Sign Up</button>
+        </p>
+      </form>
+    </div>
+  </section>
