@@ -386,8 +386,8 @@ nav a:focus {
 		display: flex;
 		justify-content: space-between;
 		height: 120px;
-		padding-left: calc((100vw - 1140px) / 2 + 2em);
-		padding-right: calc((100vw - 1140px) / 2 + 2em);
+		padding-left: max(calc((100vw - 1140px) / 2 + 2em), 3rem);
+		padding-right: max(calc((100vw - 1140px) / 2 + 2em), 3rem);
 	}
 
 	nav {
@@ -504,7 +504,7 @@ textarea {
 	grid-template-columns: 1fr;
 	padding-left: calc((100vw - 1140px) / 2);
 	padding-right: calc((100vw - 1140px) / 2);
-	min-height: 80vh;
+	min-height: min(70vh, 700px);
 	background-color: var(--clr-secondary);
 	align-items: center;
 }
@@ -561,9 +561,16 @@ textarea {
 	padding: 0.6em 0.75em;
 }
 
+@media screen and (min-width: 1092px) {
+	.hero__title {
+		font-size: 4.2rem;
+	}
+}
+
 @media screen and (min-width: 768px) {
 	.section--hero {
 		grid-template-columns: 1fr 1fr;
+		min-height: min(80vh, 700px);
 	}
 
 	.section--hero .column-right {
@@ -574,15 +581,34 @@ textarea {
 	}
 
 	.hero__title {
-		font-size: 4.209rem;
+		font-size: 2.6rem;
 	}
+	.hero__lead {
+		font-size: 1.39rem;
+	}
+}
 
+@media screen and (min-width: 944px) {
+	.hero__title {
+		font-size: 3.4rem;
+	}
 	.hero__form {
 		flex-direction: row;
+		white-space: nowrap;
 	}
 	.hero__form input {
-		width: 300px;
+		width: 250px;
 		margin-bottom: 0;
 		margin-right: 0.5em;
+	}
+
+	.hero__form input {
+		width: 300px;
+	}
+}
+
+@media screen and (min-width: 1094px) {
+	.hero__title {
+		font-size: 4.209rem;
 	}
 }
