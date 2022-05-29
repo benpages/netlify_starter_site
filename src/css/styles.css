@@ -389,18 +389,6 @@ nav a:focus {
 	}
 }
 
-.article-snippet {
-	display: grid;
-	grid-template-columns: 1fr;
-	gap: 0.25rem;
-	margin-bottom: 2em;
-}
-
-.article-snippet h4 {
-	margin: 0;
-	font-size: 1.25rem;
-}
-
 /* Components */
 
 section {
@@ -422,6 +410,33 @@ textarea {
 textarea {
 	aspect-ratio: 3/1;
 	resize: none;
+}
+
+.article-snippet {
+	display: grid;
+	grid-template-columns: 1fr;
+	gap: 0.25rem;
+	margin-bottom: 2em;
+}
+
+.article-snippet h4 {
+	margin: 0;
+	font-size: 1.25rem;
+}
+
+@media screen and (min-width: 768px) {
+	.article-snippet {
+		grid-template-columns: 1fr 1fr;
+	}
+
+	.article-snippet img {
+		height: 100%;
+		object-fit: cover;
+	}
+	.article-snippet {
+		gap: 1rem;
+		margin-bottom: 1.5em;
+	}
 }
 
 .newsletter-signup {
@@ -480,7 +495,6 @@ textarea {
 	flex-direction: column;
 	justify-content: center;
 	align-items: flex-start;
-	text-align: center;
 	padding: 3rem;
 }
 
@@ -488,9 +502,10 @@ textarea {
 	position: relative;
 	display: none;
 	height: 100%;
+	overflow: auto;
 }
 
-.section--hero img {
+.hero__img {
 	position: absolute;
 	bottom: 0;
 	height: 550px;
@@ -501,9 +516,13 @@ textarea {
 
 .hero__title {
 	color: white;
-	font-size: 4.209rem;
+	font-size: 2.5rem;
 	margin-bottom: 1.5rem;
 	margin-top: 0;
+}
+
+.hero__lead {
+	margin-bottom: 2rem;
 }
 
 .hero__form {
@@ -515,10 +534,12 @@ textarea {
 .hero__form input {
 	width: 100%;
 	padding: 0.5em 0.75em;
+	margin-bottom: 1rem;
 }
 
 .hero__form button {
 	margin: 0;
+	padding: 0.6em 0.75em;
 }
 
 @media screen and (min-width: 768px) {
@@ -533,17 +554,8 @@ textarea {
 		text-align: inherit;
 	}
 
-	.article-snippet {
-		grid-template-columns: 1fr 1fr;
-	}
-
-	.article-snippet img {
-		height: 100%;
-		object-fit: cover;
-	}
-	.article-snippet {
-		gap: 1rem;
-		margin-bottom: 1.5em;
+	.hero__title {
+		font-size: 4.209rem;
 	}
 
 	.hero__form {
@@ -551,5 +563,7 @@ textarea {
 	}
 	.hero__form input {
 		width: 300px;
+		margin-bottom: 0;
+		margin-right: 0.5em;
 	}
 }
