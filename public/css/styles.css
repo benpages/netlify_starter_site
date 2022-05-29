@@ -53,7 +53,7 @@ img + p {
 
 body {
 	font-family: var(--font-mono);
-	font-weight: 300;
+	font-weight: 400;
 	color: var(--clr-black);
 	letter-spacing: 0.3px;
 	line-height: 1.65;
@@ -72,7 +72,7 @@ p {
 }
 
 strong {
-	font-weight: 500;
+	font-weight: 700;
 }
 
 h1,
@@ -82,7 +82,7 @@ h4,
 h5 {
 	font-family: var(--font-mono);
 	line-height: 1.2;
-	font-weight: 300;
+	font-weight: 400;
 	margin-top: 1em;
 	margin-bottom: 1em;
 }
@@ -91,7 +91,7 @@ h1,
 h1.content,
 .h1 {
 	margin-top: 0;
-	font-size: 3.052rem;
+	font-size: 2.074rem;
 	word-spacing: -0.125em;
 	letter-spacing: -1.5px;
 	text-align: center;
@@ -99,19 +99,38 @@ h1.content,
 
 h2,
 .h2 {
-	font-size: 2.441rem;
+	font-size: 1.728rem;
 	font-weight: 700;
 	word-spacing: -0.25em;
 }
 
 h3,
 .h3 {
-	font-size: 1.953rem;
+	font-size: 1.44rem;
 }
 
 h4,
 .h4 {
-	font-size: 1.563rem;
+	font-size: 1.2rem;
+}
+
+@media screen and (min-width: 768px) {
+	h1,
+	.h1 {
+		font-size: 3.052rem;
+	}
+	h2,
+	.h2 {
+		font-size: 2.441rem;
+	}
+	h3,
+	.h3 {
+		font-size: 1.953rem;
+	}
+	h4,
+	.h4 {
+		font-size: 1.563rem;
+	}
 }
 
 figcaption {
@@ -207,11 +226,11 @@ a:focus {
 	color: white;
 	background-color: var(--clr-primary);
 	border: 1px solid var(--clr-primary);
-	font-weight: 300;
+	font-weight: 400;
 }
 
 .btn-primary a {
-	font-weight: 300;
+	font-weight: 400;
 	color: white;
 	text-decoration: none;
 }
