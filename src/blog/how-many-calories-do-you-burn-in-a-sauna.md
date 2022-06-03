@@ -5,8 +5,8 @@ mySlug: calories-in-a-sauna
 description: Want to find out how many calories you burn sitting in a sauna? Use
   our simple calculator to estimate your burn rate. Based on scientific
   evidence.
-image: /assets/blog/burning-calories-sauna.jpg
-imageAlt: woman preparing to burn calories in a sauna
+image: /assets/blog/finnish-sauna.jpg
+imageAlt: a traditional finnish sauna
 date: 2022-05-27T13:25:29.346Z
 tags:
   - post
@@ -117,7 +117,7 @@ In comparison, the same person would burn about <a href="https://www.researchgat
 
 So is the sauna a good way to burn calories? The answer is no. If your goal is to lose weight, you're better off going for a walk or jog than sitting in a sauna.
 
-<img class="img-fw" src="/assets/blog/infrared-sauna.jpg" alt="woman view from back sitting in an infrared sauna">
+<img class="img-fw" src="/assets/blog/finnish-sauna.jpg" alt="a traditional finnish sauna to burn calories">
 
 <h2 id="tips-sauna">Tips to Burn Calories in a Sauna Effectively and Safely</h2>
 

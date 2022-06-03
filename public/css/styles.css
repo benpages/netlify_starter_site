@@ -26,6 +26,10 @@ html {
 	box-sizing: inherit;
 }
 
+figure {
+	margin: 0;
+}
+
 body,
 h1,
 h2,

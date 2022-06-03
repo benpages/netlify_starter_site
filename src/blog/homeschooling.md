@@ -5,14 +5,14 @@ mySlug: homeschooling
 description: Wondering if homeschooling is right for you? This guide will help
   you get started, figure out the best curriculum for your family & overcome
   misconceptions.
-image: /assets/blog/homeschooling.jpg
+image: /assets/blog/girl-homeschooling.jpg
 imageAlt: mom homeschooling her daughter
 date: 2022-04-29T11:46:27.913Z
 tags:
   - post
 ---
 
-<img class="img-fw" src="/assets/blog/homeschooling.jpg" alt="mother homeschooling daughter">
+<img class="img-fw" src="/assets/blog/girl-homeschooling.jpg" alt="happy homeschooled girl">
 
 Millions of parents have started homeschooling their children in recent years. For good reason.
 
@@ -114,23 +114,23 @@ Here are a few tips to help you make homeschooling work for your family:
 
 Here are a few of the most common misconceptions about homeschooling:
 
-### **1. Homeschooling is only for children who are struggling in school**
+### 1. Homeschooling is only for children who are struggling in school
 
 This is not true. Homeschooling can be a great option for any child, whether they're struggling in school or not. Every child is different, so each family has to decide what's best for their child.
 
-### **2. Homeschooling takes too much time**
+### 2. Homeschooling takes too much time
 
 Homeschooling does take some time and effort, but it doesn't have to be all-consuming. There are many ways to homeschool. You are free to create a curriculum that fits your family schedule.
 
-### **3. Homeschooling is too expensive**
+### 3. Homeschooling is too expensive
 
 Homeschooling does involve some expenses. But it does not have to be more expensive than other educational options. There are many [affordable resources and materials](https://www.parents.com/kids/education/home-schooling/the-best-homeschooling-resources-online/) available that can help you get started with homeschooling on a budget.
 
-### **4. Homeschooled children miss out on social opportunities**
+### 4. Homeschooled children miss out on social opportunities
 
 Homeschooled children may not have the same opportunities to make friends as their peers who attend traditional schools. But there are other ways for homeschooled children to connect with other kids. They can develop social skills through extracurricular activities and local events.
 
-### **5. Homeschooling means giving up your career**
+### 5. Homeschooling means giving up your career
 
 Homeschooling doesn't mean giving up your career. You can homeschool part-time or even full-time while still working. With some planning and flexibility, you can make it work for your family.
 

@@ -7,10 +7,11 @@ description: "Looking for a HEALTHY Coffee Alternative? Check Out These
 date: 2022-04-29T09:00:00.000Z
 tags:
   - post
-image: /assets/blog/coffee-alternatives.jpg
-imageAlt: woman in sweater drinking a coffee alternative
+image: /assets/blog/coffee-cup.jpg
+imageAlt: a cup of coffee alternative
 eleventyExcludeFromCollections: false
 ---
+
 <img class="img-fw" src="/assets/blog/coffee-alternatives.jpg" alt="best coffee alternatives for energy">
 
 In this article, you will discover 10 healthy coffee alternatives, both caffeinated and non-caffeinated.
@@ -129,10 +130,10 @@ Chicory coffee is instant. You mix it with hot water, stir it for a few seconds,
 
 Turmeric Latte (also known as Golden Milk) is a popular drink in India. It contains:
 
-* Turmeric: a natural anti-inflammatory and antioxidant
-* Ginger: helps digestion
-* Black pepper: helps the absorption of curcumin, the active ingredient in turmeric
-* Cinnamon
+- Turmeric: a natural anti-inflammatory and antioxidant
+- Ginger: helps digestion
+- Black pepper: helps the absorption of curcumin, the active ingredient in turmeric
+- Cinnamon
 
 Turmeric latte is caffeine-free which means you can enjoy it at any time of day.
 
@@ -140,10 +141,10 @@ Golden milk improves brain function, skin health, and blood circulation.
 
 To make a turmeric latte, simmer 1 cup of your favorite milk with:
 
-* 1 teaspoon of turmeric
-* 1/4 teaspoon of black pepper
-* 1/2 teaspoon of ginger
-* a cinnamon stick.
+- 1 teaspoon of turmeric
+- 1/4 teaspoon of black pepper
+- 1/2 teaspoon of ginger
+- a cinnamon stick.
 
 Once the milk heats through, strain the spices out and enjoy.
 
@@ -184,8 +185,8 @@ If you feel adventurous, here are additions worth trying:
 1. **Drink it warm.** Drinking cold water can actually shock your system and cause indigestion. Warm water can help to improve digestion, prevent constipation, and clear out the respiratory system.
 2. **Make it a cocktail.** Try adding the following ingredients:
 
-* Himalayan sea salt: It helps you recover the electrolytes you've lost during the night.
-* Apple cider vinegar (ACV): ACV improves the taste of the mixture. And drinking it every day also[ ](https://www.webmd.com/diet/apple-cider-vinegar-and-your-health)[may have health benefits](https://www.webmd.com/diet/apple-cider-vinegar-and-your-health).
+- Himalayan sea salt: It helps you recover the electrolytes you've lost during the night.
+- Apple cider vinegar (ACV): ACV improves the taste of the mixture. And drinking it every day also[ ](https://www.webmd.com/diet/apple-cider-vinegar-and-your-health)[may have health benefits](https://www.webmd.com/diet/apple-cider-vinegar-and-your-health).
 
 <img class="img-fw" src="/assets/blog/lemon-water.jpg" alt="lemon water instead of coffee for energy">
 
