@@ -209,7 +209,9 @@ ol {
 
 @media screen and (min-width: 576px) {
 	.content {
-		padding: 3.5rem;
+		padding-top: 2rem;
+		padding-left: 3.5rem;
+		padding-right: 3.5rem;
 	}
 }
 
@@ -269,7 +271,7 @@ a:focus {
 
 .footer {
 	text-align: center;
-	padding: 1em 0;
+	padding: 3em 0;
 	font-size: 0.8em;
 }
 
