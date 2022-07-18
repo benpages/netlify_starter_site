@@ -61,7 +61,6 @@ body {
 	color: var(--clr-black);
 	letter-spacing: 0.3px;
 	line-height: 1.65;
-	background: var(--clr-light-gray);
 }
 
 .content p,
@@ -206,8 +205,6 @@ ol {
 
 .content {
 	padding: 2rem 1rem;
-	background-color: white;
-	border: 1px solid var(--clr-gray);
 }
 
 @media screen and (min-width: 576px) {
