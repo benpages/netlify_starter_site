@@ -26,6 +26,10 @@ html {
 	box-sizing: inherit;
 }
 
+figure {
+	margin: 1em 0 1em 0;
+}
+
 body,
 h1,
 h2,
@@ -57,7 +61,6 @@ body {
 	color: var(--clr-black);
 	letter-spacing: 0.3px;
 	line-height: 1.65;
-	background: var(--clr-light-gray);
 }
 
 .content p,
@@ -85,6 +88,24 @@ h5 {
 	font-weight: 400;
 	margin-top: 1em;
 	margin-bottom: 1em;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+.h1,
+.h2,
+.h3,
+.h4,
+.h5,
+button,
+input,
+footer,
+label,
+.toc {
+	text-transform: lowercase;
 }
 
 h1,
@@ -184,13 +205,13 @@ ol {
 
 .content {
 	padding: 2rem 1rem;
-	background-color: white;
-	border: 1px solid var(--clr-gray);
 }
 
 @media screen and (min-width: 576px) {
 	.content {
-		padding: 3.5rem;
+		padding-top: 2rem;
+		padding-left: 3.5rem;
+		padding-right: 3.5rem;
 	}
 }
 
@@ -250,7 +271,7 @@ a:focus {
 
 .footer {
 	text-align: center;
-	padding: 1em 0;
+	padding: 3em 0;
 	font-size: 0.8em;
 }
 
@@ -305,6 +326,8 @@ header {
 .site-brand {
 	margin: 0;
 	padding: 0;
+	display: flex;
+	align-items: center;
 }
 
 .site-brand a {
@@ -318,19 +341,7 @@ header {
 }
 
 .site-logo {
-	position: relative;
-	min-width: 60px;
-	min-height: 20px;
-	border-right: 1px solid black;
-}
-
-.site-logo svg {
-	position: absolute;
-	top: 50%;
-	-webkit-transform: translateY(-50%);
-	-ms-transform: translateY(-50%);
-	transform: translateY(-50%);
-	left: 0;
+	margin-right: 1rem;
 }
 
 nav {

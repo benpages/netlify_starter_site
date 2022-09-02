@@ -7,8 +7,8 @@ description: Discover the benefits of an Ayurvedic Massage, how it works, and
 date: 2022-05-05T09:38:42.761Z
 tags:
   - post
-image: /assets/blog/ayurvedic-massage-top.jpg
-imageAlt: woman performing ayurvedic massage
+image: /assets/blog/ayurvedic-oil.jpg
+imageAlt: ayurvedic massage oil dripping in masseuse's hand
 ---
 
 Ayurvedic massages restore health and balance. They are more personal and in-depth than other massage techniques.

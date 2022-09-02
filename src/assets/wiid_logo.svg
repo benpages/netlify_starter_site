@@ -1,36 +1,11 @@
-<!DOCTYPE html>
-<html lang="en">
-	<head>
-		<meta charset="UTF-8"/>
-		<meta http-equiv="X-UA-Compatible" content="IE=edge"/>
-		<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-		<title>Blog - whatifididnt</title>
-		
-		<link rel="preconnect" href="https://fonts.googleapis.com">
-		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-		<link href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,300;0,400;0,700;1,300&family=Roboto+Mono:wght@300;400;700&display=swap" rel="stylesheet">
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
 
-		
-		<link rel="stylesheet" href="/css/normalize.css"/>
-		<link rel="stylesheet" href="/css/styles.css"/>
-		
-		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-		
-		<script
-			defer
-			src="https://identity.netlify.com/v1/netlify-identity-widget.js"
-		></script>
-	</head>
-	<body>
-		<header>
-
-  <p class="site-brand">
-    <svg
+<svg
    version="1.1"
    id="svg292"
-   width="100"
-   height="5100"
-   class="site-logo"
+   width="500"
+   height="500"
    viewBox="0 0 500 500"
    sodipodi:docname="wiid_logo.png"
    inkscape:version="1.1.2 (b8e25be8, 2022-02-05)"
@@ -39,10 +14,9 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
-      <a href="/">
-        <defs
-     id="defs296"/>
-        <sodipodi:namedview
+  <defs
+     id="defs296" />
+  <sodipodi:namedview
      id="namedview294"
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -59,12 +33,12 @@
      inkscape:window-x="0"
      inkscape:window-y="25"
      inkscape:window-maximized="0"
-     inkscape:current-layer="g298"/>
-        <g
+     inkscape:current-layer="g298" />
+  <g
      inkscape:groupmode="layer"
      inkscape:label="Image"
      id="g298">
-          <image
+    <image
        width="500"
        height="500"
        preserveAspectRatio="none"
@@ -527,195 +501,6 @@ OgAAAAMQ6AAAAAxAoAMAADAAgQ4AAMAABDoAAAADEOgAAAAMQKADAAAwAIEOAADAAAQ6AAAAAxDo
 AAAADECgAwAAMACBDgAAwAAEOgAAAAMQ6AAAAAxAoAMAADAAgQ4AAMAABDoAAAAD/j8oxLVQhdB1
 lAAAAABJRU5ErkJggg==
 "
-       id="image300"/>
-        </g>
-      </a>
-    </svg>
-    
-  </p>
-
-  <input type="checkbox" class="nav-toggle" id="nav-toggle">
-
-  <nav class="nav">
-    <ul class="nav__menu">
-      <li class="nav__item">
-        <a href="/blog">all posts</a>
-      </li>
-      <li class="nav__item">
-        <a href="/about">about</a>
-      </li>
-      <li class="nav__item">
-        <a href="/contact">contact</a>
-      </li>
-    </ul>
-  </nav>
-
-  <label for="nav-toggle" class="nav-toggle-label">
-    <span></span>
-  </label>
-
-</header>
-		<main>
-			<div class="content">
-  <h1>Blog</h1>
-  <ul class="list-style-none"><li class="article-snippet">
-  <a href="/blog/iphone-dumb-phone/">
-    <img src="/assets/blog/dumb-iphone-before-after.jpg" alt="how to turn iphone into dumb phone">
-  </a>
-  <article>
-    <h4 class="h5">
-      <a href="/blog/iphone-dumb-phone/">Turn Your iPhone Into a Dumb Phone: The Simple Guide (2022)</a>
-    </h4>
-    
-    
-    
-  </article>
-</li><li class="article-snippet">
-  <a href="/blog/calories-in-a-sauna/">
-    <img src="/assets/blog/finnish-sauna.jpg" alt="a traditional finnish sauna">
-  </a>
-  <article>
-    <h4 class="h5">
-      <a href="/blog/calories-in-a-sauna/">How Many Calories Do You Burn in a Sauna? (2022 Guide)</a>
-    </h4>
-    
-    
-    
-  </article>
-</li><li class="article-snippet">
-  <a href="/blog/ayurvedic-massage/">
-    <img src="/assets/blog/ayurvedic-oil.jpg" alt="ayurvedic massage oil dripping in masseuse&#39;s hand">
-  </a>
-  <article>
-    <h4 class="h5">
-      <a href="/blog/ayurvedic-massage/">Ayurvedic Massage: What Is It and Should You Get One?</a>
-    </h4>
-    
-    
-    
-  </article>
-</li><li class="article-snippet">
-  <a href="/blog/homeschooling/">
-    <img src="/assets/blog/girl-homeschooling.jpg" alt="mom homeschooling her daughter">
-  </a>
-  <article>
-    <h4 class="h5">
-      <a href="/blog/homeschooling/">Homeschooling: How to Get Started and Make it Work for Your Family</a>
-    </h4>
-    
-    
-    
-  </article>
-</li><li class="article-snippet">
-  <a href="/blog/coffee-alternatives/">
-    <img src="/assets/blog/coffee-cup.jpg" alt="a cup of coffee alternative">
-  </a>
-  <article>
-    <h4 class="h5">
-      <a href="/blog/coffee-alternatives/">10 Healthy Coffee Alternatives for Energy</a>
-    </h4>
-    
-    
-    
-  </article>
-</li><li class="article-snippet">
-  <a href="/blog/one-bag-travel/">
-    <img src="/assets/blog/one-bag-travel.jpg" alt="One bag travel guide">
-  </a>
-  <article>
-    <h4 class="h5">
-      <a href="/blog/one-bag-travel/">The Ultimate Guide to One Bag Travel</a>
-    </h4>
-    
-    
-    
-  </article>
-</li><li class="article-snippet">
-  <a href="/blog/procrastination/">
-    <img src="/assets/blog/end-procrastination-journal.jpg" alt="journal with text &quot;Let&#39;s Get Started&quot;">
-  </a>
-  <article>
-    <h4 class="h5">
-      <a href="/blog/procrastination/">How to Train Yourself to Stop Procrastinating (20-Minute Practice)</a>
-    </h4>
-    
-    
-    
-  </article>
-</li><li class="article-snippet">
-  <a href="/blog/breathing-exercises/">
-    <img src="/assets/blog/woman-breathing.jpg" alt="spiritual woman doing breathing exercises">
-  </a>
-  <article>
-    <h4 class="h5">
-      <a href="/blog/breathing-exercises/">3 Breathing Exercices for Anxiety Relief</a>
-    </h4>
-    
-    
-    
-  </article>
-</li><li class="article-snippet">
-  <a href="/blog/morning-routine/">
-    <img src="/assets/blog/morning-routine.jpg" alt="woman starting her morning routine">
-  </a>
-  <article>
-    <h4 class="h5">
-      <a href="/blog/morning-routine/">Morning Routine to Be Productive and Win the Day</a>
-    </h4>
-    
-    
-    
-  </article>
-</li><li class="article-snippet">
-  <a href="/blog/toxic-job/">
-    <img src="/assets/blog/sri-lanka-backpacker.jpg" alt="backpacker escaping toxic job on a train">
-  </a>
-  <article>
-    <h4 class="h5">
-      <a href="/blog/toxic-job/">I Quit a Toxic Job. Here&#39;s What Happened Next.</a>
-    </h4>
-    
-    
-    
-  </article>
-</li></ul>
-  <br>
-  <div class="well text-center">
-    <p>
-      <strong>Want to request an article? Have a story to share?</strong>
-    </p>
-    <p>
-      💌 <a href="/contact">
-        <strong>Drop us a note</strong>
-      </a>
-    </p>
-  </div>
-</div>
-		</main>
-		<footer class="footer">
-	<div class="container-lg">
-		<div class="pre-footer">
-			<a href="/privacy-policy">Privacy Policy</a>
-		</div>
-		<div class="copyright">Ben Pages · © 2022
-		</div
-	</div>
-	</footer>
-
-		<script>
-			if (window.netlifyIdentity) {
-				window
-					.netlifyIdentity
-					.on("init", (user) => {
-						if (!user) {
-							window
-								.netlifyIdentity
-								.on("login", () => {
-									document.location.href = "/admin/";
-								});
-						}
-					});
-			}
-		</script>
-	</body>
-</html>
+       id="image300" />
+  </g>
+</svg>
