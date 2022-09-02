@@ -9,8 +9,8 @@
 	--clr-light-gray: #f7fafc;
 	--clr-light-gray-rgb: 247, 250, 252;
 	--clr-gray: #dae8f1;
-	--font-body: "Lato", sans-serif;
-	--font-mono: "Roboto mono", monospace;
+	--font-body: 'Lato', sans-serif;
+	--font-mono: 'Roboto mono', monospace;
 }
 
 /* CSS Reset */
@@ -311,7 +311,7 @@ header {
 
 .nav-toggle-label span::before,
 .nav-toggle-label span::after {
-	content: "";
+	content: '';
 	position: absolute;
 }
 
@@ -338,10 +338,6 @@ header {
 .site-brand a:hover,
 .site-brand a:focus {
 	text-decoration: none;
-}
-
-.site-logo {
-	margin-right: 1rem;
 }
 
 nav {
@@ -459,7 +455,11 @@ textarea {
 		grid-template-columns: 1fr 1fr;
 	}
 
-	.article-snippet img {
+	.article-img-wrapper {
+		display: flex;
+	}
+
+	.article-img {
 		height: 100%;
 		object-fit: cover;
 	}
