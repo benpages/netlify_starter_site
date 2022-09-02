@@ -1,21 +1,42 @@
 <!DOCTYPE html>
 <html lang="en">
 	<head>
-		<meta charset="UTF-8"/>
 		<meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+		<meta charset="UTF-8"/>
 		<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+		{# <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png"/>
+		<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png"/>
+		<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png"/>
+		<link rel="manifest" href="/site.webmanifest"/>
+		<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#fff"/>
+		<link rel="shortcut icon" href="/favicon.ico"/>
+		<meta name="apple-mobile-web-app-title" content="whatifididnt"/>
+		<meta name="application-name" content="whatifididnt"/> #}
+
 		<title>{{ title }}</title>
-		{# Fonts #}
+		<meta name="description" content="{{ description }}">
+
+		<meta name="twitter:site" content="@smply.ben"/>
+		<meta property="og:title" content="{{ title }}"/>
+		<meta property="og:type" content="article"/>
+		<meta property="og:url" content="{{ site.url }}{{ page.url | url }}"/>
+		<meta property="og:description" content="{{ description }}"/>
+		<meta property="og:image" content="{% if image %}{{ image }}{% else %}{%- for post in collections.post | reverse -%}{% if loop.index0 < 1 %}{{ post.data.image }}{% endif%}{%- endfor -%}{% endif %}"/>
+		<meta property="og:locale" content="en_US"/>
+		<meta property="og:site_name" content="whatifididnt"/>
+		<link rel="canonical" href="{{ site.url }}{{ page.url | url }}">
+		<meta name="robots" content="index, follow">
+		<meta name="twitter:card" content="summary_large_image"/>
+		<meta name="twitter:image" content="{% if image %}{{ image }}{% else %}{%- for post in collections.post | reverse -%}{% if loop.index0 < 1 %}{{ post.data.image }}{% endif%}{%- endfor -%}{% endif %}"/>
+		<meta name="twitter:creator" content="@smply.ben"/>
+		<link rel="stylesheet" href="/css/normalize.css"/>
+		<link rel="stylesheet" href="/css/styles.css"/>
+		<!-- Google fonts -->
 		<link rel="preconnect" href="https://fonts.googleapis.com">
 		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 		<link href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,300;0,400;0,700;1,300&family=Roboto+Mono:wght@300;400;700&display=swap" rel="stylesheet">
-
-		{# Stylesheets #}
-		<link rel="stylesheet" href="/css/normalize.css"/>
-		<link rel="stylesheet" href="/css/styles.css"/>
-		{# Font  Awesome #}
 		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-		{# Netlify #}
+		<!-- Netlify -->
 		<script
 			defer
 			src="https://identity.netlify.com/v1/netlify-identity-widget.js"
