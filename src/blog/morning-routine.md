@@ -1,27 +1,30 @@
 ---
-title: Morning Routine to Be Productive and Win the Day
-date: 2019-05-14
-description: The way you spend the first 60 minutes of your day can have a dramatic impact on the unfolding of the remaining 23 hours. Try out this morning routine for 9 consecutive days  .
+title: Minimalist Morning Routine
+date: 2022-10-29
+description: In this post, you'll discover a minimalist morning routine with 9 rituals that will help you prime your mind to live with strong intentions.
 image: /assets/blog/morning-routine.jpg
-imageAlt: woman starting her morning routine
-mySlug: morning-routine
+imageAlt: woman starting her minimalist morning routine
+mySlug: minimalist-morning-routine
 ---
 
-The way you spend the first 60 minutes of your day can have a dramatic impact on the unfolding of the remaining 23 hours. Having a well-established routine is a key differentiator between people who react to and those who design life.
+A minimalist morning routine is...
 
-If morning routines are a new concept to you, I will guess with 99% confidence that this morning, you grabbed your phone before you even had eaten breakfast. You probably checked your messages, caught up on the news, and/or checked in to see what your friends had been up to on social media... Fair assumption?
+Agree? Let's dive in.
 
-The best morning routines are about intentionally preparing your body and mind for the day ahead. They're about protecting your focus and feeding your brain with empowering emotions that will ripple throughout the day.
+<div class="toc">
+    <h4 class="toc__title">Table of content</h4>
+    <ul>
+      <li><a href="#get-up">Get Up</a></li>
+      <li><a href="#make-bed">Make Your Bed </a></li>
+      <li><a href="#move">Move</a></li>
+      <li><a href="#hydrate">Hydrate</a></li>
+      <li><a href="#journal">Journal</a></li>
+      <li><a href="#breathe">Breathe</a></li>
+      <li><a href="#cold-plunge">Cold Plunge</a></li>
+    </ul>
+</div>
 
-Over the years, I've experimented with different morning routines from high-profile celebrities like Tony Robbins, Tim Ferriss, and Will Smith. Consequently, I noticed there are 7 elements that make up the morning routines of successful people.
-
-I've compiled those 7 elements into one sample morning routine checklist. The order in which you tackle each item is not important. The order outlined below has been the most practical for me personally, but feel free to experiment and come up with your own sequence.
-
-If you're looking to maximize your gains of energy and brainpower, include as many of these as possible into your own routine.
-
-Try out these 7-morning routine rituals for 9 consecutive days to get a full experience of the energetic and mental benefits.
-
-## 1\. Get Up
+<h2 id="get-up">1. Get Up</h2>
 
 As soon as your alarm rings, literally, SNAP OUT of bed.
 
@@ -31,7 +34,7 @@ Practicing exploding out of bed regardless of circumstances is a powerful practi
 
 Luckily, there is a simple technique you can use every day to never have to press the snooze button again. In an[ episode of Impact Theory](https://www.youtube.com/watch?v=2Lz0VOltZKA&t=88s), Mel Robbins explains how using a mental 5-second countdown has transformed her life and productivity. This simple brain hack short-circuits the mind so that distracting thoughts such as "why don't I bury my head under the pillow for another 15 minutes?" never get a chance to emerge.
 
-## 2\. Make Your Bed
+<h2 id="make-bed">2. Make Your Bed</h2>
 
 Big achievements are preceded by humbler ones. That's the idea behind the concept of momentum. Start small, finish big.
 
@@ -39,7 +42,7 @@ We want to achieve a small victory each day as early in the morning as possible 
 
 [Check out this commencement speech](https://www.youtube.com/watch?v=U6OoCaGsz94) by Admiral William McRaven.
 
-## 3\. Move
+<h2 id="move">3. Move</h2>
 
 Working out in the morning is an enormous habit to adopt. We all know it's good for us and we praise the well-accomplished early birds that welcome the sun in their sneakers. Yet, we can't seem to ever find the motivation or discipline to get started ourselves.
 
@@ -73,7 +76,7 @@ So pick a number between 1 and 10 of reps you'd be willing to complete every day
 
 Just 10, then you're done! DO NOT allow yourself to cross your bedroom door without first having completed this step.
 
-## 4\. Hydrate
+<h2 id="hydrate">4. Hydrate</h2>
 
 During the night, we lose a lot of water through sweat and breathing. This water contains lots of minerals that are essential to the proper functioning of our bodies. Therefore, as part of our morning routine, we're going to chug a simple concoction that will take care of replenishing our blood, brain, and organs.
 
@@ -84,7 +87,7 @@ In a mason jar or large glass, stir together:
 - 1/2-1 fresh squeezed lemon (strengthens the immune system)
 - 0.5-1L (15-30 oz) filtered water (for hydration, duh!)
 
-## 5\. Journal
+<h2 id="journal">5. Journal</h2>
 
 While drinking the morning cocktail, we're going to answer two questions in a few bullet points on paper. This short exercise trains our brain to focus on positive things, which in turn is likely to help us become better at spotting opportunities and grow a sense of appreciation throughout the day.
 
@@ -106,7 +109,7 @@ Those could be events, encounters, achievements, coincidences, etc.
 - Today would be a great day if I went to the gym
 - Today would be a great day if I talked to a friend I haven't heard from in a few months
 
-## 6\. Breathe
+<h2 id="breathe">6. Breathe</h2>
 
 Breathing is probably the most undervalued source of energy we have access to. A few minutes of intentional breathing will purge the majority of toxins that have accumulated in our bodies.
 
@@ -118,7 +121,7 @@ After you've completed 3 sets of 30, gently get out of the chair and stretch.
 
 [Here's Tony Robbins guiding the practice](https://youtu.be/yJ8TTMfhIfo?t=56m26s).
 
-## 7\. Cold Plunge
+<h2 id="cold-plunge">7. Cold Plunge</h2>
 
 Cold has been the greatest source of health in my life, and if I had to choose only one habit to keep for the rest of my life, it would be cold showers, hands down.
 
