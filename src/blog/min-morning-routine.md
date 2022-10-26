@@ -2,54 +2,63 @@
 title: 'Minimalist Morning Routine: The Definitive Guide (2022)'
 date: 2022-10-29
 description: In this post, you'll discover a minimalist minimalist morning routine with 9 rituals that will help you prime your mind to live with strong intentions.
-image: /assets/blog/morning-routine.jpg
-imageAlt: woman starting her minimalist minimalist morning routine
+image: /assets/blog/minimalist-morning-routine.jpg
+imageAlt:
 mySlug: minimalist-morning-routine
 ---
 
-In this post, you'll discover 10 minimalist morning routine rituals to start your day with. Use this morning routine to prepare yourself for a day of calm, focus, and positive energy.
+In this post, you'll discover 10 minimalist morning routine rituals to start your day with. This routine will set you up for a day of calm, focus, and positive energy.
 
-In fact, this routine is an updated version of a morning routine I taught on Udemy to nearly 12,000 students.
+In fact, this routine is an adaptation of a morning routine I taught to nearly 12,000 students on <a href="https://www.udemy.com/course/morning-routine-for-energy-and-performance/" rel="nofollow">Udemy</a>.</p>
 
-Let's dive in.
+Let's dive right in.
 
-<!--
 <div class="toc">
     <h4 class="toc__title">Table of content</h4>
     <ul>
-      <li><a href="#">Item</a></li>
-      <li><a href="#">Item</a></li>
-      <li><a href="#">Item</a></li>
-      <li><a href="#">Item</a></li>
-      <li><a href="#">Item</a></li>
-      <li><a href="#">Item</a></li>
-      <li><a href="#">Item</a></li>
-      <li><a href="#">Item</a></li>
+      <li><a href="#what-is-a-minimalist-morning-routine">What is a minimalist morning routine?</a></li>
+      <li><a href="#10-minimalist-morning-rituals-for-your-routine">10 minimalist morning rituals for your routine</a></li>
+        <ul>
+          <li><a href="#scrape-your-tongue-and-brush-your-teeth">Scrape your tongue and brush your teeth</a></li>
+          <li><a href="#drink-a-large-glass-of-water">Drink a large glass of water</a></li>
+          <li><a href="#make-your-bed">Make Your Bed</a></li>
+          <li><a href="#move">Move</a></li>
+          <li><a href="#get-direct-sunlight">Get direct sunlight</a></li>
+          <li><a href="#meditate">Meditate</a></li>
+          <li><a href="#practice-gratitude">Practice gratitude</a></li>
+          <li><a href="#journal">Journal</a></li>
+          <li><a href="#set-intentions">Set intentions</a></li>
+          <li><a href="#groom">Groom</a></li>
+        </ul>
+      <li><a href="#why-is-a-morning-routine-important">Why is a morning routine important?</a></li>
     </ul>
 </div>
--->
 
-<h2>What is a <em>minimalist</em> morning routine?</h2>
+<h2 id="what-is-a-minimalist-morning-routine">What is a <em>minimalist</em> morning routine?</h2>
 
-What makes a morning routine minimalist? It's its ability to prepare you to live the day ahead with intention and clarity.
+What makes a morning routine minimalist? It is its ability to prepare you to live the day ahead with intention and clarity.
 
-A great minimalist morning routine should prepare you to make choices that bring you joy and create possibility. It's a routine that will ground you in your values and will help you distinguish signal from noise throughout the day.
+A great minimalist morning routine should prepare you to make choices that will bring joy and create possibility in your day. It's a routine that will ground you in your values and will help you distinguish signal from noise throughout the day.
 
 Down below, you'll discover 10 rituals that make up a morning routine. Pick and choose what works for you.
 
-As a minimalist, look at each individual ritual in your morning routine and ask: "Does this bring me value? Does this bring me joy?". If the answer is no, eliminate it.
+As a minimalist, I encourage you to experiment with each individual habit and ask: "Does this bring me value? Does this bring me joy?". If the answer is no, eliminate it.
 
-<h2 id="">10 minimalist morning rituals for your routine</h2>
+<img class="img-fw" src="/assets/blog/minimalist-morning-routine.jpg" alt="a minimalist morning routine starting with books">
 
-<h3 id="">Scrape your tongue and brush your teeth</h3>
+<h2 id="10-minimalist-morning-rituals-for-your-routine">10 minimalist morning rituals for your routine</h2>
 
-Start you day with oral care. That's right, before breakfast (study). Doing so will prevent baceteria accumulated on your teeth and tongue to fall back into the digestive tract.
+<h3 id="scrape-your-tongue-and-brush-your-teeth">Scrape your tongue and brush your teeth</h3>
+
+Start you day with oral care. Yes, <a href="https://www.healthline.com/health/should-you-brush-your-teeth-before-or-after-breakfast">before breakfast</a>. Doing so will protect your enamel and prevent bacteria accumulated on your teeth and tongue to fall back into your digestive tract.
 
 Use a tongue scraper to remove bacteria from your tongue, then brush your teeth. You an also pull with coconut oil while you proceed with the rest of your routine.
 
 Worried about bad breath? Flossing and flushing your mouth with water or a fluroide solution after breakfast will help get rid of food residue between your teeth and keep a clean mouth.
 
-<h3 id="">Drink a big glass of water</h3>
+<img class="img-fw" src="/assets/blog/morning-routine-oral-care.jpg" alt="a toothbrush during a minimalist morning routine">
+
+<h3 id="drink-a-large-glass-of-water">Drink a large glass of water</h3>
 
 Your body sheds water at night through sweating and breathing.
 
@@ -59,9 +68,9 @@ You can also add electrolytes and vitamins to your water.
 
 My favorite morning cocktail has a tablespoon of apple cider vinegar and a pinch of himalayan sea salt in it. Sometimes, I'll throw in a bit of honey, ginger, and turmeric as well and drink it warm.
 
-<h3 id="">Make Your Bed</h3>
+<h3 id="make-your-bed">Make Your Bed</h3>
 
-Making your bed is a simple yet effective way to prime your brain for achievement. It's going to give you a small dose of dopamine [TK] whose effects are going to ripple throughout your day.
+Making your bed is a simple yet effective way to prime your brain for achievement. It's going to give you a small dose of dopamine. Its effects are going to ripple throughout your day.
 
 If you work from home, you'll also be giving your mind a tidy and organized environment to operate in.
 
@@ -69,7 +78,7 @@ Big achievements are often preceded by humbler ones. By making your bed, you're 
 
 And if your day doens't go well, you'll at least have the satisfaction of coming home to a bed well made.
 
-<h3 id="">Move</h3>
+<h3 id="move">Move</h3>
 
 Energize your body and get your blood flowing with a bit of exercise.
 
@@ -82,7 +91,9 @@ Depending on the amount of time you have and your level of fitness, consider the
 - **Bodyweight exercises:** a dozen of jump and jacks, squats, pushups, crunches or burpees should do the trick.
 - **Cardio:** if you have the time, go out for a brisk walk, a jog, or go up and down the staircase a few times.
 
-<h3 id="">Get direct sunlight</h3>
+<img class="img-fw" src="/assets/blog/morning-routine-stretching.jpg" alt="a minimalist stretching as part of ah her morning routine">
+
+<h3 id="get-direct-sunlight">Get direct sunlight</h3>
 
 Ever heard of the circadian rhythm? It's your body's clock. And it's regulated in big part by light.
 
@@ -106,7 +117,7 @@ Do not wear sunglasses as these will block the light and prevent it from working
 </div>
 </div>
 
-<h3 id="">Meditate</h3>
+<h3 id="meditate">Meditate</h3>
 
 As minimalists, we want to be able to make conscious decisions throughout the day and not react to negative or impulsive thoughts.
 
@@ -116,7 +127,9 @@ Meditation is a difficult practice. A guided practice like Sam Harriss' Waking U
 
 If you haven't had much success with meditation, try breathing exercises instead. They have the similar - though not as profound - effect of grounding and pausing your stream of thoughts.
 
-<h3 id="">Practice gratitude</h3>
+<img class="img-fw" src="/assets/blog/morning-routine-meditation.jpg" alt="A statue of buddha and a roll of sage">
+
+<h3 id="practice-gratitude">Practice gratitude</h3>
 
 Gratitude is a powerful emotion. You can't be angry (or sad or anxious) and grateful at the same time.
 
@@ -130,7 +143,7 @@ Take 2 minutes each morning to give thanks for things you have—healthy family 
 
 To intensify the feeling, you can practice "negative visualization", a practice introduced by the stoics. Simplpy imagine what it's like to live without a bed, food, or someone you care about.
 
-<h3 id="">Journal</h3>
+<h3 id="journal">Journal</h3>
 
 Use journaling to offload mental clutter and capture your most creative thoughts.
 
@@ -150,7 +163,7 @@ Ask something of your subconscious the night before, like "should I take the job
 
 First thing when you wake up, pull out your journal and write down all the thoughts about the issue that come to mind.
 
-<div class="well">
+<div class="well mb-3">
 <div class="container-sm">
   <h4>🕶️ Pro tip: Journal pre-input</h4>
   <p>Access your deepest, most creative thoughts pre-input. External stimuli like the news, the weather, or social media updates clutter your mind and make it difficult to retrieve ideas and concepts your subconscious distiled during the night.</p>
@@ -158,7 +171,9 @@ First thing when you wake up, pull out your journal and write down all the thoug
   </div>
 </div>
 
-<h3 id="">Set intentions</h3>
+<img class="img-fw" src="/assets/blog/morning-routine-journaling.jpg" alt="a notebook that serves for the minimalist morning routine journaling">
+
+<h3 id="set-intentions">Set intentions</h3>
 
 Conclude your journal entry with your intentions for the day. Write down what you plan on accomplishing, but also how you plan on showing up as a person.
 
@@ -166,7 +181,7 @@ This is a great time to remind and keep yourself accountable for your values as 
 
 At the end of your day, you have the possibility to look back at your intentions and evaluate how well you've done. And if you fell short, use that insight to shape the next day's morning routine.
 
-<h3 id="">Groom</h3>
+<h3 id="groom">Groom</h3>
 
 Do you feel different when you go about your day looking sharp as a tack than when you run out the door wearing your "I woke up like this" look?
 
@@ -180,7 +195,7 @@ Cold exposure has been proven to improve mood, boost your immune system, and tra
 
 Breathe deeply and resist the urge to step out of the stream.
 
-<h2>Why is a morning routine important?</h2>
+<h2 id="why-is-a-morning-routine-important">Why is a morning routine important?</h2>
 
 The way you spend the first 60 minutes of your day can have a dramatic impact on the unfolding of the remaining 23 hours. Having a well-established routine is a key differentiator between people who react to and those who design life.
 

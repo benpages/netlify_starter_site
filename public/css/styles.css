@@ -485,6 +485,7 @@ textarea {
 	padding: 1rem 0.5rem;
 	background-color: rgba(var(--clr-light-gray-rgb), 0.5);
 	border: 1px solid var(--clr-gray);
+	margin-bottom: 1em;
 }
 
 .toc {
@@ -494,11 +495,18 @@ textarea {
 
 .toc__title {
 	font-weight: bold;
+	margin-top: 1rem;
 }
 
 .toc ul {
 	list-style: none;
 	padding-left: 0;
+}
+
+.toc ul > ul {
+	list-style: circle;
+	padding-left: 2em;
+	margin-bottom: 0;
 }
 
 /* Helpers */
