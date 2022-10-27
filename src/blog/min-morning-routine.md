@@ -9,7 +9,9 @@ mySlug: minimalist-morning-routine
 
 In this post, you'll discover 10 minimalist morning routine rituals to start your day with. This routine will set you up for a day of calm, focus, and positive energy.
 
-In fact, this routine is an adaptation of a morning routine I taught to nearly 12,000 students on <a href="https://www.udemy.com/course/morning-routine-for-energy-and-performance/" rel="nofollow">Udemy</a>.</p>
+It is designed to reduce decision-making in the morning, enhance your thoughts and mood, and utilize your body's natural clock—the circadian rhythm—to optimize your energy levels.
+
+In fact, this is an adaptation of a morning routine I taught to nearly 12,000 students on <a href="https://www.udemy.com/course/morning-routine-for-energy-and-performance/" rel="noreferrer noopener nofollow">Udemy</a>.</p>
 
 Let's dive right in.
 
@@ -50,7 +52,7 @@ As a minimalist, I encourage you to experiment with each individual habit and as
 
 <h3 id="scrape-your-tongue-and-brush-your-teeth">Scrape your tongue and brush your teeth</h3>
 
-Start you day with oral care. Yes, <a href="https://www.healthline.com/health/should-you-brush-your-teeth-before-or-after-breakfast">before breakfast</a>. Doing so will protect your enamel and prevent bacteria accumulated on your teeth and tongue to fall back into your digestive tract.
+Start you day with oral care. Yes, <a href="https://www.healthline.com/health/should-you-brush-your-teeth-before-or-after-breakfast" rel="noreferrer noopener">before breakfast</a>. Doing so will protect your enamel and prevent bacteria accumulated on your teeth and tongue to fall back into your digestive tract.
 
 Use a tongue scraper to remove bacteria from your tongue, then brush your teeth. You an also pull with coconut oil while you proceed with the rest of your routine.
 
@@ -75,6 +77,8 @@ Making your bed is a simple yet effective way to prime your brain for achievemen
 If you work from home, you'll also be giving your mind a tidy and organized environment to operate in.
 
 Big achievements are often preceded by humbler ones. By making your bed, you're triggering the momentum that will lead you to conquer bigger tasks throughout the day.
+
+<blockquote>"If you want to change the world, start off by making your bed." - Admiral McRaven (<a href="https://www.youtube.com/watch?v=sBAqF00gBGk" rel="noreferrer noopener nofollow">full speech</a>)</blockquote>
 
 And if your day doens't go well, you'll at least have the satisfaction of coming home to a bed well made.
 
@@ -103,7 +107,7 @@ Exposing yourself to enough light in the morning is going trigger the release of
 
 If you feel like you can't start a day without coffee, it may very well be that you're not getting enough light early on in the day.
 
-Direct daylight is the most powerful source of light you can get.
+<blockquote>"Getting sunlight in your eyes first thing in the morning [...] is perhaps the most important thing that any and all of us can and should do in order to promote metabolic well-being, promote the positive function of your hormone system, get your mental health steering in the right direction." - Dr. Andrew Huberman, Ph.D.</blockquote>
 
 Light coming from a screen or through a window doesn't work as well, which is why you need to step outside, at least for a couple of minutes.
 
@@ -125,7 +129,7 @@ Meet meditation - a powerful way to quiet your mind and see through the negative
 
 Meditation is a difficult practice. A guided practice like Sam Harriss' Waking Up course is a great way to get started.
 
-If you haven't had much success with meditation, try breathing exercises instead. They have the similar - though not as profound - effect of grounding and pausing your stream of thoughts.
+If you haven't had much success with meditation, <a href="https://whatifididnt.com/blog/breathing-exercises/">try breathing exercises instead</a>. They have the similar - though not as profound - effect of grounding and pausing your stream of thoughts.
 
 <img class="img-fw" src="/assets/blog/morning-routine-meditation.jpg" alt="A statue of buddha and a roll of sage">
 
@@ -167,7 +171,7 @@ First thing when you wake up, pull out your journal and write down all the thoug
 <div class="container-sm">
   <h4>🕶️ Pro tip: Journal pre-input</h4>
   <p>Access your deepest, most creative thoughts pre-input. External stimuli like the news, the weather, or social media updates clutter your mind and make it difficult to retrieve ideas and concepts your subconscious distiled during the night.</p>
-  <p>So journal as early as in the morning as possible. Before you turn on your phone. Before you turn on the TV. Before you talk to anyone.</p>
+  <p>So journal as early as in the morning as possible. <a href="https://twitter.com/PompPodcast/status/1533114599981170688" rel="noreferrer noopener nofollow">Before you turn on your phone.</a> Before you turn on the TV. Before you talk to anyone.</p>
   </div>
 </div>
 
