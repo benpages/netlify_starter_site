@@ -209,12 +209,11 @@ ol {
 }
 
 .content {
-	padding: 2rem 1rem;
+	padding: 2em 1em 0em;
 }
 
 @media screen and (min-width: 576px) {
 	.content {
-		padding-top: 2rem;
 		padding-left: 3.5rem;
 		padding-right: 3.5rem;
 	}
@@ -242,7 +241,7 @@ a:focus {
 }
 
 .btn {
-	padding: 0.5em 1em;
+	padding: 0.75em 1.25em;
 	border-radius: 0.25em;
 	margin-top: 1rem;
 	margin-bottom: 1rem;
@@ -275,11 +274,43 @@ a:focus {
 /* Header and Footer */
 
 .footer {
-	text-align: center;
 	padding: 3em 0;
+	margin-top: 6em;
 	font-size: 0.8em;
+	background-color: var(--clr-light-gray);
+	border-top: 1px solid var(--clr-gray);
 }
 
+.pre-footer a {
+	color: var(--clr-black);
+}
+
+.pre-footer h4 {
+	margin-top: 0;
+}
+
+.pre-footer > *:not(:first-child) {
+	margin-top: 3em;
+}
+
+.pre-footer li {
+	margin-bottom: 0.75em;
+}
+
+@media screen and (min-width: 768px) {
+	.pre-footer {
+		display: flex;
+		gap: 3em;
+	}
+	.pre-footer > * {
+		flex: 1;
+		margin-top: 0 !important;
+	}
+}
+
+.copyright {
+	color: rgba(var(--clr-black-rgb), 0.5);
+}
 /* navigation  */
 
 header {
@@ -433,7 +464,7 @@ section {
 input,
 textarea {
 	width: 100%;
-	padding: 0.25em 0.5em;
+	padding: 0.75em 1.25em;
 	border-radius: 0.25em;
 	border: 1px solid var(--clr-gray);
 }
@@ -478,6 +509,19 @@ textarea {
 	background-color: white;
 	border: 1px solid var(--clr-gray);
 	padding: 1.75rem;
+}
+
+.flex-form {
+	display: flex;
+	gap: 0.25em;
+	align-items: center;
+}
+
+.flex-form input {
+}
+.flex-form button {
+	width: 30%;
+	min-width: 100px;
 }
 
 .well,

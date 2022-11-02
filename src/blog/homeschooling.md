@@ -1,5 +1,6 @@
 ---
-title: "Homeschooling: How to Get Started and Make it Work for Your Family"
+title: 'Homeschooling: How to Get Started and Make it Work for Your Family'
+titleShort: 'Get Started with Homeschooling'
 eleventyExcludeFromCollections: false
 mySlug: homeschooling
 description: Wondering if homeschooling is right for you? This guide will help
