@@ -13,6 +13,13 @@ module.exports = function (eleventyConfig) {
 		return DateTime.fromJSDate(dateObj).toLocaleString(DateTime.DATE_MED);
 	});
 
+	eleventyConfig.addFilter(
+		'excludeFromCollection',
+		(collection = [], pageUrl = this.ctx.page.url) => {
+			return collection.filter((post) => post.url !== pageUrl);
+		}
+	);
+
 	return {
 		dir: {
 			input: 'src',
