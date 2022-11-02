@@ -1,5 +1,6 @@
 ---
-title: "Turn Your iPhone Into a Dumb Phone: The Simple Guide (2022)"
+title: 'Turn Your iPhone Into a Dumb Phone: The Simple Guide (2022)'
+titleShort: 'Turn Your iPhone Into a Dumb Phone'
 eleventyExcludeFromCollections: false
 mySlug: iphone-dumb-phone
 description: Use these 5 steps to turn your iPhone into a dumb phone. 1. Delete

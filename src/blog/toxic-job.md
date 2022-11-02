@@ -1,5 +1,6 @@
 ---
 title: I Quit a Toxic Job. Here's What Happened Next.
+titleShort: I Quit a Toxic Job
 date: 2016-03-30
 description: After a year working out of a cubicle on the the 20th floor of a Chinese high-rise, it became clear to me my life needed change.
 image: /assets/blog/sri-lanka-backpacker.jpg
@@ -7,8 +8,7 @@ imageAlt: backpacker escaping toxic job on a train
 mySlug: toxic-job
 ---
 
-
-I've been voluntarily unemployed for 3 full months now.  What do I feel? I feel stillness, I feel peace, I feel aliveness.
+I've been voluntarily unemployed for 3 full months now. What do I feel? I feel stillness, I feel peace, I feel aliveness.
 
 My last job was inside a 30-people office on the 20th floor of a grey building in the Zhejiang province of China. After a year working in the import/export industry, it became clear to me my life needed change. I had let myself sunk into a whirlwind of negativity. I had fully destructed the spiritual sanity I had cultivated over the years and had submitted to a mechanical and disheartening lifestyle.
 
@@ -36,4 +36,4 @@ Psychologists explain that even a woman enduring conjugal violence is at cause f
 
 Although your mind will tell you otherwise, you have full control of your life situation. There are hundreds of limiting beliefs polluting your space every minute of every hour and they have you believe you can't have what you want. Observe these beliefs and realize they only exist in your head.
 
-__What do you want in this life? Do you have it? Why not?__
+**What do you want in this life? Do you have it? Why not?**

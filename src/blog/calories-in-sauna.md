@@ -1,5 +1,6 @@
 ---
-title: "How Many Calories Do You Burn in a Sauna? (2022 Guide)"
+title: 'How Many Calories Do You Burn in a Sauna? (2022 Guide)'
+titleShort: 'Calories Burnt in a Sauna'
 eleventyExcludeFromCollections: false
 mySlug: calories-in-a-sauna
 description: Want to find out how many calories you burn sitting in a sauna? Use

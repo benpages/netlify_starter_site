@@ -1,6 +1,7 @@
 ---
 title: The Ultimate Guide to One Bag Travel
-tags: ["post", "featured"]
+titleShort: One Bag Travel (Guide)
+tags: ['post', 'featured']
 date: 2022-01-12
 description: Learn how to pack for one bag travel. You’ll discover unique gear and hacks to ditch the suitcase, breeze through airports & travel freely.
 image: /assets/blog/one-bag-travel.jpg
