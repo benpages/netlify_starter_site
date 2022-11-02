@@ -242,7 +242,7 @@ a:focus {
 }
 
 .btn {
-	padding: 0.5em 1em;
+	padding: 0.75em 1.25em;
 	border-radius: 0.25em;
 	margin-top: 1rem;
 	margin-bottom: 1rem;
@@ -465,7 +465,7 @@ section {
 input,
 textarea {
 	width: 100%;
-	padding: 0.25em 0.5em;
+	padding: 0.75em 1.25em;
 	border-radius: 0.25em;
 	border: 1px solid var(--clr-gray);
 }
@@ -510,6 +510,19 @@ textarea {
 	background-color: white;
 	border: 1px solid var(--clr-gray);
 	padding: 1.75rem;
+}
+
+.flex-form {
+	display: flex;
+	gap: 0.25em;
+	align-items: center;
+}
+
+.flex-form input {
+}
+.flex-form button {
+	width: 30%;
+	min-width: 100px;
 }
 
 .well,
