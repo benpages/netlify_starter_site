@@ -8,7 +8,16 @@ layout: 'base.njk'
     {{ content | safe }}
 
   </article>
-  <section>
-    {% include 'newsletter.njk' %}
-  </section>
-</div>
+
+  <section class="read-next">
+    <h3>Read next</h3>
+    <ul class="list-style-none">
+      {%- set relatedPosts = collections.post | excludeFromCollection(page.url) -%}
+      {%- for post in relatedPosts | reverse -%}
+        {% if loop.index0 < 3 %}
+          {% include 'article-snippet.njk' %}
+          {% endif%}
+        {%- endfor -%}
+      </ul>
+    </section>
+  </div>
