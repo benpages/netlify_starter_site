@@ -552,6 +552,20 @@ textarea {
 	padding-left: 2em;
 	margin-bottom: 0;
 }
+.author-bio {
+	display: flex;
+	gap: 1em;
+	padding: 1.5em;
+	margin-top: 3em;
+}
+.author-bio p {
+	margin: 0;
+}
+
+.author-bio__img img {
+	max-width: 5em;
+	border-radius: 25em;
+}
 
 /* Helpers */
 
