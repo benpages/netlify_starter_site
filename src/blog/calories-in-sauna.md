@@ -3,9 +3,7 @@ title: 'How Many Calories Do You Burn in a Sauna? (2022 Guide)'
 titleShort: 'Calories Burnt in a Sauna'
 eleventyExcludeFromCollections: false
 mySlug: calories-in-a-sauna
-description: Want to find out how many calories you burn sitting in a sauna? Use
-  our simple calculator to estimate your burn rate. Based on scientific
-  evidence.
+description: A study out of Binghamton University found you lose up to 4% of body fat in 2 months with regular infrared sauna sessions.
 image: /assets/blog/finnish-sauna.jpg
 imageAlt: a traditional finnish sauna
 date: 2022-05-27T13:25:29.346Z
