@@ -366,6 +366,10 @@ header {
 	align-items: center;
 }
 
+.site-logo {
+	line-height: 0;
+}
+
 .site-brand a {
 	color: var(--clr-black);
 	text-decoration: none;
@@ -379,6 +383,7 @@ header {
 nav {
 	position: absolute;
 	text-align: center;
+	padding-top: 3em;
 	top: 100%;
 	left: 0;
 	background-color: rgba(var(--clr-light-gray-rgb), 0.97);
@@ -428,7 +433,7 @@ nav a:focus {
 	header {
 		display: flex;
 		justify-content: space-between;
-		height: 120px;
+		height: 100px;
 		padding-left: max(calc((100vw - 1140px) / 2 + 2em), 3rem);
 		padding-right: max(calc((100vw - 1140px) / 2 + 2em), 3rem);
 	}
