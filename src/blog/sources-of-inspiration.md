@@ -1,6 +1,6 @@
 ---
 title: '9 Sources of Inspiration for Daily Creative Output'
-titleShort: '10 Sources of Inspiration for Daily Creative Output'
+titleShort: '9 Sources of Inspiration'
 eleventyExcludeFromCollections: false
 mySlug: sources-of-inspiration
 description: These sources of inspiration will reignite your creative spark FAST. Take yourself out on a date. Journal. Call a creative friend. Listen to instrumental music.
@@ -28,7 +28,7 @@ Let's dive in.
       <li><a href="#learn-about-someone-successful">6. Learn more about someone you admire</a></li>
       <li><a href="#travel-to-another-city-or-country">7. Travel to another city or country</a></li>
       <li><a href="#call-a-creative-friend">8. Call a creative friend</a></li>
-      <li><a href="#journal">9. Jounral</a></li>
+      <li><a href="#journal">9. Journal</a></li>
     </ul>
 </div>
 <h2 id="go-for-a-walk">1. Go for a walk</h2>

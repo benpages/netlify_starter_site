@@ -1,7 +1,7 @@
 ---
 title: 'Homeschooling: How to Get Started and Make it Work for Your Family'
 titleShort: 'Get Started with Homeschooling'
-eleventyExcludeFromCollections: false
+eleventyExcludeFromCollections: true
 mySlug: homeschooling
 description: Wondering if homeschooling is right for you? This guide will help
   you get started, figure out the best curriculum for your family & overcome
