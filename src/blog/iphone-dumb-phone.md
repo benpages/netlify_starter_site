@@ -25,6 +25,10 @@ It can’t find directions. It doesn’t know Dave Chappelle’s birthday. And i
 
 In this tutorial, we’ll focus on the cleanest setup possible. We’re going back to first principles to show you how to turn your iPhone into the dumbest of all phones.
 
+In fact, if you're not wanting to break the bank on a <a href="https://www.thelightphone.com/products?ref=whatifididnt" target="_blank" rel="noopener noreferrer">Light Phone</a>, you're going to want to give this setup a try.
+
+Let's jump right in.
+
 ## How to Dumb Down an iPhone
 
 ### 1. Delete All Deletetable Apps
@@ -102,3 +106,10 @@ With a dumb phone, you’re not able to do most things that phones are designed 
 And that’s ok.
 
 What you’ll gain in exchange is the ability to think again. You’ll be more productive. You’ll feel less anxious. And you’ll be present with the people you love.
+
+<br>
+<small>
+<em style="color:rgba(var(--clr-black-rgb),0.8";>
+Full disclosure: if you purchase a product using one of our links, we may earn a small commission. This helps us keep the lights on and doesn't cost you a thing. Thanks for your support!
+</em>
+</small>
