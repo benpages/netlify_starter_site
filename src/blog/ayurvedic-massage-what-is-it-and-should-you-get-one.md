@@ -1,6 +1,6 @@
 ---
 title: 'Ayurvedic Massage: What Is It and Should You Get One?'
-titleShort: 'Guide to Ayurvedic Massages'
+titleShort: 'Should I get an ayurvedic massage?'
 eleventyExcludeFromCollections: false
 mySlug: ayurvedic-massage
 description: Discover the benefits of an Ayurvedic Massage, how it works, and

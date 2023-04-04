@@ -166,7 +166,7 @@ blockquote {
 }
 
 small {
-	font-size: 0.69em;
+	font-size: 0.825em;
 }
 
 p,
@@ -366,6 +366,10 @@ header {
 	align-items: center;
 }
 
+.site-logo {
+	line-height: 0;
+}
+
 .site-brand a {
 	color: var(--clr-black);
 	text-decoration: none;
@@ -379,6 +383,7 @@ header {
 nav {
 	position: absolute;
 	text-align: center;
+	padding-top: 3em;
 	top: 100%;
 	left: 0;
 	background-color: rgba(var(--clr-light-gray-rgb), 0.97);
@@ -428,7 +433,7 @@ nav a:focus {
 	header {
 		display: flex;
 		justify-content: space-between;
-		height: 120px;
+		height: 100px;
 		padding-left: max(calc((100vw - 1140px) / 2 + 2em), 3rem);
 		padding-right: max(calc((100vw - 1140px) / 2 + 2em), 3rem);
 	}
@@ -551,6 +556,20 @@ textarea {
 	list-style: circle;
 	padding-left: 2em;
 	margin-bottom: 0;
+}
+.author-bio {
+	display: flex;
+	gap: 1em;
+	padding: 1.5em;
+	margin-top: 3em;
+}
+.author-bio p {
+	margin: 0;
+}
+
+.author-bio__img img {
+	max-width: 5em;
+	border-radius: 25em;
 }
 
 /* Helpers */
