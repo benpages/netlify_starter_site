@@ -23,11 +23,6 @@
         </url>
     
         <url>
-            <loc>https://whatifididnt.com/about/</loc>
-            <lastmod>2022-04-28T20:54:34.405Z</lastmod>
-        </url>
-    
-        <url>
             <loc>https://whatifididnt.com/blog/</loc>
             <lastmod>2022-04-28T20:54:34.416Z</lastmod>
         </url>
@@ -85,6 +80,11 @@
         <url>
             <loc>https://whatifididnt.com/blog/life-without-technology/</loc>
             <lastmod>2023-02-23T00:00:00.000Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>https://whatifididnt.com/about/</loc>
+            <lastmod>2023-04-04T14:23:32.418Z</lastmod>
         </url>
     
 </urlset>
