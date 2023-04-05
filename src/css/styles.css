@@ -9,8 +9,8 @@
 	--clr-light-gray: #f7fafc;
 	--clr-light-gray-rgb: 247, 250, 252;
 	--clr-gray: #dae8f1;
-	--font-body: 'Lato', sans-serif;
-	--font-mono: 'Roboto mono', monospace;
+	--font-body: 'Lora', sans-serif;
+	--font-mono: 'Oswald', monospace;
 }
 
 /* CSS Reset */
@@ -59,7 +59,7 @@ body {
 	font-family: var(--font-mono);
 	font-weight: 400;
 	color: var(--clr-black);
-	letter-spacing: 0.3px;
+	/* letter-spacing: 0.3px; */
 	line-height: 1.65;
 }
 
@@ -113,8 +113,8 @@ h1.content,
 .h1 {
 	margin-top: 0;
 	font-size: 2.074rem;
-	word-spacing: -0.125em;
-	letter-spacing: -1.5px;
+	/* word-spacing: -0.125em;
+	letter-spacing: -1.5px; */
 	text-align: center;
 }
 
@@ -122,7 +122,7 @@ h2,
 .h2 {
 	font-size: 1.728rem;
 	font-weight: 700;
-	word-spacing: -0.25em;
+	/* word-spacing: -0.25em; */
 }
 
 h3,
