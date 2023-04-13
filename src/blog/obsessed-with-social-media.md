@@ -113,7 +113,7 @@ Make a list of 2 or things that you will do instead of browsing social media whe
 
 🕑 Dust off my guitar chops<br>
 🕑 Reach out to potential clients for my side hustle<br>
-🕑 Complete DIY projects around the house<br>
+🕑 Go for a walk with my dog
 
 Choose activities that are fun and motivate you. These shouldn't feel like things you "have to do" but something you "can't wait to do".
 
@@ -137,18 +137,30 @@ You may achieve your goal or not - it doesn’t matter. Just keep on setting the
 
 <h2 id="configure-your-notifications">5. Customize your notifications</h2>
 
-Removing notifications for social media apps can also be ineffective. If you’re obsessed with social media, notifications are feeding into your obsession and should be turned off. However, when you remove notifications, you may find yourself opening apps more often just to check if you missed something. And every time you open an app, you risk getting sucked in by the algorithm, realizing 30 minutes later that you’ve been mindlessly scrolling when you just wanted to check if your friend had responded to your DM.
+If you’re obsessed with social media, notifications are feeding into your obsession and should be turned off.
 
-These strategies don’t work in the long run. Instead, choose what notifications matter to you and disable others. Do you really need a notification every time somebody likes a post you made? Visit your app’s settings and disable all the notifications you don’t need. For example, on Instagram, go to Settings then Push Notifications.
+However, if you remove all notifications, you may find yourself opening apps more often because you'll want to check if you missed something.
 
-Lastly, spend time offline doing activities that make you feel alive, such as walking a dog in nature. You should strive to feel stimulated rather than bored.
+And every time you open an app, you risk getting sucked in - realizing 30 minutes later that you’ve been mindlessly scrolling, unable to remember why you picked up your phone in the first place.
+
+A better approach is to keep the notifications that matter to you and disable all others. (Do you really need a notification every time somebody likes a post you made?)
+
+Visit your app’s settings and disable all the notifications you don’t need. On Instagram, for example, go to Settings then Push Notifications.
 
 <h2 id="social-media-blockers">Are social media blockers effective?</h2>
 
-One might think that the key to overcoming social media obsession is to set hard boundaries. For instance, locking yourself out of social media apps after a certain amount of time or hiding their icons deep inside folders on your phone. However, these strategies grossly underestimate the power of your obsession.
+One might think that the key to overcoming social media obsession is to set hard boundaries.
 
-The thing with obsession is that it’s hard to control, especially when it is triggered. I don’t believe that using apps like Freedom or Focus to limit social media activity is effective. If you really want to, you know how to bypass these apps, and you will. And when you do bypass them, you'll feel like you don’t have discipline, beating yourself up and making you miserable. This will likely make you want to escape to the digital world even more, creating a self-fulfilling cycle.
+For example, there are some apps out there that automatically lock you out of social media apps after a certain amount of time. To me, these apps grossly underestimate the power of human obsession.
 
-To set yourself up for success, you should focus on positive reinforcement rather than punishment. Habits are forged through positive reinforcement, so reward yourself for a good week with little social media. However, don’t beat yourself up if you find yourself spending more time on social media than you’d planned.
+They don't work. At least for me.
 
-Every time you pick up your phone, you enter a battle, with companies making your phone and the apps that are on it, professional at manipulating your attention. Trying to defeat them with good old willpower is nothing but a slippery slope. Therefore, give yourself some slack and focus on enriching your life offline.
+Obsession is by definition hard to control. As the person who installed the firewalls, you also know how to bypass them—and you will.
+
+And when you do cheat and find yourself back on social media, you'll feel miserable - beating yourself up for not having any self discipline. And what better escape from feeling miserable than social media? It's a self-fulfilling cycle.
+
+To set yourself up for success, focus on positive reinforcement rather than punishment.
+
+Reward yourself for a good week with little social media. But don’t beat yourself up if you end up spending more time on it than you’d wanted.
+
+Every time you pick up your phone, you enter a battle with experts at manipulating human attention. Trying to win with good old willpower is a lost cause. **Give yourself slack and focus your efforts on enriching your life offline instead.**
