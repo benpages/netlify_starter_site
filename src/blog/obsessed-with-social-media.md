@@ -11,9 +11,11 @@ imageAlt:
 eleventyExcludeFromCollections: false
 ---
 
-Disclaimer: This is not medical advice. If you feel like you might be developing a social media addiction, talk to a therapist. But if you're looking for tips on how to cut down the time you spend on social media, read on.
-
 You can’t count on being rational in times when you feel the need to pick up your phone. Your brain will come up with plenty of reasons why now is a good time to look at your phone. “I’m going to be late for the meeting. Better check directions to make sure I’m on the best route.” “She’ll think I’m ghosting her if I don’t respond; I’ve got to do it now.”
+
+Let's dive in.
+
+Disclaimer: This is not medical advice. If you feel like you might be developing a social media addiction, talk to a therapist. But if you're looking for tips on how to cut down the time you spend on social media, read on.
 
 <div class="toc">
   <h4>Table of Content</h4>
@@ -29,32 +31,38 @@ You can’t count on being rational in times when you feel the need to pick up y
 
 <h2 id="find-your-why">1. Use the 5 Why's technique</h2>
 
-For many of us, social media is an escape. Some browse social media because their life isn't very exciting. Other because they don't want to deal with whatever problem life has thrown at them that day.
+For many of us, social media is an escape. Some browse social media because their life isn't very exciting. Others because they don't want to deal with whatever problem life has thrown at them that day.
 
 For instance, I browse social media when I feel lonely. Seeing what my friends across the world are up to makes me feel a little more connected to them.
 
 If you can bring awareness to whatever's missing in your life that causes you to browse social media obsessively, you can fill that void and get rid of your social media obsession.
 
-To find out what you're escaping from with social media, use the 5 Why's techique. Ask yourself "Why" at least 5 times in a row to get to the root of your discomfort.
+To find out what you're escaping from with social media, use the 5 Why's techique; ask yourself "why" at least 5 times in a row to get to the root of your discomfort.
 
 Here's an example..
 
-**Why do I browse social media?**<br>
+<div class="well">
+<strong>Why do I browse social media?</strong><br>
 ✍️ To see what my friends are up to.
-
-**Why care about what my friends are up to?**</br>
+</div>
+<div class="well">
+<strong>Why care about what my friends are up to?</strong></br>
 ✍️ Because I want to stay close to them.
-
-**Why try to stay close to them?**<br/>
-✍️ Because they live far away and we don't see each other often.
-
-**Why do I feel the need to see them often?**<br/>
+</div>
+<div class="well">
+<strong>Why try to stay close to them?</strong><br/>
+✍️ They live far away and we don't see each other often.
+</div>
+<div class="well">
+<strong>Why do I feel the need to see them often?</strong><br/>
 ✍️ Because I'm afraid they'll forget me.
-
-**Why is it important they don't forget me?**<br/>
+</div>
+<div class="well">
+<strong>Why is it important they don't forget me?</strong><br/>
 ✍️ I don't want to be alone.
+</div>
 
-Once you discover what causes you to seek distraction, you can do something about it. The right thing to do for me in the example above would be to go out and meet people.
+Once you discover what causes you to seek distraction, you can do something about it. The right thing to do for me in the example above would be to go out and meet people—not to get on social media to surpress a feeling that's bound to come back.
 
 Social media helps you avoid problems, not deal with them. Once you deal with your problems, there will be nothing left to avoid; social media won't seem as appealing as it used to be.
 
@@ -73,7 +81,7 @@ These small practices will help you reduce your time on social media and slowly 
 
 You’re more likely to stick with a habit when you do it right before or after something you already do casually, like brushing your teeth or taking the bus. So find one or two things you do daily, like making coffee or getting into bed, and get into the habit of stashing your phone away right before or after them.
 
-_"I will put my phone on airplane mode every evening right before I brush my teeth. I will turn off airplane mode after my brush my teeth the next morning."_
+<blockquote>"I will put my phone on airplane mode every evening right before I brush my teeth. I will turn off airplane mode after my brush my teeth the next morning."</blockquote>
 
 <h2 id="limit-social-media-use-to-desktop">3. Limit social media use to Desktop</h2>
 
@@ -97,7 +105,7 @@ If you follow the strategies in this post and successfully reduce your obsession
 
 And if you don't know how to use that time, you'll go right back to filling it with mindless browsing.
 
-Say you spend four hours on social media and you manage to cut down your screen time by 1 hour. What are you going to do with the extra hour? It's super important you plan this in advance if you want healthy social media habits to stick.
+Say you spend four hours on social media per day and you manage to cut down your screen time by 1 hour. What are you going to do with the extra hour? You've got to plan this in advance if you want your new healthy social media habits to stick.
 
 Ideally, you'll spend it offline.
 
@@ -113,9 +121,19 @@ And make sure you can do them at a moment's notice. The less friction, the more 
 
 <h2 id="set-social-media-goals">Set weekly social media goals</h2>
 
-Tracking social media use is an excellent way to not only be obsessed but also feel bad about it. That’s something we want to avoid. A healthier approach is to start the week with a particular intention for how you use social media. On Sunday night, grab a journal, and decide in advance how many hours you’d like to spend on social media maximum and what you’re hoping to get from it. “I will spend two hours on social media this week to hear the latest updates from my favorite artists, catch up with a few friends, and share a few updates of my own.”
+Start each week setting your intentions for social media.
 
-At the end of the week, you can review your goal and compare it with your actual screen time. Then adjust your goal for the following week. But don’t beat yourself up. Habit tracking can be an obsession in and of itself and can cause more stress than good. The important part is to set goals to become more intentional in how you use social media. The goal you’ll set on Sunday will be in the back of your mind throughout the week. You may achieve your goal or not; it doesn’t matter. The increased awareness is what we’re truly seeking.
+On Sunday night, grab a journal, and decide in advance how many hours you’d like to spend on social media and what you’re hoping to get from it.
+
+<blockquote>“I will spend two hours on social media this week to hear the latest updates from my favorite artists, catch up with a few friends, and share a few updates of my own.”</blockquote>
+
+At the end of the week, you can review your goal and compare it with your actual screen time. Then adjust your goal for the following week.
+
+But don’t beat yourself up.
+
+Habit tracking can be an obsession in and of itself and can cause more stress than good. The important part is to set goals. The goals you’ll set on Sunday will be in the back of your mind throughout the week.
+
+You may achieve your goal or not - it doesn’t matter. Just keep on setting them.
 
 <h2 id="configure-your-notifications">5. Customize your notifications</h2>
 
