@@ -15,7 +15,7 @@ Do you feel like you're obsessed with social media? Find it hard to stay still w
 
 Social media platforms are built to manipulate your attention and get you to come back over and over. But thankfully, there are things you can do to cultivate a healthier relationship with social media.
 
-In this post, you'll discover five strategies to reduce the amount of time you spend on social media and regain control of your time (and sanity).
+In this post, you'll discover six strategies to reduce the amount of time you spend on social media and regain control of your time (and sanity).
 
 Let's dive in.
 
@@ -25,11 +25,11 @@ _**This is not medical advice.** If you feel like you might be developing a soci
   <h4>Table of Content</h4>
   <ul>
 	<li><a href="#find-your-why">1. Use the 5 Why's Technique</a></li>
-	<li><a href="#limit-social-media-use-to-desktop">2. Limit social media use to Desktop</a></li>
-	<li><a href="#practice-being-unplugged">3. Practice being unplugged</a></li>
+	<li><a href="#practice-being-unplugged">2. Practice being unplugged</a></li>
+	<li><a href="#limit-social-media-use-to-desktop">3. Limit social media use to Desktop</a></li>
 	<li><a href="#replace-social-media-with-other-activities">4. Fill your time intentionally</a></li>
 	<li><a href="#set-social-media-goals">5. Set weekly social media goals</a></li>
-	<li><a href="#configure-your-notifications">5. Configure your notifications</a></li>
+	<li><a href="#configure-your-notifications">6. Configure your notifications</a></li>
   <li><a href="#social-media-blockers">Are social media blockers effective?</a></li>  	
 </div>
 
@@ -103,6 +103,11 @@ Which means that, by default, you’re going to have less access to social media
 
 If you _really_ need the app version of a social media platform for one reason or another, install it, do what you have to do, then delete it right away. It's annoying on purpose. The more friction to using an app, the less likely you are to open it mindlessly.
 
+<figure>
+	<img src="/assets/blog/tik-tok-desktop.jpg" alt="Limit browser extension social media settings">
+	<figcaption>Tik Tok is nowhere near as fun on desktop</figcaption>
+	</figure>
+
 <h2 id="replace-social-media-with-other-activities">4. Fill your time intentionally</h2>
 
 If you follow the strategies in this post and successfully reduce your obsession with social media, you'll have a lot of extra time on your hands.
@@ -123,7 +128,7 @@ Choose activities that are fun and motivate you. These shouldn't feel like thing
 
 And make sure you can do them at a moment's notice. The less friction, the more likely it is you'll stick with them.
 
-<h2 id="set-social-media-goals">Set weekly social media goals</h2>
+<h2 id="set-social-media-goals">5. Set weekly social media goals</h2>
 
 Start each week setting your intentions for social media.
 
@@ -139,7 +144,7 @@ Habit tracking can be an obsession in and of itself and can cause more stress th
 
 You may achieve your goal or not - it doesn’t matter. Just keep on setting them.
 
-<h2 id="configure-your-notifications">5. Customize your notifications</h2>
+<h2 id="configure-your-notifications">6. Customize your notifications</h2>
 
 If you’re obsessed with social media, notifications are feeding into your obsession and should be turned off.
 
@@ -151,17 +156,32 @@ A better approach is to keep the notifications that matter to you and disable al
 
 Visit your app’s settings and disable all the notifications you don’t need. On Instagram, for example, go to Settings then Push Notifications.
 
+<figure>
+	<img src="/assets/blog/ig-notification-settings.jpg" alt="Limit browser extension social media settings">
+	<figcaption>Customizing notifications in Instagram</figcaption>
+	</figure>
+
 One type of notification you want to disable for all apps is "badges" - those little red dots that overlap an app icon. These are built to manipulate you into opening an app. So turn them off.
 
 On an iPhone, got to Settings -> Notifications then tap each app one by one and make sure the Badges toggle is off.
+
+<figure>
+	<img src="/assets/blog/iphone-badge-notifications.jpg" alt="Limit browser extension social media settings">
+	<figcaption>Remove badge notifications in iOS</figcaption>
+	</figure>
 
 <h2 id="social-media-blockers">Are social media blockers effective?</h2>
 
 One might think that the key to overcoming social media obsession is to set hard boundaries.
 
-For example, there are some apps out there that automatically lock you out of social media apps after a certain amount of time. To me, these apps grossly underestimate the power of human obsession.
+For example, there are some apps out there that automatically lock you out of social media apps after a certain amount of time.
 
-They don't work. At least for me.
+<figure>
+<img src="/assets/blog/freedom-app-settings.jpg" alt="Limit browser extension social media settings">
+<figcaption>Blocking social media sites using the Freedom app</figcaption>
+</figure>
+
+To me, these apps grossly underestimate the power of human obsession. They don't work.
 
 Obsession is by definition hard to control. As the person who installed the firewalls, you also know how to bypass them—and you will.
 
