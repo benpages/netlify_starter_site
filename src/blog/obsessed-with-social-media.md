@@ -11,11 +11,15 @@ imageAlt:
 eleventyExcludeFromCollections: false
 ---
 
-You can’t count on being rational in times when you feel the need to pick up your phone. Your brain will come up with plenty of reasons why now is a good time to look at your phone. “I’m going to be late for the meeting. Better check directions to make sure I’m on the best route.” “She’ll think I’m ghosting her if I don’t respond; I’ve got to do it now.”
+Do you feel like you're obsessed with social media? Find it hard to stay still without whipping your phone out? Wish you could stop wasting so much time scrolling through your feed and do something productive with your life instead?
+
+Social media platforms are built to manipulate your attention and get you to come back over and over. But thankfully, there are things you can do to cultivate a healthier relationship with social media.
+
+In this post, you'll discover five strategies to reduce the amount of time you spend on social media and regain control of your time (and sanity).
 
 Let's dive in.
 
-Disclaimer: This is not medical advice. If you feel like you might be developing a social media addiction, talk to a therapist. But if you're looking for tips on how to cut down the time you spend on social media, read on.
+_**This is not medical advice.** If you feel like you might be developing a social media addiction, talk to a therapist. But if you're looking for tips on how to cut down the time you spend on social media, read on._
 
 <div class="toc">
   <h4>Table of Content</h4>
@@ -146,6 +150,10 @@ And every time you open an app, you risk getting sucked in - realizing 30 minute
 A better approach is to keep the notifications that matter to you and disable all others. (Do you really need a notification every time somebody likes a post you made?)
 
 Visit your app’s settings and disable all the notifications you don’t need. On Instagram, for example, go to Settings then Push Notifications.
+
+One type of notification you want to disable for all apps is "badges" - those little red dots that overlap an app icon. These are built to manipulate you into opening an app. So turn them off.
+
+On an iPhone, got to Settings -> Notifications then tap each app one by one and make sure the Badges toggle is off.
 
 <h2 id="social-media-blockers">Are social media blockers effective?</h2>
 
