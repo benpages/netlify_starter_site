@@ -1,13 +1,13 @@
 ---
-title: Obsessed with Social Media?
-titleShort: Obsessed with Social Media
+title: Obsessed With Social Media? 6 Hacks to Get Your Life Back
+titleShort: Obsessed with Social Media (6 Tips)
 mySlug: obsessed-with-social-media
-description: 'TBD'
+description: 'Discover 6 hacks to stop your obsession with social media. The 5 Why’s Technique • Daily Habits •  Desktop Apps • Weekly Goals • Notifications'
 date: 2023-04-11
 tags:
   - post
-image: 'https://picsum.photos/582/326'
-imageAlt:
+image: '/assets/blog/obsessed-with-social-media.jpg'
+imageAlt: obsessed with social media
 eleventyExcludeFromCollections: false
 ---
 
@@ -86,8 +86,6 @@ For example:
 - Leave your phone in a different room at night (or when you’re going to the toilet)
 
 These small practices will help you reduce your time on social media and slowly build your discipline back up.
-
-You’re more likely to stick with a habit when you do it right before or after something you already do casually, like brushing your teeth or taking the bus. So find one or two things you do daily and get into the habit of stashing your phone away right before or after them.
 
 <figure>
 <img src="/assets/blog/dumb-iphone.jpg" alt="No obsession with social media with a dumb phone">
@@ -173,9 +171,9 @@ Visit your app’s settings and disable all the notifications you don’t need. 
 	<figcaption>Customizing notifications in Instagram</figcaption>
 	</figure>
 
-One type of notification you want to disable for all apps is "badges" - those little red dots that overlap an app icon. These are built to manipulate you into opening an app. So turn them off.
+One type of notification I recommend disabling for all apps and activity is "badges" - those little red dots that remind you there's new activity in an app. They feed your obsession. And you don't need them. So turn them off.
 
-On an iPhone, got to Settings -> Notifications then tap each app one by one and make sure the Badges toggle is off.
+To do so on an iPhone, go to Settings -> Notifications, then tap each app one by one and make sure the Badges toggle is off.
 
 <figure>
 	<img src="/assets/blog/iphone-badge-notifications.jpg" alt="deactivating social media badge notifications">
