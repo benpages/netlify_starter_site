@@ -29,9 +29,13 @@ _**This is not medical advice.** If you feel like you might be developing a soci
 	<li><a href="#limit-social-media-use-to-desktop">3. Limit social media use to Desktop</a></li>
 	<li><a href="#replace-social-media-with-other-activities">4. Fill your time intentionally</a></li>
 	<li><a href="#set-social-media-goals">5. Set weekly social media goals</a></li>
-	<li><a href="#configure-your-notifications">6. Configure your notifications</a></li>
+	<li><a href="#configure-your-notifications">6. Choose your notifications wisely</a></li>
   <li><a href="#social-media-blockers">Are social media blockers effective?</a></li>  	
 </div>
+
+<figure>
+<img src="/assets/blog/obsessed-with-social-media.jpg" alt="Obsessed with social media">
+</figure>
 
 <h2 id="find-your-why">1. Use the 5 Why's technique</h2>
 
@@ -83,9 +87,12 @@ For example:
 
 These small practices will help you reduce your time on social media and slowly build your discipline back up.
 
-You’re more likely to stick with a habit when you do it right before or after something you already do casually, like brushing your teeth or taking the bus. So find one or two things you do daily, like making coffee or getting into bed, and get into the habit of stashing your phone away right before or after them.
+You’re more likely to stick with a habit when you do it right before or after something you already do casually, like brushing your teeth or taking the bus. So find one or two things you do daily and get into the habit of stashing your phone away right before or after them.
 
-<blockquote>"I will put my phone on airplane mode every evening right before I brush my teeth. I will turn off airplane mode after my brush my teeth the next morning."</blockquote>
+<figure>
+<img src="/assets/blog/dumb-iphone.jpg" alt="No obsession with social media with a dumb phone">
+<figcaption>A black and white, dumbed down iPhone (<a href="https://whatifididnt.com/blog/iphone-dumb-phone/">read the tutorial</a>)</figcaption>
+</figure>
 
 <h2 id="limit-social-media-use-to-desktop">3. Limit social media use to Desktop</h2>
 
@@ -105,7 +112,7 @@ If you _really_ need the app version of a social media platform for one reason o
 
 <figure>
 	<img src="/assets/blog/tik-tok-desktop.jpg" alt="Limit browser extension social media settings">
-	<figcaption>Tik Tok is nowhere near as fun on desktop</figcaption>
+	<figcaption>Tik Tok isn't nearly as fun on desktop</figcaption>
 	</figure>
 
 <h2 id="replace-social-media-with-other-activities">4. Fill your time intentionally</h2>
@@ -144,7 +151,12 @@ Habit tracking can be an obsession in and of itself and can cause more stress th
 
 You may achieve your goal or not - it doesn’t matter. Just keep on setting them.
 
-<h2 id="configure-your-notifications">6. Customize your notifications</h2>
+<figure>
+<img src="/assets/blog/iphone-screen-time.jpg" alt="Obsessed with social media">
+<figcaption>You can track your progress with Screen Time (but don't obsess over it)</figcaption>
+</figure>
+
+<h2 id="configure-your-notifications">6. Choose your notifications wisely</h2>
 
 If you’re obsessed with social media, notifications are feeding into your obsession and should be turned off.
 
@@ -157,7 +169,7 @@ A better approach is to keep the notifications that matter to you and disable al
 Visit your app’s settings and disable all the notifications you don’t need. On Instagram, for example, go to Settings then Push Notifications.
 
 <figure>
-	<img src="/assets/blog/ig-notification-settings.jpg" alt="Limit browser extension social media settings">
+	<img src="/assets/blog/ig-notification-settings.jpg" alt="instagram notification settings">
 	<figcaption>Customizing notifications in Instagram</figcaption>
 	</figure>
 
@@ -166,7 +178,7 @@ One type of notification you want to disable for all apps is "badges" - those li
 On an iPhone, got to Settings -> Notifications then tap each app one by one and make sure the Badges toggle is off.
 
 <figure>
-	<img src="/assets/blog/iphone-badge-notifications.jpg" alt="Limit browser extension social media settings">
+	<img src="/assets/blog/iphone-badge-notifications.jpg" alt="deactivating social media badge notifications">
 	<figcaption>Remove badge notifications in iOS</figcaption>
 	</figure>
 
@@ -174,14 +186,14 @@ On an iPhone, got to Settings -> Notifications then tap each app one by one and 
 
 One might think that the key to overcoming social media obsession is to set hard boundaries.
 
-For example, there are some apps out there that automatically lock you out of social media apps after a certain amount of time.
+For example, there are some apps out there that automatically lock you out of social media apps after a certain amount of time or block them altogether.
 
 <figure>
-<img src="/assets/blog/freedom-app-settings.jpg" alt="Limit browser extension social media settings">
-<figcaption>Blocking social media sites using the Freedom app</figcaption>
+<img src="/assets/blog/limit-social-media.jpg" alt="Limit browser extension social media settings">
+<figcaption>Facebook blocked by the Freedom app</figcaption>
 </figure>
 
-To me, these apps grossly underestimate the power of human obsession. They don't work.
+To me, these apps grossly underestimate the power of human obsession.
 
 Obsession is by definition hard to control. As the person who installed the firewalls, you also know how to bypass them—and you will.
 
