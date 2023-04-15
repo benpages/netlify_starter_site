@@ -1,6 +1,6 @@
 ---
 title: Obsessed With Social Media? 6 Hacks to Get Your Life Back
-titleShort: Obsessed with Social Media (6 Tips)
+titleShort: Obsessed with Social Media (6 Hacks)
 mySlug: obsessed-with-social-media
 description: 'Discover 6 hacks to stop your obsession with social media. The 5 Why’s Technique • Daily Habits •  Desktop Apps • Weekly Goals • Notifications'
 date: 2023-04-11
