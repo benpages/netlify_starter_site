@@ -82,7 +82,7 @@ For example:
 
 - Go for walks without your phone
 - Disconnect cellular data when you’re commuting
-- Use a [dumb phone]("https://whatifididnt.com/blog/iphone-dumb-phone/") on the weekends
+- Use a [dumb phone](https://whatifididnt.com/blog/iphone-dumb-phone/) on the weekends
 - Leave your phone in a different room at night (or when you’re going to the toilet)
 
 These small practices will help you reduce your time on social media and slowly build your discipline back up.
