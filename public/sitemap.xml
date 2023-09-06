@@ -68,11 +68,6 @@
         </url>
     
         <url>
-            <loc>https://whatifididnt.com/blog/</loc>
-            <lastmod>2023-04-04T14:52:10.650Z</lastmod>
-        </url>
-    
-        <url>
             <loc>https://whatifididnt.com/blog/obsessed-with-social-media/</loc>
             <lastmod>2023-04-11T00:00:00.000Z</lastmod>
         </url>
@@ -88,8 +83,18 @@
         </url>
     
         <url>
+            <loc>https://whatifididnt.com/blog/portable-ice-baths/</loc>
+            <lastmod>2023-09-06T00:00:00.000Z</lastmod>
+        </url>
+    
+        <url>
             <loc>https://whatifididnt.com/about/</loc>
-            <lastmod>2023-04-11T12:13:04.573Z</lastmod>
+            <lastmod>2023-09-06T07:39:33.615Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>https://whatifididnt.com/blog/</loc>
+            <lastmod>2023-09-06T07:41:46.105Z</lastmod>
         </url>
     
 </urlset>
