@@ -134,10 +134,3 @@ If you've never journaled, you may wonder what you're supposed to write about. W
 Try to fill a page or two a day.
 
 One last tip. Your best thoughts happen in the morning, pre-input. So, journal before you talk to someone, check your phone, or turn on your computer. Brush your teeth, then get journaling.
-
-<div class="well author-bio">
-<div class="author-bio__img">
-<img src="/assets/ben-profile.jpeg" alt="">
-</div>
-<p><strong>Written by Ben Pages:</strong> Ben Pages is an ICF-certified life coach, passionate about tech, marketing, and business. On his off-time, he loves to travel, surf, and play music.</p>
-</div>

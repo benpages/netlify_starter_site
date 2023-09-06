@@ -25,7 +25,7 @@ It can’t find directions. It doesn’t know Dave Chappelle’s birthday. And i
 
 In this tutorial, we’ll focus on the cleanest setup possible. We’re going back to first principles to show you how to turn your iPhone into the dumbest of all phones.
 
-In fact, if you're not wanting to break the bank on a <a href="https://www.thelightphone.com/products?ref=whatifididnt" target="_blank" rel="noopener noreferrer">Light Phone</a>, you're going to want to give this setup a try.
+If you're not wanting to break the bank on a <a href="https://www.thelightphone.com/products?ref=whatifididnt" target="_blank" rel="noopener noreferrer">Light Phone</a>, you're going to want to give this setup a try.
 
 Let's jump right in.
 

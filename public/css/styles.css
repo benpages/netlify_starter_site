@@ -520,8 +520,6 @@ textarea {
 	align-items: center;
 }
 
-.flex-form input {
-}
 .flex-form button {
 	width: 30%;
 	min-width: 100px;
@@ -561,17 +559,26 @@ textarea {
 }
 .author-bio {
 	display: flex;
+	flex-direction: column;
+	align-items: center;
 	gap: 1em;
 	padding: 1.5em;
 	margin-top: 3em;
 }
-.author-bio p {
-	margin: 0;
-}
 
 .author-bio__img img {
-	max-width: 5em;
+	max-width: 125px;
 	border-radius: 25em;
+}
+
+.author-bio p {
+	margin-bottom: 0;
+}
+
+@media screen and (min-width: 576px) {
+	.author-bio {
+		flex-direction: row;
+	}
 }
 
 /* Helpers */
