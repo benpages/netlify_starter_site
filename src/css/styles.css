@@ -527,14 +527,13 @@ textarea {
 
 .well,
 .toc {
-	padding: 1rem 0.5rem;
+	padding: 1rem 1.5rem;
 	background-color: rgba(var(--clr-light-gray-rgb), 0.5);
 	border: 1px solid var(--clr-gray);
 	margin-bottom: 1em;
 }
 
 .toc {
-	padding: 1rem 1.5rem;
 	margin-bottom: 1.5rem;
 }
 
@@ -556,6 +555,11 @@ textarea {
 .toc a {
 	font-family: var(--font-mono);
 	font-size: 110%;
+}
+.product-img {
+	display: block;
+	margin: 0 auto;
+	margin-bottom: 1.5em;
 }
 .author-bio {
 	display: flex;
