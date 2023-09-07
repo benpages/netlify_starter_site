@@ -11,7 +11,7 @@ image:
 imageAlt:
 ---
 
-<img class="" src="/assets/blog/portable-ice-bath.jpg" alt="">
+<img class="img-fw" src="/assets/blog/portable-ice-bath.jpg" alt="">
 
 People have been using cold exposure to recover after challenging physical activity, boost their immune system, become more resilient to stress, and improve their sleep.
 
@@ -32,7 +32,7 @@ Do not use an ice bath if you're under 18, pregnant, have heart issues, high blo
 What size does your portable ice bath need to be? This will depend on your size.
 Most manufacturers include “Max. suitable height” in their product specs. You want to get an ice tub that will comfortably fit you and submerge you up to your neck.
 
-<img class="" src="/assets/blog/portable-ice-bath-size.jpg" alt="">
+<img class="img-fw" src="/assets/blog/portable-ice-bath-size.jpg" alt="">
 
 ### Cooling mechanism
 
@@ -44,7 +44,7 @@ These baths are usually a lot more expensive and not as portable as the rest, th
 Portable ice baths are usually made of soft insulating fabric and can be folded for easy transport.
 However, there are some exceptions, like the Ice Barrel 400, which is made of hard recycled plastic.
 
-<img class="" src="/assets/blog/portable-ice-bath-packed.jpg" alt="">
+<img class="img-fw" src="/assets/blog/portable-ice-bath-packed.jpg" alt="">
 
 ### UV resistance
 
@@ -56,35 +56,31 @@ UV rays can cause materials to deteriorate, fade, and become brittle. Therefore,
 Every portable ice bath uses different insulation technology to keep the water as cool as possible.
 The better the insulation, the less often you’ll have to refill with ice.
 
-<img class="" src="/assets/blog/portable-ice-bath-insulation.jpg" alt="">
+<img class="img-fw" src="/assets/blog/portable-ice-bath-insulation.jpg" alt="">
 
 ### Drain valve
 
 A drain is an important element that every ice bath should have. It allows you to quickly drain the water from the tub when you need to.
 Without a drain, you’ll have to empty out the tub a bucket of water at a time or you’ll have to invest in a submersible pump.
 
-<img class="" src="/assets/blog/portable-ice-bath-drain.jpg" alt="">
+<img class="img-fw" src="/assets/blog/portable-ice-bath-drain.jpg" alt="">
 
 ## The best portable ice baths
 
-<!--
-<div class="wide-container">
-<table>
-<thead><tr><th></th><th>Polar Recovery Tub™</th><th>Ice Barrel 400</th><th>The Cold Pod</th><th>The Recovery Pod by LUMI</th><th>The Ice Pod by ThePodCompany</th></tr></thead><tbody>
- <tr><td>Capacity</td><td>71.6 gallons (270L)</td><td>105 gallons (397 L)</td><td>84.5 gallons (320 L)</td><td>84.5 gallons (320 L)</td><td>79 gallons (300 L)</td></tr>
- <tr><td>Diameter</td><td>31.5 inches (80 cm)</td><td>31 inches (78.7 cm)</td><td>29.5 inches (75 cm)</td><td>31.5 inches (80 cm)</td><td>32 inches (81.3 cm)</td></tr>
- <tr><td>Height</td><td>29.5 inches (75 cm)</td><td>42 inches (106.7 cm)</td><td>29.5 inches (75 cm)</td><td>29.5 inches (75 cm)</td><td>29 inches (73.7 cm)</td></tr>
- <tr><td>Person size (up to)</td><td>People up to 6 ft 7" (2m tall)</td><td>6 ft 6"</td><td>6 ft 7"</td><td>6 ft 7"</td><td>6 ft 9"</td></tr>
- <tr><td>Weight (empty)</td><td>6.6 lbs (3 kg)</td><td>55 lbs (25 kg)</td><td>7.7 lbs (3.5 kg)</td><td>7.7 lbs (3.5 kg)</td><td>7 lbs (3 kg)</td></tr>
+<table class="table-fw">
+<thead><tr><th></th><th><a href="#polar">Polar Recovery Tub™</a></th><th><a href="#barrel">Ice Barrel 400</a></th><th><a href="#coldpod">The Cold Pod</a></th><th><a href="#lumi">The Recovery Pod by LUMI</a></th><th><a href="#icepod">The Ice Pod by ThePodCompany</a></th></tr></thead><tbody>
+ <tr><td>Capacity</td><td>71.6 gallons<br>(270L)</td><td>105 gallons<br>(397 L)</td><td>84.5 gallons<br>(320 L)</td><td>84.5 gallons<br>(320 L)</td><td>79 gallons<br>(300 L)</td></tr>
+ <tr><td>Diameter</td><td>31.5″<br>(80 cm)</td><td>31″<br>(78.7 cm)</td><td>29.5″<br>(75 cm)</td><td>31.5″<br>(80 cm)</td><td>32″<br>(81.3 cm)</td></tr>
+ <tr><td>Height</td><td>29.5″<br>(75 cm)</td><td>42″<br>(106.7 cm)</td><td>29.5″<br>(75 cm)</td><td>29.5″<br>(75 cm)</td><td>29″<br>(73.7 cm)</td></tr>
+ <tr><td>Person size (up to)</td><td>6′ 7″<br>(200 cm)</td><td>6′ 6″<br>(198 cm)</td><td>6′ 7″<br>(200 cm)</td><td>6′ 7″<br>(200 m)</td><td>6′ 9″<br>(205 cm)</td></tr>
+ <tr><td>Weight (empty)</td><td>6.6 lbs<br>(3 kg)</td><td>55 lbs<br>(25 kg)</td><td>7.7 lbs<br>(3.5 kg)</td><td>7.7 lbs<br>(3.5 kg)</td><td>7 lbs<br>(3 kg)</td></tr>
  <tr><td>Folds</td><td>Yes</td><td>No</td><td>Yes</td><td>Yes</td><td>Yes</td></tr>
  <tr><td>Price</td><td>$89.99</td><td>$1,199.99</td><td>$95-$125</td><td>$99</td><td>$119</td></tr>
- <tr><td>Shipping</td><td>Worldwide (5-10 business days)</td><td>USA only</td><td>Worldwide</td><td>Free worldwide shipping</td><td>USA only</td></tr>
- <tr><td>Warranty</td><td>1-year</td><td>Limited lifetime</td><td>No</td><td>1-year</td><td>6-month (extendable)</td></tr>
+ <tr><td>Shipping</td><td>Worldwide</td><td>USA only</td><td>Worldwide</td><td>Worldwide (free)</td><td>USA only</td></tr>
+ <tr><td>Warranty</td><td>1-year</td><td>Lifetime</td><td>No</td><td>1-year</td><td>6-month</td></tr>
 </tbody></table>
-</div>
--->
 
-### Polar Recovery Tub™
+<h3 id="polar">Polar Recovery Tub™</h3>
 
 <img class="product-img" src="/assets/blog/polar-recovery.jpg" alt="">
 
@@ -115,7 +111,7 @@ Uniqueness: Compared to some high-end alternatives like the Ice Barrel 400, whic
 
 Downside: The biggest gripe with the Polar Recovery tub™- Ice Bath is its relatively smaller capacity compared to some of the other ice baths in the market. With a capacity of 71.6 gallons (270L), it falls behind options like the Ice Barrel 400, which offers a substantial 105-gallon capacity.
 
-### Ice Barrel 400
+<h3 id="barrel">Ice Barrel 400</h3>
 
 <img class="product-img" src="/assets/blog/ice-barrel-400.jpg" alt="">
 
@@ -147,7 +143,7 @@ Uniqueness: offers an impressive 105-gallon (397 L) capacity, making it one of t
 
 Downside: The biggest gripe about the Ice Barrel 400 could be its weight, coming in at 55 lbs (25 kg) when empty. This weight might make it more challenging to transport or move around, especially when compared to some other portable ice baths that are considerably lighter. International shipping but costs more than product. Expensive shipping to Europe.
 
-### The Cold Pod
+<h3 id="coldpod">The Cold Pod</h3>
 
 <img class="product-img" src="/assets/blog/cold-pod.jpg" alt="">
 
@@ -179,7 +175,7 @@ Uniqueness: While its capacity of 84.5 gallons and suitability for people up to 
 
 Downside: Unlike some other ice baths, The Cold Pod does not specify the materials used or any unique insulation techniques, which might make a significant difference in performance. £20-£35 shipping worldwide.
 
-### The Recovery Pod by LUMI
+<h3 id="lumi">The Recovery Pod by LUMI</h3>
 
 <img class="product-img" src="/assets/blog/lumi.jpg" alt="">
 
@@ -221,7 +217,7 @@ Int'l (7-12 Days) - £44.95
 Free Economy:
 All Locations (30-40 Days) - Free
 
-### The Ice Pod by ThePodCompany
+<h3 id="icepod">The Ice Pod by ThePodCompany</h3>
 
 <img class="product-img" src="/assets/blog/ice-pod.jpg" alt="">
 
@@ -311,7 +307,7 @@ Start with 59° F (15°C) and progressively decrease the temperature session aft
 
 You may also want to practice taking cold showers to get used to the shock the cold creates on your body.
 
-<img class="" src="/assets/blog/portable-ice-bath-accessories.jpg" alt="">
+<img class="img-fw" src="/assets/blog/portable-ice-bath-accessories.jpg" alt="">
 
 ### How often do you change the water?
 

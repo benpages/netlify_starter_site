@@ -19,6 +19,9 @@ html {
 	box-sizing: border-box;
 	font-size: 18px;
 }
+html:focus-within {
+	scroll-behavior: smooth;
+}
 
 *,
 *:before,
@@ -44,7 +47,12 @@ ul {
 	padding: 0;
 }
 
-img {
+img,
+picture,
+video,
+canvas,
+svg {
+	display: block;
 	max-width: 100%;
 	height: auto;
 }
@@ -560,6 +568,61 @@ textarea {
 	display: block;
 	margin: 0 auto;
 	margin-bottom: 1.5em;
+}
+
+.img-fw {
+	max-width: 900px;
+	margin-left: 50%;
+	margin-bottom: 2.25em;
+	margin-top: 2.25em;
+	transform: translateX(-50%);
+	border-radius: 5px;
+}
+.table-fw {
+	margin-left: 50%;
+	transform: translateX(-50%);
+	border-radius: 5px;
+	width: 1100px;
+	max-width: calc(100vw - 3em);
+}
+
+.table-fw th,
+.table-fw td {
+	border: 1px solid rgba(var(--clr-black-rgb), 0.2);
+	padding: 0.75em;
+}
+.table-fw {
+	border-collapse: collapse;
+	table-layout: fixed;
+}
+.table-fw th {
+	background-color: var(--clr-primary);
+	color: white;
+	text-align: center;
+	font-weight: 400;
+}
+.table-fw th a {
+	color: white;
+	text-decoration: underline;
+}
+.table-fw th a:hover,
+.table-fw th a:focus {
+	text-decoration: none;
+}
+.table-fw td:nth-child(1) {
+	font-weight: bold;
+	background-color: var(--clr-light-gray);
+}
+.table-fw tr > td:not(:nth-child(1)) {
+	text-align: right;
+}
+.table-fw th:first-child {
+	background: none;
+	border: none;
+}
+.img-fw ~ figcaption {
+	margin-top: -1.5em;
+	margin-bottom: 2.25em;
 }
 .author-bio {
 	display: flex;
