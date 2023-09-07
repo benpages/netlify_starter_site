@@ -11,6 +11,8 @@ image:
 imageAlt:
 ---
 
+<img class="" src="/assets/blog/ice-bath-test3.jpg" alt="">
+
 People have been using cold exposure to recover after challenging physical activity, boost their immune system, become more resilient to stress, and improve their sleep.
 
 <div class="well">
@@ -30,6 +32,8 @@ Do not use an ice bath if you're under 18, pregnant, have heart issues, high blo
 What size does your portable ice bath need to be? This will depend on your size.
 Most manufacturers include “Max. suitable height” in their product specs. You want to get an ice tub that will comfortably fit you and submerge you up to your neck.
 
+<img class="" src="/assets/blog/ice-bath-test4.jpg" alt="">
+
 ### Cooling mechanism
 
 Some portable ice baths come with a chiller that automatically keeps the water at a set temperature.
@@ -39,6 +43,8 @@ These baths are usually a lot more expensive and not as portable as the rest, th
 
 Portable ice baths are usually made of soft insulating fabric and can be folded for easy transport.
 However, there are some exceptions, like the Ice Barrel 400, which is made of hard recycled plastic.
+
+<img class="" src="/assets/blog/ice-bath-test1.jpg" alt="">
 
 ### UV resistance
 
@@ -50,10 +56,14 @@ UV rays can cause materials to deteriorate, fade, and become brittle. Therefore,
 Every portable ice bath uses different insulation technology to keep the water as cool as possible.
 The better the insulation, the less often you’ll have to refill with ice.
 
+<img class="" src="/assets/blog/ice-bath-test6.jpg" alt="">
+
 ### Drain valve
 
 A drain is an important element that every ice bath should have. It allows you to quickly drain the water from the tub when you need to.
 Without a drain, you’ll have to empty out the tub a bucket of water at a time or you’ll have to invest in a submersible pump.
+
+<img class="" src="/assets/blog/ice-bath-test5.jpg" alt="">
 
 ## The best portable ice baths
 
@@ -248,68 +258,93 @@ Things like drain hose, insulated icepod lid, extended warranty, and floating th
 ## Benefits of Ice Baths
 
 Ice baths are amazing for your health.
+
 It helps you recover from tough workouts. Just went for a run or a challenging workout and want to avoid feeling broken the next day? Take an ice bath.
+
 It provides lasting energy. Ready to finally put coffee aside? Replace your morning coffee with an ice bath. You’ll be energized and ready to take on the day.
+
 It sets your mood right. If you’re having a bad day or can’t seem to wake up, take an ice bath.
+
 It teaches you to handle stress. Cold therapy is hard. When you hit the cold water, the physiological response is dramatic. Everything in your body tells you to flee. Then you learn to relax. And that transfers to other areas of your life. You’ll quickly get back to a calm state in times of uncertainty.
+
 Is this proven? Does it work? The research is still young. But it’s enough to take an ice bath to understand there’s nothing like it. You’ll feel amazing. Rejuvenated. Happy. Energized. I haven’t met one person that has tried ice baths and wouldn’t do it again. It has a tremendous impact on your physiology and on your psyche.
+
+[ graphic ]
 
 ## FAQ
 
 ### How much water do I need?
 
 You want to fill up your ice bath so that you can immerse yourself up to your shoulders without the water overflowing.
+
 Figuring the exact amount you need will require trial and error.
+
 As a rule of thumb, you’ll never want to fill up the ice bath more than two-thirds of the way. The water will rise once you jump in and add in the ice.
+
 If you’re concerned with the tub overflowing, start with 50% water, then slowly add more water until you reach the optimal level. So if the capacity of your ice bath is 400 L, start with 200 L and go from there.
 
 ### How much ice to use?
 
 This depends on:
-how cold you want the bath to be
-what temperature the water is at before you put in the ice
-how much water you have in the tub (the less water you use, the less ice you’ll need to cool it down)
+
+- how cold you want the bath to be
+- what temperature the water is at before you put in the ice
+- how much water you have in the tub (the less water you use, the less ice you’ll need to cool it down)
+
 Through trial and error, you’ll find out what quantity of ice is ideal for your specific model and set up.
+
 Ice Pod recommends adding anywhere between 15 and 40 lbs of ice (7-18kg) to the tub per session. So start with 15 lbs (7 kg), let the water cool down, measure the temperature, and add more ice if needed.
 
 ### How often do you change the water?
 
 Replace the water in your tub every 3 to 5 sessions and clean thoroughly before refilling.
+
 If you want to change the water less often, add epsom salt to your bath (about 1 lb or 0.5kg per tub). This will allow you to keep your water clean.
+
 If you use salt, you can replace the water every 2 to 4 weeks. Do not use table salt or other types of chloride salts.
 
 ### How do I clean and maintain an ice bath?
 
 Before you use your ice bath for the first time, make sure to properly wash it with soap and water.
+
 Do not use bleach or other chemical products - they may damage your tub’s isolating and waterproofing properties.
 
 ### How long should you stay in an ice bath?
 
 Stay in the ice bath for 2-3 minutes.
+
 When you first get in the ice bath, you’ll tense up and hyperventilate. Slow down your breathing and relax.
+
 After a while, you’ll feel a sense of calm and peace. That’s the state we’re looking for. Once you’ve reached it, you can end your session.
 
 ### What temperature is recommended?
 
 Getting used to ice baths can take some getting used to.
+
 Start with 59° F (15°C) and progressively decrease the temperature session after session.
+
 You may also want to practice taking cold showers to get used to the shock the cold creates on your body.
 
 ### Where should I set up my portable ice bath?
 
 Most portable ice baths are UV resistant so you can use them outside as well as inside.
+
 Check your ice bath’s instruction manual for “maximum temperatures”.
+
 The LUMI Recovery Pod can sustain temperatures of up to 50C, for example. So you might not want to leave it in the sun for too long.
 
 **For those of you wanting to set it up on your balcony:**
 
 Once filled up, your ice bath will weigh over 300 kg. Add your body weight, and that’s a lot of weight in a small area.
+
 Your balcony may not be built to sustain such pressure.
+
 Consult your developer, builder, Homeowners Association (HOA), Condominium Board, or a structural engineer before it is safe to set up a portable ice bath on your balcony.
 
 ### Is it safe to take an ice bath after eating?
 
 Ice baths are safe after eating. Cold water does not drive blood flow away from your core organs, and thus does not interfere with digestion.
+
 I’m not a doctor, and you may want to confirm this with a medical professional before jumping in right after a gluttony.
 
 <br>
