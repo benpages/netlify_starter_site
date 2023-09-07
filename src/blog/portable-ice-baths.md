@@ -11,7 +11,7 @@ image:
 imageAlt:
 ---
 
-<img class="" src="/assets/blog/ice-bath-test3.jpg" alt="">
+<img class="" src="/assets/blog/portable-ice-bath.jpg" alt="">
 
 People have been using cold exposure to recover after challenging physical activity, boost their immune system, become more resilient to stress, and improve their sleep.
 
@@ -32,7 +32,7 @@ Do not use an ice bath if you're under 18, pregnant, have heart issues, high blo
 What size does your portable ice bath need to be? This will depend on your size.
 Most manufacturers include “Max. suitable height” in their product specs. You want to get an ice tub that will comfortably fit you and submerge you up to your neck.
 
-<img class="" src="/assets/blog/ice-bath-test4.jpg" alt="">
+<img class="" src="/assets/blog/portable-ice-bath-size.jpg" alt="">
 
 ### Cooling mechanism
 
@@ -44,7 +44,7 @@ These baths are usually a lot more expensive and not as portable as the rest, th
 Portable ice baths are usually made of soft insulating fabric and can be folded for easy transport.
 However, there are some exceptions, like the Ice Barrel 400, which is made of hard recycled plastic.
 
-<img class="" src="/assets/blog/ice-bath-test1.jpg" alt="">
+<img class="" src="/assets/blog/portable-ice-bath-packed.jpg" alt="">
 
 ### UV resistance
 
@@ -56,14 +56,14 @@ UV rays can cause materials to deteriorate, fade, and become brittle. Therefore,
 Every portable ice bath uses different insulation technology to keep the water as cool as possible.
 The better the insulation, the less often you’ll have to refill with ice.
 
-<img class="" src="/assets/blog/ice-bath-test6.jpg" alt="">
+<img class="" src="/assets/blog/portable-ice-bath-insulation.jpg" alt="">
 
 ### Drain valve
 
 A drain is an important element that every ice bath should have. It allows you to quickly drain the water from the tub when you need to.
 Without a drain, you’ll have to empty out the tub a bucket of water at a time or you’ll have to invest in a submersible pump.
 
-<img class="" src="/assets/blog/ice-bath-test5.jpg" alt="">
+<img class="" src="/assets/blog/portable-ice-bath-drain.jpg" alt="">
 
 ## The best portable ice baths
 
@@ -295,20 +295,6 @@ Through trial and error, you’ll find out what quantity of ice is ideal for you
 
 Ice Pod recommends adding anywhere between 15 and 40 lbs of ice (7-18kg) to the tub per session. So start with 15 lbs (7 kg), let the water cool down, measure the temperature, and add more ice if needed.
 
-### How often do you change the water?
-
-Replace the water in your tub every 3 to 5 sessions and clean thoroughly before refilling.
-
-If you want to change the water less often, add epsom salt to your bath (about 1 lb or 0.5kg per tub). This will allow you to keep your water clean.
-
-If you use salt, you can replace the water every 2 to 4 weeks. Do not use table salt or other types of chloride salts.
-
-### How do I clean and maintain an ice bath?
-
-Before you use your ice bath for the first time, make sure to properly wash it with soap and water.
-
-Do not use bleach or other chemical products - they may damage your tub’s isolating and waterproofing properties.
-
 ### How long should you stay in an ice bath?
 
 Stay in the ice bath for 2-3 minutes.
@@ -324,6 +310,22 @@ Getting used to ice baths can take some getting used to.
 Start with 59° F (15°C) and progressively decrease the temperature session after session.
 
 You may also want to practice taking cold showers to get used to the shock the cold creates on your body.
+
+<img class="" src="/assets/blog/portable-ice-bath-accessories.jpg" alt="">
+
+### How often do you change the water?
+
+Replace the water in your tub every 3 to 5 sessions and clean thoroughly before refilling.
+
+If you want to change the water less often, add epsom salt to your bath (about 1 lb or 0.5kg per tub). This will allow you to keep your water clean.
+
+If you use salt, you can replace the water every 2 to 4 weeks. Do not use table salt or other types of chloride salts.
+
+### How do I clean and maintain an ice bath?
+
+Before you use your ice bath for the first time, make sure to properly wash it with soap and water.
+
+Do not use bleach or other chemical products - they may damage your tub’s isolating and waterproofing properties.
 
 ### Where should I set up my portable ice bath?
 
