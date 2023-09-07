@@ -67,9 +67,10 @@ Without a drain, you’ll have to empty out the tub a bucket of water at a time 
 
 ## The best portable ice baths
 
-<table class="table-fw">
+<div class="table-fw">
+<table>
 <thead><tr><th></th><th><a href="#polar">Polar Recovery Tub™</a></th><th><a href="#barrel">Ice Barrel 400</a></th><th><a href="#coldpod">The Cold Pod</a></th><th><a href="#lumi">The Recovery Pod by LUMI</a></th><th><a href="#icepod">The Ice Pod by ThePodCompany</a></th></tr></thead><tbody>
- <tr><td>Capacity</td><td>71.6 gallons<br>(270L)</td><td>105 gallons<br>(397 L)</td><td>84.5 gallons<br>(320 L)</td><td>84.5 gallons<br>(320 L)</td><td>79 gallons<br>(300 L)</td></tr>
+ <tr><td>Capacity</td><td>71.6 gal.<br>(270L)</td><td>105 gal.<br>(397 L)</td><td>84.5 gal.<br>(320 L)</td><td>84.5 gal.<br>(320 L)</td><td>79 gal.<br>(300 L)</td></tr>
  <tr><td>Diameter</td><td>31.5″<br>(80 cm)</td><td>31″<br>(78.7 cm)</td><td>29.5″<br>(75 cm)</td><td>31.5″<br>(80 cm)</td><td>32″<br>(81.3 cm)</td></tr>
  <tr><td>Height</td><td>29.5″<br>(75 cm)</td><td>42″<br>(106.7 cm)</td><td>29.5″<br>(75 cm)</td><td>29.5″<br>(75 cm)</td><td>29″<br>(73.7 cm)</td></tr>
  <tr><td>Person size (up to)</td><td>6′ 7″<br>(200 cm)</td><td>6′ 6″<br>(198 cm)</td><td>6′ 7″<br>(200 cm)</td><td>6′ 7″<br>(200 m)</td><td>6′ 9″<br>(205 cm)</td></tr>
@@ -79,6 +80,7 @@ Without a drain, you’ll have to empty out the tub a bucket of water at a time 
  <tr><td>Shipping</td><td>Worldwide</td><td>USA only</td><td>Worldwide</td><td>Worldwide (free)</td><td>USA only</td></tr>
  <tr><td>Warranty</td><td>1-year</td><td>Lifetime</td><td>No</td><td>1-year</td><td>6-month</td></tr>
 </tbody></table>
+</div>
 
 <h3 id="polar">Polar Recovery Tub™</h3>
 
