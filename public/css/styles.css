@@ -562,7 +562,6 @@ textarea {
 }
 .toc a {
 	font-family: var(--font-mono);
-	font-size: 110%;
 }
 .product-img {
 	display: block;
@@ -591,6 +590,7 @@ textarea {
 .table-fw table {
 	border-collapse: collapse;
 	table-layout: fixed;
+	width: calc(768px * 1.3);
 }
 
 .table-fw th,
@@ -619,7 +619,7 @@ textarea {
 .table-fw tr > td:not(:nth-child(1)) {
 	text-align: right;
 }
-.table-fw th:first-child {
+.table-fw thead:first-child {
 	background: none;
 	border: none;
 }
@@ -640,11 +640,9 @@ textarea {
 	max-width: 125px;
 	border-radius: 25em;
 }
-
 .author-bio p {
 	margin-bottom: 0;
 }
-
 @media screen and (min-width: 576px) {
 	.author-bio {
 		flex-direction: row;
@@ -657,7 +655,14 @@ textarea {
 	list-style: none;
 	padding-left: 0;
 }
-
+@media screen and (min-width: 1012px) {
+	.mobile-only {
+		display: none;
+	}
+}
+.align-right {
+	text-align: right;
+}
 .text-center {
 	text-align: center;
 }

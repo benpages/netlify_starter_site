@@ -15,17 +15,32 @@ imageAlt:
 
 People have been using cold exposure to recover after challenging physical activity, boost their immune system, become more resilient to stress, and improve their sleep.
 
-<div class="well">
-<small>
-<em>
-None of this is medical advice. Always consult your doctor before using an ice bath if you have health issues.
-Children and vulnerable adults should never use ice baths unsupervised.
-Do not use an ice bath if you're under 18, pregnant, have heart issues, high blood pressure, diabetes, neuropathy, retinal damage, wear a pacemaker, had frostbite, open wounds, recent surgery, epilepsy, or other health concerns, as it can lower body temperature, constrict blood vessels, and may raise the risk of cardiac arrest or stroke.
-</em>
-</small>
+<div class="toc">
+<h4 class="toc__title">In this post</h4>
+
+<ul>
+<li><a href="#considerations">Considerations</a></li>
+<li><a href="#best-ice-baths">The best portable ice baths</a></li>
+<li><a href="#benefits">Benefits of Ice Baths</a></li>
+<li><a href="#faq">FAQ</a></li>
+<ul>
+<li><a href="#how-much-water">How much water do I need?</a></li>
+<li><a href="#how-much-ice">How much ice to use?</a></li>
+<li><a href="#how-long">How long should you stay in an ice bath?</a></li>
+<li><a href="#temperature">What temperature is recommended?</a></li>
+<li><a href="#change-water">How often do you change the water?</a></li>
+<li><a href="#clean">How do I clean and maintain an ice bath?</a></li>
+<li><a href="#where-set-up">Where should I set up my portable ice bath?</a></li>
+<li><a href="#after-eating">Is it safe to take an ice bath after eating?</a></li>
+</ul>
+</ul>
 </div>
 
-## Considerations
+<small>
+<strong>⚠️ None of this is medical advice.</strong> Always consult your doctor before using an ice bath if you have health issues. Children and vulnerable adults should never use ice baths unsupervised. Ice baths can lower body temperature, constrict blood vessels, and may raise the risk of cardiac arrest or stroke.
+</small>
+
+<h2 id="considerations">Considerations</h2>
 
 ### Size
 
@@ -65,7 +80,11 @@ Without a drain, you’ll have to empty out the tub a bucket of water at a time 
 
 <img class="img-fw" src="/assets/blog/portable-ice-bath-drain.jpg" alt="">
 
-## The best portable ice baths
+<h2 id="best-ice-baths">The best portable ice baths</h2>
+
+<p class="mobile-only align-right">
+<small>(scroll) &rarr;</small>
+</p>
 
 <div class="table-fw">
 <table>
@@ -253,7 +272,7 @@ Downside: While the Ice Barrel 400 offers a lifetime warranty, The Ice Pod only 
 
 Things like drain hose, insulated icepod lid, extended warranty, and floating thermometer are extras.
 
-## Benefits of Ice Baths
+<h2 id="benefits">Benefits of Ice Baths</h2>
 
 Ice baths are amazing for your health.
 
@@ -269,9 +288,9 @@ Is this proven? Does it work? The research is still young. But it’s enough to 
 
 [ graphic ]
 
-## FAQ
+<h2 id="faq">FAQ</h2>
 
-### How much water do I need?
+<h3 id="how-much-water">How much water do I need?</h3>
 
 You want to fill up your ice bath so that you can immerse yourself up to your shoulders without the water overflowing.
 
@@ -281,7 +300,7 @@ As a rule of thumb, you’ll never want to fill up the ice bath more than two-th
 
 If you’re concerned with the tub overflowing, start with 50% water, then slowly add more water until you reach the optimal level. So if the capacity of your ice bath is 400 L, start with 200 L and go from there.
 
-### How much ice to use?
+<h3 id="how-much-ice">How much ice to use?</h3>
 
 This depends on:
 
@@ -293,7 +312,7 @@ Through trial and error, you’ll find out what quantity of ice is ideal for you
 
 Ice Pod recommends adding anywhere between 15 and 40 lbs of ice (7-18kg) to the tub per session. So start with 15 lbs (7 kg), let the water cool down, measure the temperature, and add more ice if needed.
 
-### How long should you stay in an ice bath?
+<h3 id="how-long">How long should you stay in an ice bath?</h3>
 
 Stay in the ice bath for 2-3 minutes.
 
@@ -301,7 +320,7 @@ When you first get in the ice bath, you’ll tense up and hyperventilate. Slow d
 
 After a while, you’ll feel a sense of calm and peace. That’s the state we’re looking for. Once you’ve reached it, you can end your session.
 
-### What temperature is recommended?
+<h3 id="temperature">What temperature is recommended?</h3>
 
 Getting used to ice baths can take some getting used to.
 
@@ -311,7 +330,7 @@ You may also want to practice taking cold showers to get used to the shock the c
 
 <img class="img-fw" src="/assets/blog/portable-ice-bath-accessories.jpg" alt="">
 
-### How often do you change the water?
+<h3 id="change-water">How often do you change the water?</h3>
 
 Replace the water in your tub every 3 to 5 sessions and clean thoroughly before refilling.
 
@@ -319,13 +338,13 @@ If you want to change the water less often, add epsom salt to your bath (about 1
 
 If you use salt, you can replace the water every 2 to 4 weeks. Do not use table salt or other types of chloride salts.
 
-### How do I clean and maintain an ice bath?
+<h3 id="clean">How do I clean and maintain an ice bath?</h3>
 
 Before you use your ice bath for the first time, make sure to properly wash it with soap and water.
 
 Do not use bleach or other chemical products - they may damage your tub’s isolating and waterproofing properties.
 
-### Where should I set up my portable ice bath?
+<h3 id="where-set-up">Where should I set up my portable ice bath?</h3>
 
 Most portable ice baths are UV resistant so you can use them outside as well as inside.
 
@@ -341,7 +360,7 @@ Your balcony may not be built to sustain such pressure.
 
 Consult your developer, builder, Homeowners Association (HOA), Condominium Board, or a structural engineer before it is safe to set up a portable ice bath on your balcony.
 
-### Is it safe to take an ice bath after eating?
+<h3 id="after-eating">Is it safe to take an ice bath after eating?</h3>
 
 Ice baths are safe after eating. Cold water does not drive blood flow away from your core organs, and thus does not interfere with digestion.
 
