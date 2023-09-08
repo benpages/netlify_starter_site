@@ -251,19 +251,22 @@ a:focus {
 	border-radius: 0.25em;
 	margin-top: 1rem;
 	margin-bottom: 1rem;
+	font-weight: 400;
+}
+
+.btn a,
+.btn a:hover,
+.btn a:focus {
+	text-decoration: none;
 }
 
 .btn-primary {
-	color: white;
 	background-color: var(--clr-primary);
 	border: 1px solid var(--clr-primary);
-	font-weight: 400;
 }
 
 .btn-primary a {
-	font-weight: 400;
 	color: white;
-	text-decoration: none;
 }
 
 .btn-primary:hover,
@@ -272,9 +275,18 @@ a:focus {
 	border: 1px solid rgba(var(--clr-primary-rgb), 0.85);
 }
 
-.btn-primary a:hover,
-.btn-primary a:focus {
-	text-decoration: none;
+.btn-outline {
+	background-color: white;
+	border: 1px solid var(--clr-primary);
+}
+
+.btn-outline a {
+	color: var(--clr-primary);
+}
+
+.btn-outline:hover,
+.btn-outline:focus {
+	border: 1px solid rgba(var(--clr-primary-rgb), 0.7);
 }
 
 /* Header and Footer */

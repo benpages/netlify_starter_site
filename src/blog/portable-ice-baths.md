@@ -7,15 +7,15 @@ description:
 date: 2023-09-06
 tags:
   - post
-image:
+image: /assets/blog/portable-ice-bath.jpg
 imageAlt:
 ---
 
 <img class="img-fw" src="/assets/blog/portable-ice-bath.jpg" alt="">
 
-The best portable ice baths are lightweight, easy to set up, and affordable. They're a great alternative to traditional ice baths, which are bulky and cannot be transported easily. You can take your portable ice bath on the go and store it in the closet when you're not using it.
+The best portable ice baths are light, simple to set up, and budget-friendly. They're a great alternative to traditional ice baths, which are bulky and cannot be transported easily. You can take your portable ice bath on the go and store it in the closet when you're not using it.
 
-In this guide, you'll discover 5 great portable ice baths. You'll also get answers to important questions, like "can I set up an ice bath on my balcony?" or "how much ice do I need to use?".
+In this guide, you'll discover 5 great portable ice baths. You'll also get answers to important questions, like "Can I set up an ice bath on my balcony?" or "How much ice do I need to use?".
 
 Let's dive in.
 
@@ -34,7 +34,6 @@ Let's dive in.
 <li><a href="#change-water">How often do you change the water?</a></li>
 <li><a href="#clean">How do I clean and maintain an ice bath?</a></li>
 <li><a href="#where-set-up">Where should I set up my portable ice bath?</a></li>
-<li><a href="#after-eating">Is it safe to take an ice bath after eating?</a></li>
 </ul>
 <li><a href="#benefits">Benefits of Ice Baths: Real or Made Up?</a></li>
 </ul>
@@ -48,44 +47,33 @@ Let's dive in.
 
 ### Size
 
-You want to get an ice tub in which you can sit comfortably and submerge your body up to your neck.
-
-Most ice baths can accomodate people up to 6 feet 7 inches (2 meters tall) and 300 pounds. This number can vary slightly based on the brand. "Max. suitable height" is a standard spec that you will find listed on the manufacturer's website.
-
-Some brands offer XL versions of their tubs. Coldpod, for example, recently release the Ice Pod XL that adds an additional 31.7 gal. (120 L) to their original ice bath.
+You want to get an ice tub in which you can sit comfortably and submerge your body up to your neck. Most ice baths can accommodate people up to 6 feet 7 inches (2 meters) and 300 pounds (136 kg). This number can vary slightly based on the brand and model. Look for "max. suitable height" in the product specs to make sure it's the right fit. Some brands offer XL versions of their tubs. The Cold Pod XL, for example, is a wider version of the original Cold Pod that offers an additional 120 L to the existing 320.
 
 <img class="img-fw" src="/assets/blog/portable-ice-bath-size.jpg" alt="">
 
 ### Cooling mechanism
 
-Ice baths can be cooled in one of two ways: with ice or via a chiller that automatically keeps the water at a set temperature. Most portable ice baths use the former. You fill them up with cold water and use ice to bring it to your desired temperature.
-
-One expection is the Ice Pod, by the ThePodCompany which can be cooled either way. The company produces a chiller that you can buy in addition to the tub for $999.
-
-The upside of chillers is that you don't need ice and most can also be used to warm up the water instead of cooling it. However, chillers are expensive, bulky, and require an electrical plug.
+You can cool ice baths in two ways: with ice or an electric chiller that regulates the water temperature. Most portable ice baths use the former. You fill them up with cold water and add ice to bring the temperature down. One exception is the Ice Pod which is a hybrid. For an extra $999, the company will send you a chiller that you can use instead of ice to cool your tub. While chillers are incredibly convenient, they are expensive, bulky, and require an electrical plug.
 
 ### Portability
 
-Portable ice baths are inflatable and can be folded for easy transport. However, there are some exceptions, like the Ice Barrel 400, which is made of hard recycled plastic. At 55 lbs, it can still be transported and set up just about anywhere, but with more hassle than other models on our list which weigh under 8 lbs.
+Most portable ice baths are inflatable and can be folded for easy transport. However, there are some exceptions, like the Ice Barrel 400. It is made of hard plastic that can't be folded or taken apart. At 55 lbs, it can still be transported and set up just about anywhere but with more hassle than other models on our list, which weigh under 8 lbs.
 
 <img class="img-fw" src="/assets/blog/portable-ice-bath-packed.jpg" alt="">
 
 ### UV resistance
 
-If you’re going to leave your ice bath outside, you’ll want to make sure it doesn’t get damaged by the sun.
-UV rays can cause materials to deteriorate, fade, and become brittle. Therefore, UV protection will help you increase the durability of your ice bath.
+If you’re going to leave your ice bath outside, you’ll want to make sure it doesn’t get damaged by the sun. UV rays can cause materials to deteriorate, fade, and become brittle. Therefore, UV protection will help you increase the durability of your ice bath if you plan on leaving it outdoors.
 
 ### Insulation
 
-Every portable ice bath uses different insulation technology to keep the water as cool as possible.
-The better the insulation, the less often you’ll have to refill with ice.
+Every portable ice bath uses different insulation technology to keep the water as cool as possible. The LUMI Recovery Pod, for example, uses 3 layers of thermal insulated TPE (Thermoplastic Elastomers). Proper insulation helps keep the water cool inside your tub for a longer time - meaning you’ll have to refill with ice less often.
 
 <img class="img-fw" src="/assets/blog/portable-ice-bath-insulation.jpg" alt="">
 
 ### Drain valve
 
-A drain is an important element that every ice bath should have. It allows you to quickly drain the water from the tub when you need to.
-Without a drain, you’ll have to empty out the tub a bucket of water at a time or you’ll have to invest in a submersible pump.
+A drain is an important element that every ice bath should have. It allows you to quickly drain the water from the tub when you need to. Without a drain, you’ll have to empty the tub one bucket of water at a time or you’ll have to invest in a submersible pump. The models we've chosen for you below all have one.
 
 <img class="img-fw" src="/assets/blog/portable-ice-bath-drain.jpg" alt="">
 
@@ -98,14 +86,14 @@ Without a drain, you’ll have to empty out the tub a bucket of water at a time 
 <div class="table-fw">
 <table>
 <thead><tr><th></th><th><a href="#polar">Polar Recovery Tub™</a></th><th><a href="#barrel">Ice Barrel 400</a></th><th><a href="#coldpod">The Cold Pod</a></th><th><a href="#lumi">The Recovery Pod by LUMI</a></th><th><a href="#icepod">The Ice Pod by ThePodCompany</a></th></tr></thead><tbody>
- <tr><td>Capacity</td><td>71.6 gal.<br>(270L)</td><td>105 gal.<br>(397 L)</td><td>84.5 gal.<br>(320 L)</td><td>84.5 gal.<br>(320 L)</td><td>79 gal.<br>(300 L)</td></tr>
+ <tr><td>Capacity</td><td>270L</td><td>397 L</td><td>320 L</td><td>320 L</td><td>300 L</td></tr>
  <tr><td>Diameter</td><td>31.5″<br>(80 cm)</td><td>31″<br>(78.7 cm)</td><td>29.5″<br>(75 cm)</td><td>31.5″<br>(80 cm)</td><td>32″<br>(81.3 cm)</td></tr>
  <tr><td>Height</td><td>29.5″<br>(75 cm)</td><td>42″<br>(106.7 cm)</td><td>29.5″<br>(75 cm)</td><td>29.5″<br>(75 cm)</td><td>29″<br>(73.7 cm)</td></tr>
  <tr><td>Person size (up to)</td><td>6′ 7″<br>(200 cm)</td><td>6′ 6″<br>(198 cm)</td><td>6′ 7″<br>(200 cm)</td><td>6′ 7″<br>(200 m)</td><td>6′ 9″<br>(205 cm)</td></tr>
- <tr><td>Weight (empty)</td><td>6.6 lbs<br>(3 kg)</td><td>55 lbs<br>(25 kg)</td><td>7.7 lbs<br>(3.5 kg)</td><td>7.7 lbs<br>(3.5 kg)</td><td>7 lbs<br>(3 kg)</td></tr>
+ <tr><td>Weight (empty)</td><td>6.6 lbs<br>(3 kg)</td><td>55 lbs<br>(25 kg)</td><td>7.7 lbs<br>(3.5 kg)</td><td>7.7 lbs<br>(3.5 kg)</td><td>7 lbs<br>(3.18 kg)</td></tr>
  <tr><td>Folds</td><td>Yes</td><td>No</td><td>Yes</td><td>Yes</td><td>Yes</td></tr>
- <tr><td>Price</td><td>$89.99</td><td>$1,199.99</td><td>$95-$125</td><td>$99</td><td>$119</td></tr>
- <tr><td>Shipping</td><td>Worldwide</td><td>USA only</td><td>Worldwide</td><td>Worldwide (free)</td><td>USA only</td></tr>
+ <tr><td>Price</td><td>$89.99</td><td>$1,199.99</td><td>$120</td><td>$99</td><td>$119</td></tr>
+ <tr><td>Shipping</td><td>Worldwide<br>(from UK)</td><td>USA only</td><td>Worldwide<br>(from UK)</td><td>Worldwide<br>(from UK)</td><td>USA only</td></tr>
  <tr><td>Warranty</td><td>1-year</td><td>Lifetime</td><td>No</td><td>1-year</td><td>6-month</td></tr>
 </tbody></table>
 </div>
@@ -118,7 +106,7 @@ Without a drain, you’ll have to empty out the tub a bucket of water at a time 
 
 **How big is it?**
 
-- Capacity: 71.6 gallons (270L)
+- Capacity: 270L
 - Diameter: 31.5 inches (80 cm)
 - Height: 29.5 inches (75 cm)
 - Suitable for: People up to 6 ft 7" (2m tall)
@@ -131,15 +119,21 @@ Without a drain, you’ll have to empty out the tub a bucket of water at a time 
 **Shipping and pricing**
 
 - Price: $89.99 | £89.99 | €149.95
-- Shipping: Wolrdwide (5-10 business days)
+- Shipping: UK, USA, Australia, Canada, and Ireland
 - Warranty: 1-year
 </div>
 
-Description: Comes with bath cover, hand pump, 1x2m drain pipe, support poles. While it may have a slightly smaller capacity compared to some other models, it remains adequate for most users. UK stock
+Polar Recovery's portable ice bath, the Recovery Tub, offers an affordable option for those seeking cold recovery therapy. The product is shipped with a floating thermometer, reusable ice pack, hand pump, a telescopic drain hose, and a cover to keep debris out when not in use.
 
-Uniqueness: Compared to some high-end alternatives like the Ice Barrel 400, which cost significantly more (around $2,890 and $1,199.99, respectively), the Polar Recovery tub is much more budget-friendly at $89.99. The product's availability with an estimated worldwide delivery time of 5 to 8 days means it can reach customers quickly. Ships to Europe and UK.
+With a 270L capacity, it's on the smaller side among our recommendations. If you're taller or need more room, you might consider larger models on our list.
 
-Downside: The biggest gripe with the Polar Recovery tub™- Ice Bath is its relatively smaller capacity compared to some of the other ice baths in the market. With a capacity of 71.6 gallons (270L), it falls behind options like the Ice Barrel 400, which offers a substantial 105-gallon capacity.
+Setting up the Polar Recovery Tub is simple. Simply insert the 8 support poles, inflate the top ring, and you're ready to go.
+
+It seems that Polar Recovery is only shipping to the United Kingdom, the United States, Australia, Canada, and Ireland at the moment. So if you live in Europe (except Ireland), other models on our list will be a better fit for you.
+
+The Polar Recovery Tub is available on polar-recovery.com as well as on Amazon UK and US.
+
+<button class="btn btn-outline"><a href="https://www.awin1.com/cread.php?awinmid=60339&awinaffid=1435411&ued=https%3A%2F%2Fpolar-recovery.com%2Fproducts%2Fpolar-recovery-tub-ice-bath">Get the Polar Recovery Tub</a></button>
 
 <h3 id="barrel">Ice Barrel 400</h3>
 
@@ -149,7 +143,7 @@ Downside: The biggest gripe with the Polar Recovery tub™- Ice Bath is its rela
 
 **How big is it?**
 
-- Capacity: 105 gallons (397 L)
+- Capacity: 397 L
 - Diameter: 31 inches (78.7 cm)
 - Height: 42 inches (106.7 cm)
 - Suitable for: People up to 6 ft 6” (198 cm) and 300 pounds (136 kg)
@@ -162,16 +156,24 @@ Downside: The biggest gripe with the Polar Recovery tub™- Ice Bath is its rela
 **Pricing and shipping**
 
 - Price: $1199.99
-- Shipping: USA
+- Shipping: US and Canada (7-10 business days)
 - Warranty: Limited lifetime
 
 </div>
 
-Description: - Company location: OH, USA. Stand to keep your barrel level and steady, Lid to keep out debris, Step stool for easy entry and exit, Cover UV and water-resistant, Made from recycled plastic material, Lifetime warranty, from recycled materials. 930 lbs. when full. Ships within 7-10 business days. No drain pipe?. Smaller Ice Barrel 300 for People up to 6’2” and 250 lbs. Best for warm climates due to extra-thick insulation. Same price. height 30.5 inch. Width 35.5 inch.
+The Ice Barrel 400 stands out in terms of design and comfort.
 
-Uniqueness: offers an impressive 105-gallon (397 L) capacity, making it one of the largest options on the market. Spacious and comfortable experience. comes with a range of accessories such as a stand for stability, a lid to keep out debris, a step stool for easy entry and exit, and a UV and water-resistant cover. Commitment to sustainability, as it's made from recycled plastic material and comes with a lifetime warranty.
+This ice bath takes shape as a barrel, setting it apart from traditional models. Crafted from recycled plastic, it includes a stool for easy access, a sturdy stand for stability, and a cover to keep out debris.
 
-Downside: The biggest gripe about the Ice Barrel 400 could be its weight, coming in at 55 lbs (25 kg) when empty. This weight might make it more challenging to transport or move around, especially when compared to some other portable ice baths that are considerably lighter. International shipping but costs more than product. Expensive shipping to Europe.
+With a substantial 397 L capacity, it's one of the largest ice baths on the market today. However, it's also the heaviest at 55 lbs (25 kg) - making it less portable compared to inflatable tubs.
+
+Because it's made of hard plastic, it is as durable and leakproof as an ice bath can get. In fact, Ice Barrel has such confidence in its build quality that they offer a limited lifetime warranty.
+
+Let's talk about the elephant in the room. The price. The Ice Barrel 400 comes at $1,199.99, which is notably higher than standard inflatable ice baths. But consider this an investment if you prioritize durability and long-term use.
+
+Delivery times are 4 to 6 weeks, a bit longer than we'd like. So plan ahead if you want to gift it this Christmas.
+
+<button class="btn btn-outline"><a href="https://shareasale.com/r.cfm?b=1715344&u=3822885&m=106685&urllink=icebarrel%2Ecom%2Fproduct%2Fice%2Dbarrel%2D400%2F&afftrack=">Get the Ice Barrel 400</a></button>
 
 <h3 id="coldpod">The Cold Pod</h3>
 
@@ -181,7 +183,7 @@ Downside: The biggest gripe about the Ice Barrel 400 could be its weight, coming
 
 **How big is it?**
 
-- Capacity: 84.5 gallons (320 L)
+- Capacity: 320 L
 - Diameter: 29.5 inches (75 cm)
 - Height: 29.5 inches (75 cm)
 - Suitable for: People up to 6 ft 7" foot (2m tall)
@@ -199,11 +201,21 @@ Downside: The biggest gripe about the Ice Barrel 400 could be its weight, coming
 
 </div>
 
-Description: - Company location: Canterbury, England. UK stock. XL version available; Drain Tap, Insulated Cover, Support Legs, Pump, Drain Hose, Carry Bag, User Manual,
+The Cold Pod offers versatility and ease of use. Here's what makes it a standout choice:
 
-Uniqueness: While its capacity of 84.5 gallons and suitability for people up to 6 ft 7'' is on par with a few other models, it distinguishes itself through its offerings at a competitive price range of $95-$125. The Cold Pod boasts an insulated cover to retain the chill of the ice, and unlike some competitors, includes accessories like a drain tap, pump, and a carry bag as standard. Additionally, its estimated worldwide delivery timeframe of 5 to 8 days is notably quicker than many of its rivals.
+This ice bath comes in two sizes, standard and large, catering to those who prefer extra space. However, the standard 320 L model should fit most users.
 
-Downside: Unlike some other ice baths, The Cold Pod does not specify the materials used or any unique insulation techniques, which might make a significant difference in performance. £20-£35 shipping worldwide.
+It folds up neatly and even includes a carry bag, providing convenient storage for all components - pump, drain pipe, and cover.
+
+The Cold Pod ships worldwide in just 5 to 8 days - that's faster than most. Count an additional $25 to $45 for shipping outside of the UK, depending on your location.
+
+The Cold Pod is insulated with a layer of pearl foam sandwiched between two layers of PVC. A fourth layer made of nylon ensures the durability of the walls.
+
+On paper, this ice bath is very similar to the LUMI Recovery Pod—same volume, same height, and same weight. It comes at a slightly higher price point but offers an extra layer of insulation and includes a handy carry bag as standard.
+
+One thing to note is the absence of a warranty. The Cold Pod relies on a 30-day refund policy, so after that period, you're responsible for any malfunctions or leaks.
+
+<button class="btn btn-outline"><a href="https://thecoldpod.com/product/the-cold-pod-portable-ice-bath/?coupon=whatifididnt">Get the Cold Pop</a></button>
 
 <h3 id="lumi">The Recovery Pod by LUMI</h3>
 
@@ -213,7 +225,7 @@ Downside: Unlike some other ice baths, The Cold Pod does not specify the materia
 
 **How big is it?**
 
-- Capacity: 84.5 gallons (320 L)
+- Capacity: 320 L
 - Diameter: 31.5 inches (80 cm)
 - Height: 29.5 inches (75 cm)
 - Suitable for: People up to 6 ft 7" (2m tall)
@@ -226,26 +238,24 @@ Downside: Unlike some other ice baths, The Cold Pod does not specify the materia
 **Shipping and pricing**
 
 - Price: $99 | €113.95 | £95
-- Shipping: Free worldwide shipping
+- Shipping: Worldwide (14-21 days)
 - Warranty: 1-year
 
 </div>
 
-Description: Company located: Exeter, England. 3 layers of thermal insulated TPE protection that keeps the water at a steady temperature, LUMI Thermo™ insulated Lid as standard, designed to add a thermal bridge between the ice bath water and the external elements, optional extra, you can include an 'All weather cover' to keep rainwater and other debris out of your ice bath. Rip-stop Polyester fabric strengthened the external layer. 6 x Durable Support Legs.1 x Foot Pump. 1 x Drain Hose. 2 x Transparent Repair Patches.
+LUMI, a British company located in southwest England, makes one of the best portable ice baths on the market—The Recovery Pod.
 
-Uniqueness: sets itself apart with its innovative design. The LUMI Recovery Pod boasts three layers of thermal insulated TPE protection, ensuring that the water inside maintains a steady temperature for an extended period. Rip-stop Polyester fabric strengthens its external layer, enhancing durability. advanced insulation techniques. better temperature retention than most of its competitors. boasts a LUMI Thermo™ insulated Lid as a standard feature
+Crafted using thermal TPE and ripstop polyester, it provides exceptional insulation and durability, keeping the water inside the tub icy cold even in hot weather.
 
-UK (14-21 Days) - £9.95
-EU (14-21 Days) - £10.95
-USA (14-21 Days) - £11.95
-Int'l (14-21 Days) - £31.95
-Express (Duty Paid):
-UK (5-7 Days) - £21.95
-EU (5-9 Days) - £23.95
-USA (5-9 Days) - £23.95
-Int'l (7-12 Days) - £44.95
-Free Economy:
-All Locations (30-40 Days) - Free
+This ice bath is designed to sit securely on 6 support legs. It comes with a Thermo lid, a telescopic drain hose, repair patches, and a foot pump for inflating the top ring as well as the Thermo lid.
+
+For those seeking extra capacity and insulation, consider the premium version - the Recovery Pod Max. It offers an additional 100 L of capacity and two extra layers of insulation. It also comes with a slick roll-top dry bag that fits the ice bath and all of its accessories.
+
+LUMI stands out by offering free economy worldwide shipping, though your order may take 30 to 40 days to reach you. If you prefer a faster delivery option, expect additional costs of $13 for Europe and the UK, $15 for the US, and around $40 for the rest of the world. Not too bad.
+
+LUMI offers a 1-year warranty on the tub and a 1-month warranty on the inflatables (ie. the top ring and Thermo lid) that covers any structure defects and leakages.
+
+<button class="btn btn-outline"><a href="https://collabs.shop/xwsbhq">Get the LUMI Recovery Pod</a></button>
 
 <h3 id="icepod">The Ice Pod by ThePodCompany</h3>
 
@@ -255,31 +265,33 @@ All Locations (30-40 Days) - Free
 
 **How big is it?**
 
-- Capacity: 79 gallons (300 L)
+- Capacity: 300 L
 - Diameter: 32 inches (81.3 cm)
 - Height: 29 inches (73.7 cm)
 - Suitable for: People up to 6 ft 9" (2.1m); up to 250-300lbs (115kg - 135kg)
 
 **How portable is it?**
 
-- Weight (empty): 7 lbs (3 kg)
+- Weight (empty): 7 lbs (3.18 kg)
 - Folds: Yes
 
 **Pricing and shipping**
 
 - Price: $119
-- Shipping: USA (2-6 business days)
+- Shipping: US only (2-6 business days)
 - Warranty: 6-month (extendable)
 
 </div>
 
-Description: Return policy (100 days) - The product needs to be in unused condition. 1x Hand pump, 1x Cover lid, 1x Drainage hose, 6 months full warranty (extendable). Also Icepod 2.0 PRO, designed for pro athletes, double insulation to keep water cold for longer (up to multiple days, depending on your climate), high-quality UV resistant materials for frequent use and outdoor set up
+The Ice Pod is a 300-liter portable ice bath made by the Pod Company. Like other inflatable models we've reviewed, this ice bath comes complete with a hand pump, a lid, and a drainage hose. It also comes with a 6-month full warranty that you can choose to extend when checking out.
 
-Uniqueness: While most of the listed ice baths cater to individuals up to 6'7", The Ice Pod comfortably accommodates those up to 6'9", making it a preferred choice for taller individuals. Unique to The Ice Pod, it offers users the versatility of choosing between traditional ice cooling and an optional water chiller. generous 100-day return policy, provided the product remains unused. The Ice Pod’s 2.0 PRO version is tailor-made for professional athletes, emphasizing prolonged cold retention through double insulation and employing high-quality UV resistant materials ideal for regular usage and outdoor setups.
+With its 32″ diameter, the Ice Pod can fit people that are as tall as 6′ 9″, which is the tallest we've seen advertised from all brands we've come across when doing our research for this post. It features a 3-layer insulation system: an inner layer of phthalate-free PVC, a middle layer of pearl tech, and an outer layer of nylon for prolonged durability.
 
-Downside: While the Ice Barrel 400 offers a lifetime warranty, The Ice Pod only provides a 6-month full warranty.
+But what truly sets the Pod Company apart from the competition is its offering of water chillers. For $999, you can get a 280-watt water chiller designed to cool the water in your ice bath to 39°F (4°C) and keep it there with minimal power consumption. This saves you the hassle of having to buy ice every time you want to use the Ice Pod. According to the company, the savings you'll make on ice could help you recoup your $999 investment within a year. (Note: the chiller is compatible with any ice bath.)
 
-Things like drain hose, insulated icepod lid, extended warranty, and floating thermometer are extras.
+The Pod Company currently only ships to the USA and its territories.
+
+<button class="btn btn-outline"><a href="https://snwbl.io/pod-company/whatifididnt">Get the Ice Pod</a></button>
 
 <h2 id="faq">FAQ</h2>
 
@@ -287,77 +299,51 @@ Things like drain hose, insulated icepod lid, extended warranty, and floating th
 
 You want to fill up your ice bath so that you can immerse yourself up to your shoulders without the water overflowing.
 
-Figuring the exact amount you need will require trial and error.
+As a rule of thumb, never fill up the ice bath more than two-thirds of the way. The water will rise once you add the ice and yourself to the tub.
 
-As a rule of thumb, you’ll never want to fill up the ice bath more than two-thirds of the way. The water will rise once you jump in and add in the ice.
-
-If you’re concerned with the tub overflowing, start with 50% water, then slowly add more water until you reach the optimal level. So if the capacity of your ice bath is 400 L, start with 200 L and go from there.
+When starting out, to avoid overflowing, begin with 50% water and gradually adjust to your preferred water level. So if the capacity of your ice bath is 400 L, start with 200 L and go from there.
 
 <h3 id="how-much-ice">How much ice to use?</h3>
 
-This depends on:
+Ice Pod recommends adding anywhere between 15 and 40 lbs of ice (7-18kg) to the tub per session.
 
-- how cold you want the bath to be
-- what temperature the water is at before you put in the ice
-- how much water you have in the tub (the less water you use, the less ice you’ll need to cool it down)
-
-Through trial and error, you’ll find out what quantity of ice is ideal for your specific model and set up.
-
-Ice Pod recommends adding anywhere between 15 and 40 lbs of ice (7-18kg) to the tub per session. So start with 15 lbs (7 kg), let the water cool down, measure the temperature, and add more ice if needed.
+Again, figuring out exactly how much ice you need to get the temperature of your ice bath where you want it to be will take some trial and error. Be patient. Start with less ice (eg. 15 lbs) and add more gradually. Note that the more water you have in your tub, the more ice you'll need to cool it down.
 
 <h3 id="how-long">How long should you stay in an ice bath?</h3>
 
 Stay in the ice bath for 2-3 minutes.
 
-When you first get in the ice bath, you’ll tense up and hyperventilate. Slow down your breathing and relax.
-
-After a while, you’ll feel a sense of calm and peace. That’s the state we’re looking for. Once you’ve reached it, you can end your session.
+When you get in the ice bath, you’ll tense up and hyperventilate. Slow down your breathing and try to relax. After a while, you’ll feel a sense of calm and peace. That’s the state we’re looking for. Once you’ve reached that state, you can end your session.
 
 <h3 id="temperature">What temperature is recommended?</h3>
 
-Getting used to ice baths can take some getting used to.
+Cold water immersion can take some getting used to. Start with 59° F (15°C) and progressively decrease the temperature session after session.
 
-Start with 59° F (15°C) and progressively decrease the temperature session after session.
-
-You may also want to practice taking cold showers to get used to the shock the cold creates on your body.
+If you don't have an ice bath yet, start building up your resistance to the cold by taking cold or contrast showers daily.
 
 <img class="img-fw" src="/assets/blog/portable-ice-bath-accessories.jpg" alt="">
 
-<h3 id="change-water">How often do you change the water?</h3>
+<h3 id="change-water">How often do I change the water in the tub?</h3>
 
-Replace the water in your tub every 3 to 5 sessions and clean thoroughly before refilling.
+Swap out the water every 3 to 5 sessions and give it a good clean before refilling.
 
-If you want to change the water less often, add epsom salt to your bath (about 1 lb or 0.5kg per tub). This will allow you to keep your water clean.
-
-If you use salt, you can replace the water every 2 to 4 weeks. Do not use table salt or other types of chloride salts.
+Some say Epsom salt has disinfecting properties and can be used to keep water clean longer. The recommended amount is about 1 lb or 0.5kg per tub. Do not use table salt or other types of chloride salts.
 
 <h3 id="clean">How do I clean and maintain an ice bath?</h3>
 
-Before you use your ice bath for the first time, make sure to properly wash it with soap and water.
-
-Do not use bleach or other chemical products - they may damage your tub’s isolating and waterproofing properties.
+Wash your ice bath with soap and water before you use for the first time and everytime you drain the water. Do not use bleach or other chemical products - they may damage your tub’s isolating and waterproofing properties.
 
 <h3 id="where-set-up">Where should I set up my portable ice bath?</h3>
 
-Most portable ice baths are UV resistant so you can use them outside as well as inside.
+Most portable ice baths are UV resistant so you can use them outside as well as inside. Check your ice bath’s instruction manual for “maximum temperatures”. The LUMI Recovery Pod can sustain temperatures of up to 50C, for example.
 
-Check your ice bath’s instruction manual for “maximum temperatures”.
+Set it up on top of a slope or near a sink so you can drain it without flooding the area.
 
-The LUMI Recovery Pod can sustain temperatures of up to 50C, for example. So you might not want to leave it in the sun for too long.
-
-**For those of you wanting to set it up on your balcony:**
-
-Once filled up, your ice bath will weigh over 300 kg. Add your body weight, and that’s a lot of weight in a small area.
+Beware if you live in an apartment. Once filled up, your ice bath will weigh over 300 kg. Add your body weight, and that’s a lot of weight in a small area.
 
 Your balcony may not be built to sustain such pressure.
 
-Consult your developer, builder, Homeowners Association (HOA), Condominium Board, or a structural engineer before it is safe to set up a portable ice bath on your balcony.
-
-<h3 id="after-eating">Is it safe to take an ice bath after eating?</h3>
-
-Ice baths are safe after eating. Cold water does not drive blood flow away from your core organs, and thus does not interfere with digestion.
-
-I’m not a doctor, and you may want to confirm this with a medical professional before jumping in right after a gluttony.
+Consult your developer, builder, Homeowners Association (HOA), Condominium Board, or structural engineer before it is safe to set up a portable ice bath on your balcony.
 
 <img class="img-fw" src="/assets/blog/ice-bath-landscape.jpg" alt="">
 
@@ -371,13 +357,13 @@ Just check out some of these studies:
 - "The results suggest no relevant effects of 3-week repeated [cold water immersion] on leukocyte counts in healthy men." ([Frontiers in Physiology, 2023](https://www.researchgate.net/publication/373544807_Effects_of_3-week_repeated_cold_water_immersion_on_leukocyte_counts_and_cardiovascular_factors_an_exploratory_study))
 - "Current evidence suggests CWI has either nil or detrimental effects on physiological adaptations to resistance training" ([Front Sports Act Living, 2021](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8060572/))
 
-All the peer-reviewed studies that I’ve found all conclude the same way, using statements like “there is still a lack of evidence”, or “results are unclear”, or “further studies with larger sample sizes are needed.”
+All the peer-reviewed studies I've found reach similar conclusions, stating things like “there is still a lack of evidence”, or “results are unclear”, or “further studies with larger sample sizes are needed.”
 
-Now, if you’ve ever taken an ice bath or a cold shower, you know that you feel amazing afterwards. And that, for me, is enough to continue practicing cold water exposure year after year.
+Now, if you’ve ever taken an ice bath or a cold shower, you know that you feel amazing afterward. And that, for me, is enough to continue practicing cold water exposure year after year.
 
 <br>
 <small>
 <em style="color:rgba(var(--clr-black-rgb),0.8";>
-Full disclosure: if you purchase a product using one of our links, we may earn a small commission. This helps us keep the lights on and doesn't cost you a thing. Thanks for your support!
+Full disclosure: When you buy a product through our links, we may earn a small commission. This helps us keep going, and it won't cost you a penny. Thanks for backing us.
 </em>
 </small>

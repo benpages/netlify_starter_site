@@ -1,6 +1,6 @@
 .section--hero {
 	background-color: rgba(var(--clr-black-rgb), 0.9);
-	background-image: url("");
+	background-image: url("/assets/blog/portable-ice-bath.jpg");
 	background-blend-mode: multiply;
 	padding-top: 6em;
 	padding-bottom: 6em;
