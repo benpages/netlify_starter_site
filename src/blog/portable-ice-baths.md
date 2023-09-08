@@ -13,7 +13,11 @@ imageAlt:
 
 <img class="img-fw" src="/assets/blog/portable-ice-bath.jpg" alt="">
 
-People have been using cold exposure to recover after challenging physical activity, boost their immune system, become more resilient to stress, and improve their sleep.
+The best portable ice baths are lightweight, easy to set up, and affordable. They're a great alternative to traditional ice baths, which are bulky and cannot be transported easily. You can take your portable ice bath on the go and store it in the closet when you're not using it.
+
+In this guide, you'll discover 5 great portable ice baths. You'll also get answers to important questions, like "can I set up an ice bath on my balcony?" or "how much ice do I need to use?".
+
+Let's dive in.
 
 <div class="toc">
 <h4 class="toc__title">In this post</h4>
@@ -21,7 +25,6 @@ People have been using cold exposure to recover after challenging physical activ
 <ul>
 <li><a href="#considerations">Considerations</a></li>
 <li><a href="#best-ice-baths">The best portable ice baths</a></li>
-<li><a href="#benefits">Benefits of Ice Baths</a></li>
 <li><a href="#faq">FAQ</a></li>
 <ul>
 <li><a href="#how-much-water">How much water do I need?</a></li>
@@ -33,6 +36,7 @@ People have been using cold exposure to recover after challenging physical activ
 <li><a href="#where-set-up">Where should I set up my portable ice bath?</a></li>
 <li><a href="#after-eating">Is it safe to take an ice bath after eating?</a></li>
 </ul>
+<li><a href="#benefits">Benefits of Ice Baths: Real or Made Up?</a></li>
 </ul>
 </div>
 
@@ -272,22 +276,6 @@ Downside: While the Ice Barrel 400 offers a lifetime warranty, The Ice Pod only 
 
 Things like drain hose, insulated icepod lid, extended warranty, and floating thermometer are extras.
 
-<h2 id="benefits">Benefits of Ice Baths</h2>
-
-Ice baths are amazing for your health.
-
-It helps you recover from tough workouts. Just went for a run or a challenging workout and want to avoid feeling broken the next day? Take an ice bath.
-
-It provides lasting energy. Ready to finally put coffee aside? Replace your morning coffee with an ice bath. You’ll be energized and ready to take on the day.
-
-It sets your mood right. If you’re having a bad day or can’t seem to wake up, take an ice bath.
-
-It teaches you to handle stress. Cold therapy is hard. When you hit the cold water, the physiological response is dramatic. Everything in your body tells you to flee. Then you learn to relax. And that transfers to other areas of your life. You’ll quickly get back to a calm state in times of uncertainty.
-
-Is this proven? Does it work? The research is still young. But it’s enough to take an ice bath to understand there’s nothing like it. You’ll feel amazing. Rejuvenated. Happy. Energized. I haven’t met one person that has tried ice baths and wouldn’t do it again. It has a tremendous impact on your physiology and on your psyche.
-
-[ graphic ]
-
 <h2 id="faq">FAQ</h2>
 
 <h3 id="how-much-water">How much water do I need?</h3>
@@ -365,6 +353,20 @@ Consult your developer, builder, Homeowners Association (HOA), Condominium Board
 Ice baths are safe after eating. Cold water does not drive blood flow away from your core organs, and thus does not interfere with digestion.
 
 I’m not a doctor, and you may want to confirm this with a medical professional before jumping in right after a gluttony.
+
+<h2 id="benefits">Benefits of Ice Baths: Real or Made Up?</h2>
+
+Despite what you might read online, there is a lack of evidence supporting claims that cold water immersion has positive impacts on sleep, workout recovery, mood, weight loss, or immunity.
+
+Just check out some of these studies:
+
+- "Cold water immersion is no more effective than active recovery for minimizing the inflammatory and stress responses in muscle after resistance exercise" ([J Physiol, 2017](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5285720/))
+- "The results suggest no relevant effects of 3-week repeated [cold water immersion] on leukocyte counts in healthy men." ([Frontiers in Physiology, 2023](https://www.researchgate.net/publication/373544807_Effects_of_3-week_repeated_cold_water_immersion_on_leukocyte_counts_and_cardiovascular_factors_an_exploratory_study))
+- "Current evidence suggests CWI has either nil or detrimental effects on physiological adaptations to resistance training" ([Front Sports Act Living, 2021](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8060572/))
+
+All the peer-reviewed studies that I’ve found all conclude the same way, using statements like “there is still a lack of evidence”, or “results are unclear”, or “further studies with larger sample sizes are needed.”
+
+Now, if you’ve ever taken an ice bath or a cold shower, you know that you feel amazing afterwards. And that, for me, is enough to continue practicing cold water exposure year after year.
 
 <br>
 <small>
