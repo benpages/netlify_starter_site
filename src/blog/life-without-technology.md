@@ -9,7 +9,7 @@ imageAlt: life without technology
 mySlug: life-without-technology
 ---
 
-<img src="/assets/blog/life-without-technology.jpg" alt="life without technology">
+<img class="img-fw" src="/assets/blog/life-without-technology.jpg" alt="life without technology">
 
 I recently took on the challenge of living without technology for a month. No internet, no laptop, and no TV. Just a dumb phone for calling friends and local businesses. In this article, you'll discover 14 tips that I took away from the 30-day experiment.
 

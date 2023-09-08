@@ -37,7 +37,9 @@ Yes. All apps. You can always add back whatever you need later.
 
 Swipe left from your home screen until you reach the App Library. From there, hold your finger down on an icon until a menu appears. Select Delete App and confirm when prompted. Repeat until all apps are gone. Some apps, Apple won’t let you delete, like Safari and the Camera. We’ll take care of those in the next step.
 
+<div class="align-full">
 <img class="img-fw" src="/assets/blog/deleting-apps-iphone.jpg" alt="deleting unessential iphone apps">
+</div>
 
 ### 2. Disable Safari
 
