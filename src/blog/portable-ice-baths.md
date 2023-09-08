@@ -48,20 +48,25 @@ Let's dive in.
 
 ### Size
 
-What size does your portable ice bath need to be? This will depend on your size.
-Most manufacturers include “Max. suitable height” in their product specs. You want to get an ice tub that will comfortably fit you and submerge you up to your neck.
+You want to get an ice tub in which you can sit comfortably and submerge your body up to your neck.
+
+Most ice baths can accomodate people up to 6 feet 7 inches (2 meters tall) and 300 pounds. This number can vary slightly based on the brand. "Max. suitable height" is a standard spec that you will find listed on the manufacturer's website.
+
+Some brands offer XL versions of their tubs. Coldpod, for example, recently release the Ice Pod XL that adds an additional 31.7 gal. (120 L) to their original ice bath.
 
 <img class="img-fw" src="/assets/blog/portable-ice-bath-size.jpg" alt="">
 
 ### Cooling mechanism
 
-Some portable ice baths come with a chiller that automatically keeps the water at a set temperature.
-These baths are usually a lot more expensive and not as portable as the rest, though they do not require ice to cool down.
+Ice baths can be cooled in one of two ways: with ice or via a chiller that automatically keeps the water at a set temperature. Most portable ice baths use the former. You fill them up with cold water and use ice to bring it to your desired temperature.
+
+One expection is the Ice Pod, by the ThePodCompany which can be cooled either way. The company produces a chiller that you can buy in addition to the tub for $999.
+
+The upside of chillers is that you don't need ice and most can also be used to warm up the water instead of cooling it. However, chillers are expensive, bulky, and require an electrical plug.
 
 ### Portability
 
-Portable ice baths are usually made of soft insulating fabric and can be folded for easy transport.
-However, there are some exceptions, like the Ice Barrel 400, which is made of hard recycled plastic.
+Portable ice baths are inflatable and can be folded for easy transport. However, there are some exceptions, like the Ice Barrel 400, which is made of hard recycled plastic. At 55 lbs, it can still be transported and set up just about anywhere, but with more hassle than other models on our list which weigh under 8 lbs.
 
 <img class="img-fw" src="/assets/blog/portable-ice-bath-packed.jpg" alt="">
 
@@ -353,6 +358,8 @@ Consult your developer, builder, Homeowners Association (HOA), Condominium Board
 Ice baths are safe after eating. Cold water does not drive blood flow away from your core organs, and thus does not interfere with digestion.
 
 I’m not a doctor, and you may want to confirm this with a medical professional before jumping in right after a gluttony.
+
+<img class="img-fw" src="/assets/blog/ice-bath-landscape.jpg" alt="">
 
 <h2 id="benefits">Benefits of Ice Baths: Real or Made Up?</h2>
 
