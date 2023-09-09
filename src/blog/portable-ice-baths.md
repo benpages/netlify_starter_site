@@ -214,6 +214,8 @@ The Cold Pod is insulated with a layer of pearl foam sandwiched between two laye
 
 On paper, this ice bath is very similar to the LUMI Recovery Pod—same volume, same height, and same weight. However, it lacks a warranty, offering only a 30-day refund policy, which means you'll be responsible for any malfunctions or leaks beyond that period.
 
+You can get it directly from the Cold Pod website as well as on Amazon for $139.99.
+
 <button class="btn btn-outline"><a href="https://thecoldpod.com/product/the-cold-pod-portable-ice-bath/?coupon=whatifididnt">Get the Cold Pop</a></button>
 
 <h3 id="icepod">The Ice Pod by The Pod Company</h3>
