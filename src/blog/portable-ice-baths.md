@@ -178,6 +178,8 @@ Delivery times are 4 to 6 weeks. So plan ahead if you want to gift it this Chris
 
 <button class="btn btn-outline"><a href="https://shareasale.com/r.cfm?b=1715344&u=3822885&m=106685&urllink=icebarrel%2Ecom%2Fproduct%2Fice%2Dbarrel%2D400%2F&afftrack=">Get the Ice Barrel 400</a></button>
 
+<small><strong>(use coupon code COLDTODAY for $75 off)</strong></small>
+
 <h3 id="coldpod">The Cold Pod</h3>
 
 <img class="product-img" src="/assets/blog/cold-pod.jpg" alt="Cold pod">

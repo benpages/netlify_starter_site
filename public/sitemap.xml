@@ -83,11 +83,6 @@
         </url>
     
         <url>
-            <loc>https://whatifididnt.com/about/</loc>
-            <lastmod>2023-09-06T07:39:33.615Z</lastmod>
-        </url>
-    
-        <url>
             <loc>https://whatifididnt.com/blog/</loc>
             <lastmod>2023-09-06T07:41:46.105Z</lastmod>
         </url>
@@ -95,6 +90,11 @@
         <url>
             <loc>https://whatifididnt.com/blog/portable-ice-baths/</loc>
             <lastmod>2023-09-08T00:00:00.000Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>https://whatifididnt.com/about/</loc>
+            <lastmod>2023-09-09T09:26:24.561Z</lastmod>
         </url>
     
 </urlset>
