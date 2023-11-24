@@ -1,9 +1,9 @@
 ---
-title: The Ultimate Guide to One Bag Travel
+title: 'One Bag Travel: The Complete Guide (Packing List Included)'
 titleShort: One Bag Travel (Guide)
 tags: ['post', 'featured']
-date: 2022-01-12
-description: Learn how to pack for one bag travel. You’ll discover unique gear and hacks to ditch the suitcase, breeze through airports & travel freely.
+date: 2023-11-24
+description: 'Join the One Bag Travel movement with this guide: best backpacks, packing tips, packing list, and much more. Models by Tortuga, Osprey, and Aer.'
 image: /assets/blog/one-bag-travel.jpg
 imageAlt: One bag travel guide
 mySlug: one-bag-travel
@@ -17,43 +17,38 @@ You'll read reviews of the best travel bags available today and learn how to pac
 
 Let's jump right in and look at the benefits of one bag travel.
 
-<figure class="figure text-center">
-    <img src="/assets/blog/one-bag-winter-vs-summer.jpg" alt="one bag outfits in the summer and winter" class="figure-img">
+<figure>
+    <img src="/assets/blog/one-bag-winter-vs-summer.jpg" alt="one bag outfits in the summer and winter" class="img-fw">
     <figcaption class="figure-caption">The same carry on backpack got me from the Canary Islands to the slopes of the Czech Republic (skis, gloves, helmet, and goggles rented for a little over 10 euros a day)</figcaption>
 </figure>
 
 <div class="toc">
     <h4 class="toc__title">Want to Breeze Through This Post?</h4>
     <ul>
-        <li><a href="#why-one-bag">Why One Bag Travel?</a></li>
-        <li><a href="#backpack-considerations">Backpack Considerations</a></li>
         <li><a href="#best-backpacks">Best One Bag Travel Backpacks</a></li>
+        <li><a href="#backpack-considerations">Backpack Considerations</a></li>
         <li><a href="#packing-list">Sample One Bag Packing List</a></li>
         <li><a href="#tips">Packing Tips</a></li>
+        <li><a href="#why-one-bag">Why One Bag Travel?</a></li>
         <li><a href="#faq">FAQ</a></li>
     </ul>
 </div>
 
-<h2 id="why-one-bag">Why One Bag Travel?</h2>
+<h2 id="best-backpacks">Best One Bag Travel Backpacks</h2>
 
-The benefits of one bag travel far outweigh the inconvenience of leaving a DSLR camera at home or not being able to fit 2 kg of duty-free goodies inside your pack. Here are the top 6 reasons the One Bag lifestyle is so appealing:
+If you're serious about one bagging, you'll want to invest in a great travel backpack that is lightweight, carry-on friendly, and packs effectively. Here are four popular options to consider:
 
-**Travel Light**: No lifting, pulling, and tossing luggage around. One bag travel keeps your hands free, your load light, and your feet at ease.
+<p><a href="https://en.heimplanet.com/products/taschen-transit_line-travel-pack-34-black"><strong>Heimplanet Transit Line</strong></a><strong>:</strong> Sleek, comfortable, and durable travel backpack made by German company Heimplanet. Best for Europeans looking to avoid hefty import fees and costly shipping.</p>
 
-**Never Lose Your Bags**: No checked bag means no chances of getting your belongings misplaced, stolen, or damaged.
+<p><strong><a href="https://www.amazon.com/Tortuga-Mens-Setout-Divide-Expandable/dp/B087HBL113">Tortuga Setout Divide 26L</a>:</strong> One of the most popular backpacks for one bag travel. Sleek and well-built, but slightly heavier than the competition. It can expand to 34L.</p>
 
-**Avoid Pickpockets**: Nothing screams "tourist" more than your shiny Samsonite suitcase. And guess who loves tourists: pickpockets and con artists.
+<p><a href="https://www.aersf.com/travel-pack-2-black"><strong>Aer Travel Pack 2</strong></a><strong>:</strong> Incredible design, quality, and comfort. Lots of well-thought-out pockets and compartments.</p>
 
-**Save on Luggage Fees**: When did checked bags get so expensive? On short-haul flights, the cost of a checked bag is often greater than the plane ticket itself.
+<p><a href="https://www.osprey.com/id/en/product/farpoint-travel-pack-carry-on-40-FARPNT40.html"><strong>Osprey Farpoint 40</strong></a><strong>:</strong> Best if you don't travel with a laptop. The pack has a laptop sleeve, but it's at the front of the pack.</p>
 
-**Breeze Through Airports**: Skip the check-in line and shrug your shoulders at the baggage carousel. Last in, first out.
-
-**Live More Intentionally**: There is something weirdly satisfying about a neatly-organized bag where each item has had to fight for its place on the trip.
-
-<figure class="figure text-center">
-    <img src="/assets/blog/lightweight-travel-benefits.jpeg" alt="downside of heavy luggage" class="figure-img">
-    <figcaption class="figure-caption">Yuck. <em>(Credit: Francisco Antunes | <a href="https://www.flickr.com/photos/francisco-antunes/" target="_blank" rel="noreferrer noopener nofollow">Flickr</a> | CC BY 2.0)</em>
-    </figcaption>
+<figure>
+    <img src="/assets/blog/heimplanet-transit-line-backpack.jpeg" alt="heimplanet transit line" class="product-img">
+    <figcaption class="figure-caption">The Heimplanet 34L Transit Line</figcaption>
 </figure>
 
 <h2 id="backpack-considerations">Backpack Considerations</h2>
@@ -130,8 +125,8 @@ Top-loaders are packed from the bottom up. This means you'll have to take everyt
 
 Front-loaders, also known as *clamshell backpack*s or *panel loader*s, let you unzip and open the entire front panel of the pack. Like a suitcase. This type of backpack is more popular for travel because you can easily access any part of the bag without having to take anything out.
 
-<figure class="figure text-center">
-<img class="figure-img" src="/assets/blog/front-loading-travel-backpack.jpeg" alt="open clamshell backpack">
+<figure>
+<img class="img-fw" src="/assets/blog/front-loading-travel-backpack.jpeg" alt="open clamshell backpack">
 <figcaption class="figure-caption">
 A front-loading backpack allows for easy packing and quick access to any part of the pack. (Courtesy of Heimplanet)</figcpation>
 </figure>
@@ -142,32 +137,13 @@ If you plan on traveling with a laptop, make sure to look for a bag with a lapto
 
 The laptop sleeve should be slightly padded, elevated a few inches from the bottom of the pack, and located closest to your back. This will ensure your computer is protected when you accidentally bump it into something or drop it on the ground.
 
-<h2 id="best-backpacks">Best One Bag Travel Backpacks</h2>
-
-If you're serious about one bagging, you'll want to invest in a great travel backpack that is lightweight, carry-on friendly, and packs effectively. Here are four popular options to consider:
-
-<figure class="figure text-center float-end">
-    <img src="/assets/blog/heimplanet-transit-line-backpack.jpeg" alt="heimplanet transit line" class="figure-img">
-    <figcaption class="figure-caption">The Heimplanet 34L Transit Line</figcaption>
-</figure>
-
-<p><a href="https://en.heimplanet.com/products/taschen-transit_line-travel-pack-34-black"><strong>Heimplanet Transit Line</strong></a><strong>:</strong> Sleek, comfortable, and durable travel backpack made by German company Heimplanet. Best for Europeans looking to avoid hefty import fees and costly shipping.</p>
-
-<p><strong><a href="https://www.amazon.com/Tortuga-Mens-Setout-Divide-Expandable/dp/B087HBL113">Tortuga Setout Divide 26L</a>:</strong> One of the most popular backpacks for one bag travel. Sleek and well-built, but slightly heavier than the competition. It can expand to 34L.</p>
-
-<p><a href="https://www.aersf.com/travel-pack-2-black"><strong>Aer Travel Pack 2</strong></a><strong>:</strong> Incredible design, quality, and comfort. Lots of well-thought-out pockets and compartments.</p>
-
-<p><a href="https://www.osprey.com/id/en/product/farpoint-travel-pack-carry-on-40-FARPNT40.html"><strong>Osprey Farpoint 40</strong></a><strong>:</strong> Best if you don't travel with a laptop. The pack has a laptop sleeve, but it's at the front of the pack.</p>
-
-<p><a href="https://www.osprey.com/id/en/product/farpoint-travel-pack-carry-on-40-FARPNT40.html"><strong>Osprey Farpoint 40</strong></a><strong>:</strong> Best if you don't travel with a laptop. The pack has a laptop sleeve, but it's at the front of the pack.</p>
-
-<h2 id="packing-list">Lightweight Travel Packing List</h2>
+<h2 id="packing-list">Sample One Bag Packing List</h2>
 
 The following packing list gives you an idea of what will fit inside a 30L travel backpack. [Download it](https://docs.google.com/spreadsheets/d/184ZHQCKOTjjL-ZckqAmZrsR7Kg5kBFBDiCsXv_huwbw/edit?usp=sharing) and customize it as you please (File -> Make a Copy to edit).
 
 ### Clothing
 
-<img src="/assets/blog/one-bag-travel-clothes.jpeg" alt="one bag travel clothes" class="figure-img d-block mx-auto">
+<img src="/assets/blog/one-bag-travel-clothes.jpeg" alt="one bag travel clothes" class="img-fw">
 
 - 4 t-shirts (plain shirts in neutral colors like white, black, navy, brown, or khaki go with everything)
 - Hoodie (your go-to lounge and travel wear)
@@ -187,7 +163,7 @@ The following packing list gives you an idea of what will fit inside a 30L trave
 
 ### Toiletries
 
-<img src="/assets/blog/toiletries-one-bag.jpg" alt="one bag toiletries" class="figure-img d-block mx-auto">
+<img src="/assets/blog/toiletries-one-bag.jpg" alt="one bag toiletries" class="img-fw">
 
 Most places you'll visit will have shower gel, cotton swabs, and sunscreen readily available. Purchase those upon arrival. Your toiletry kit doesn't have to be much more sophisticated than this:
 
@@ -201,7 +177,7 @@ Store everything inside a ziplock bag or a lightweight pencil case.
 
 ### Tech (Optional)
 
-<img src="/assets/blog/travel-tech-gear.jpeg" alt="one bag travel tech gear" class="figure-img d-block mx-auto">
+<img src="/assets/blog/travel-tech-gear.jpeg" alt="one bag travel tech gear" class="img-fw">
 
 This section only applies if you plan to work while abroad. This is going to be the heaviest gear in your bag, so leave it at home unless you truly need it.
 
@@ -212,17 +188,19 @@ This section only applies if you plan to work while abroad. This is going to be 
 
 ### First Aid Kit
 
-<img src="/assets/blog/one-bag-first-aid.jpg" alt="one bag first aid kit" class="figure-img d-block mx-auto">
+<img src="/assets/blog/one-bag-first-aid.jpg" alt="one bag first aid kit" class="img-fw">
 
 A lightweight first aid kit is essential for travel peace of mind. Here's are some basics:
 
 - Bandaids (for cuts and scrapes)
 - Butterfly bandages (for bigger wounds)
-- Antisceptic solution
+- Antiseptic solution
 - Anti-inflammatory (ie Ibuprofen)
 - Tweezers (for splinters, broken glass, etc.)
 - Nail clippers
 - Lip balm or vaseline (apply to hotspots to reduce friction and prevent blisters)
+
+<button class="btn btn-outline" onclick="window.open('/assets/blog/sample-one-bag-packing-list.pdf' + location.search)" type="button">Download This Packing List (PDF)</button>
 
 <h2 id="tips">Packing Tips</h2>
 
@@ -234,8 +212,8 @@ Still thinking: "No way I can travel with only one bag"? This section is for you
 
 **3\. Buy it there:** Unless you're traveling to a remote destination, there is no need to take your umbrella, deck of cards, sunscreen, headlamp, and cough syrup. In the off-chance you do end up needing them, you can purchase them on site. You can also rent pricier items like surfboards, guitars, and climbing shoes for cheap.
 
-<figure class="figure text-center">
-    <img src="/assets/blog/philippines-laundry-detergent.jpeg" alt="corner shop in the phillippines" class="figure-img">
+<figure>
+    <img src="/assets/blog/philippines-laundry-detergent.jpeg" alt="corner shop in the phillippines" class="img-fw">
     <figcaption class="figure-caption">
         You will find shampoo, detergent, and other toiletries at your destination.<br /><em>(Photo: Sari-Sari Store in Cavite, the Philippines by Glen | <a href="https://commons.wikimedia.org/wiki/File:Sari-Sari_Store_Cavite.jpg" taget="_blank" rel="nofollow referrer noopener"> Wikimedia</a> | CC BY 2.0)</em>
     </figcaption>
@@ -247,8 +225,8 @@ Still thinking: "No way I can travel with only one bag"? This section is for you
 
 **6\. Wear the heavy and bulky:** Wear your bulk and heavy items when traveling. That includes shoes, belts, hats, jackets, etc. That way, you take some of the load off of your back and create additional space in your pack. Naturally, don't overdo it. If you're wearing a sweater in 100-degree weather, you're doing it wrong.
 
-<figure class="figure text-center">
-    <img src="/assets/blog/packing-cubes.jpeg" alt="how to use packing cubes" class="figure-img">
+<figure>
+    <img src="/assets/blog/packing-cubes.jpeg" alt="how to use packing cubes" class="img-fw">
     <figcaption class="figure-caption">I roll a pair of socks and underwear inside each shirt before putting it inside the packing cube.</figcaption>
 </figure>
 
@@ -257,6 +235,28 @@ Still thinking: "No way I can travel with only one bag"? This section is for you
 **8\. Get a day bag (maybe):** If you're going on a day trip, you may not want to carry around that bulky 30L bag around. Instead, invest in a foldable and lightweight day bag that you can roll up and stuff at the bottom of your primary pack. 10L should be plenty to fit a rain jacket, water bottle, and a few snacks.
 
 **9\. Optimize further:** Lay out all of your clothes and gear onto the floor prior to putting it inside your bag and look for further optimization. Any duplicate items? Unnecessary pouches and covers? Maybe your headphones can be replaced by a pair of earbuds, your electric shaver by a disposable razor, and your 2m USB-c cable by the 1m version.
+
+<h2 id="why-one-bag">Why One Bag Travel?</h2>
+
+The benefits of one bag travel far outweigh the inconvenience of leaving a DSLR camera at home or not being able to fit 2 kg of duty-free goodies inside your pack. Here are the top 6 reasons the One Bag lifestyle is so appealing:
+
+**Travel Light**: No lifting, pulling, and tossing luggage around. One bag travel keeps your hands free, your load light, and your feet at ease.
+
+**Never Lose Your Bags**: No checked bag means no chances of getting your belongings misplaced, stolen, or damaged.
+
+**Avoid Pickpockets**: Nothing screams "tourist" more than your shiny Samsonite suitcase. And guess who loves tourists: pickpockets and con artists.
+
+**Save on Luggage Fees**: When did checked bags get so expensive? On short-haul flights, the cost of a checked bag is often greater than the plane ticket itself.
+
+**Breeze Through Airports**: Skip the check-in line and shrug your shoulders at the baggage carousel. Last in, first out.
+
+**Live More Intentionally**: There is something weirdly satisfying about a neatly-organized bag where each item has had to fight for its place on the trip.
+
+<figure>
+    <img src="/assets/blog/lightweight-travel-benefits.jpeg" alt="downside of heavy luggage" class="img-fw">
+    <figcaption class="figure-caption">Not that. Ever. <em>(Credit: Francisco Antunes | <a href="https://www.flickr.com/photos/francisco-antunes/" target="_blank" rel="noreferrer noopener nofollow">Flickr</a> | CC BY 2.0)</em>
+    </figcaption>
+</figure>
 
 <h2 id="faq">FAQ</h2>
 
@@ -278,8 +278,8 @@ In cold weather, you might be tempted to pack a thick winter jacket, snow pants,
 
 Instead, think in layers. The colder it gets, the more layers you stack on top of each other.
 
-<figure class="figure text-center">
-    <img src="/assets/blog/layering-cold-weather.jpeg" alt="winter clothes using layering" class="figure-img">
+<figure>
+    <img src="/assets/blog/layering-cold-weather.jpeg" alt="winter clothes using layering" class="img-fw">
     <figcaption class="figure-caption">The basics of layering for cold weather</figcaption>
 </figure>
 
@@ -297,8 +297,5 @@ Here's how you might use this:
 
 Your bag should weigh between 10 lbs and 20 lbs. Anything above 20 lbs and you start to lose some of the benefits of efficient and minimal packing. Also note that in Europe, most airlines won't allow carry-ons heavier than 10 kg (22 lbs).
 
----
-
-**Have you given one bag travel a shot? Comment either "Yes" or "No" below, and let me know where you were headed.**
-
-<p>A big shoutout to Reddit’s <a href="https://www.reddit.com/r/onebag/" target="_blank" rel="noreferrer noopener nofollow">r/onebag</a> community for all the amazing tips and resources they’ve made available!</p>
+<br />
+<p><em>A big shoutout to Reddit’s <a href="https://www.reddit.com/r/onebag/" target="_blank" rel="noreferrer noopener nofollow">r/onebag</a> community for all the amazing tips and resources they’ve made available!<em></p>

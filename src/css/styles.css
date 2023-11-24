@@ -261,12 +261,9 @@ a:focus {
 }
 
 .btn-primary {
+	color: white;
 	background-color: var(--clr-primary);
 	border: 1px solid var(--clr-primary);
-}
-
-.btn-primary a {
-	color: white;
 }
 
 .btn-primary:hover,
@@ -278,12 +275,8 @@ a:focus {
 .btn-outline {
 	background-color: white;
 	border: 1px solid var(--clr-primary);
-}
-
-.btn-outline a {
 	color: var(--clr-primary);
 }
-
 .btn-outline:hover,
 .btn-outline:focus {
 	border: 1px solid rgba(var(--clr-primary-rgb), 0.7);

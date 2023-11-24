@@ -136,7 +136,7 @@ LUMI offers free economy worldwide shipping with delivery times between 30 and 4
 
 There's a 1-year warranty on the tub and a 1-month warranty on the inflatables (ie. the top ring and Thermo lid) that covers any structure defects and leakages.
 
-<button class="btn btn-outline"><a href="https://collabs.shop/xwsbhq">Get the LUMI Recovery Pod</a></button>
+<button class="btn btn-outline" onclick="window.open('https://collabs.shop/xwsbhq' + location.search)" type="button" rel="noopener noreferrer">Get the LUMI Recovery Pod</button>
 
 <h3 id="barrel">Ice Barrel 400</h3>
 
@@ -176,7 +176,7 @@ It is sold with a stool for easy access, a sturdy stand for stability, and a cov
 
 Delivery times are 4 to 6 weeks. So plan ahead if you want to gift it this Christmas.
 
-<button class="btn btn-outline"><a href="https://shareasale.com/r.cfm?b=1715344&u=3822885&m=106685&urllink=icebarrel%2Ecom%2Fproduct%2Fice%2Dbarrel%2D400%2F&afftrack=">Get the Ice Barrel 400</a></button>
+<button class="btn btn-outline" onclick="window.open('https://shareasale.com/r.cfm?b=1715344&u=3822885&m=106685&urllink=icebarrel%2Ecom%2Fproduct%2Fice%2Dbarrel%2D400%2F&afftrack=' + location.search)" type="button" rel="noopener noreferrer">Get the Ice Barrel 400</button>
 
 <small><strong>(use coupon code COLDTODAY for $75 off)</strong></small>
 
@@ -218,7 +218,7 @@ On paper, this ice bath is very similar to the LUMI Recovery Pod—same volume, 
 
 You can get it directly from the Cold Pod website as well as on Amazon for $139.99.
 
-<button class="btn btn-outline"><a href="https://thecoldpod.com/product/the-cold-pod-portable-ice-bath/?coupon=whatifididnt">Get the Cold Pop</a></button>
+<button class="btn btn-outline" onclick="window.open('https://thecoldpod.com/product/the-cold-pod-portable-ice-bath/?coupon=whatifididnt' + location.search)" type="button" rel="noopener noreferrer">Get the Cold Pop</button>
 
 <h3 id="icepod">The Ice Pod by The Pod Company</h3>
 
@@ -254,7 +254,7 @@ But what truly sets the Pod Company apart from the competition is its offering o
 
 The Pod Company currently only ships to the USA and its territories.
 
-<button class="btn btn-outline"><a href="https://snwbl.io/pod-company/whatifididnt">Get the Ice Pod</a></button>
+<button class="btn btn-outline" onclick="window.open('https://snwbl.io/pod-company/whatifididnt' + location.search)" type="button" rel="noopener noreferrer">Get the Ice Pod</button>
 
 <h3 id="polar">Polar Recovery Tub™</h3>
 
@@ -291,7 +291,7 @@ It seems that Polar Recovery is only shipping to the United Kingdom, the United 
 
 The Polar Recovery Tub™ is available on polar-recovery.com as well as on Amazon UK and US.
 
-<button class="btn btn-outline"><a href="https://www.awin1.com/cread.php?awinmid=60339&awinaffid=1435411&ued=https%3A%2F%2Fpolar-recovery.com%2Fproducts%2Fpolar-recovery-tub-ice-bath">Get the Polar Recovery Tub™</a></button>
+<button class="btn btn-outline" onclick="window.open('https://www.awin1.com/cread.php?awinmid=60339&awinaffid=1435411&ued=https%3A%2F%2Fpolar-recovery.com%2Fproducts%2Fpolar-recovery-tub-ice-bath' + location.search)" type="button" rel="noopener noreferrer">Get the Polar Recovery Tub™</button>
 
 <h2 id="faq">FAQ</h2>
 
