@@ -1,10 +1,8 @@
 ---
-title: 10 Healthy Coffee Alternatives for Energy
-titleShort: Healthy Coffee Alternatives
+title: 10 Healthy Alternatives to Coffee for Lasting Energy
+titleShort: Healthy Alternatives to Coffee
 mySlug: coffee-alternatives
-description: 'Looking for a HEALTHY Coffee Alternative? Check Out These
-  Delicious and Energizing Options: Golden Milk, Matcha, Chicory, Mushroom
-  Coffee, & More.'
+description: 'Discover 10 healthy alternative to coffee that will help you wake up and increase your energy in the morning. Includes options with and without caffeine.'
 date: 2022-04-29T09:00:00.000Z
 tags:
   - post
@@ -15,13 +13,13 @@ eleventyExcludeFromCollections: false
 
 <img class="img-fw" src="/assets/blog/coffee-alternatives.jpg" alt="best coffee alternatives for energy">
 
-In this article, you will discover 10 healthy coffee alternatives, both caffeinated and non-caffeinated.
+In this article, you will discover 10 healthy alternatives to coffee, both caffeinated and non-caffeinated.
 
-You may be wondering: "How can I get energy without coffee?". You'll discover that coffee isn't the only beverage you can have in the morning to wake up.
+There are many drinks that you can drink to wake up and feel energized other than coffee. They are just as fun to prepare, taste just as great, and spare you from some of the unpleasant side effects of coffee consumption.
 
-In fact, many people find coffee too acidic, too caffeinated, or just not their style. Here's what they drink instead:
+Ready to replace your morning's beverage of choice? Let's dive in with the first alternative (it's one of our team's favorites).
 
-## **1. Matcha**
+## 1. Matcha
 
 Matcha is a powdered green tea. The Japanese have been drinking it for centuries.
 
@@ -33,7 +31,7 @@ Matcha contains caffeine, though much less than coffee. A gram of matcha packs a
 
 Matcha is a great alternative to coffee because it provides sustained energy. Unlike coffee, it's unlikely you'll experience a crash after a cup or two of matcha.
 
-Matcha powder is bright green. It tastes grassy, bitter, and umami (“pleasant savory taste”).
+Matcha powder is bright green. It tastes grassy, bitter, and umami (meaning "pleasant savory taste").
 
 You can prepare it in several ways, but the most common is to dissolve it in hot water.
 
@@ -45,7 +43,7 @@ If you want a sweeter drink, you can add honey or sugar to taste. For a cold dri
 
 <img class="img-fw" src="/assets/blog/matcha.jpg" alt="matcha coffee alternative">
 
-## **2. Yerba Mate**
+## 2. Yerba Mate
 
 Yerba mate (yer-bah mah-tay) is a traditional South American beverage. It is made from the dried leaves of Ilex paraguariensis, a species of holly.
 
@@ -63,7 +61,7 @@ The traditional way to drink yerba is to use a gourd and a metallic straw called
 
 <img class="img-fw" src="/assets/blog/yerba.jpg" alt="drink yerba matte instead of coffee">
 
-## **3. Green Tea**
+## 3. Green Tea
 
 Green tea is often touted as a healthy alternative to coffee.
 
@@ -83,7 +81,7 @@ Once the tea has finished steeping, remove the leaves, and set them aside. Don't
 
 <img class="img-fw" src="/assets/blog/green-tea.jpg" alt="drinking green tea as a coffee alternative">
 
-## **4. Black Tea**
+## 4. Black Tea
 
 Black tea is one of the most popular teas in the world. You may recognize the names Darjeeling, Ceylon, or English breakfast tea. These are all different blends of black tea.
 
@@ -101,7 +99,7 @@ Set the leaves aside and reuse them once or twice more.
 
 <img class="img-fw" src="/assets/blog/black-tea.jpg" alt="black tea is a great coffee alternative">
 
-## **5. Mushroom Coffee**
+## 5. Mushroom Coffee
 
 If you are looking for a healthier alternative to coffee, mushroom coffee is a great option. Made from dried mushrooms, it has many health benefits over coffee.
 
@@ -115,7 +113,7 @@ Four Sigmatic's mushroom coffee is instant and comes in individual packets. Mix 
 
 <img class="img-fw" src="/assets/blog/mushroom-coffee.jpg" alt="Mushroom coffee from Four Sigmatic">
 
-## **6. Chicory**
+## 6. Chicory
 
 Chicory is a healthy coffee alternative without caffeine.
 
@@ -127,7 +125,7 @@ It is rich in antioxidants, gluten-free, and has many health benefits. It may he
 
 Chicory coffee is instant. You mix it with hot water, stir it for a few seconds, and it's ready to drink. Drink it plain or with milk and sugar.
 
-## **7. Turmeric Latte**
+## 7. Turmeric Latte
 
 Turmeric Latte (also known as Golden Milk) is a popular drink in India. It contains:
 
@@ -153,7 +151,7 @@ Sweeten it with honey or stevia. I like to whisk in a tablespoon of coconut milk
 
 <img class="img-fw" src="/assets/blog/turmeric-latte.jpg" alt="Turmeric latte best coffee alternative">
 
-## **8. Chai**
+## 8. Chai
 
 Chai tea is another delicious Indian beverage. It is a blend of cinnamon, cardamom, cloves, and ginger.
 
@@ -167,7 +165,7 @@ Brewing chai tea is simple. Steep black tea with cardamom, cinnamon, cloves, and
 
 <img class="img-fw" src="/assets/blog/chai.jpg" alt="drink chai latte as a coffee alternative">
 
-## **9. Lemon Water**
+## 9. Lemon Water
 
 Coffee is a popular morning drink. But if you only drink it to wake yourself up in the mornings, you may want to try lemon water instead.
 
@@ -191,7 +189,7 @@ If you feel adventurous, here are additions worth trying:
 
 <img class="img-fw" src="/assets/blog/lemon-water.jpg" alt="lemon water instead of coffee for energy">
 
-## **10. Ginger Tea**
+## 10. Ginger Tea
 
 Ginger tea is a great choice for anyone looking for an easy way to improve their health and boost their immune system. It is a non-caffeinated beverage you can drink instead of coffee at any time of day.
 
@@ -208,9 +206,9 @@ Ginger is a strong-tasting spice. You may need time to get used to it. You can a
 
 <img class="img-fw" src="/assets/blog/ginger-tea.jpg" alt="ginger tea is a coffee alternative">
 
-## **Reasons to Avoid Coffee**
+## Reasons to Avoid Coffee
 
-### **Jitters**
+### Jitters
 
 Coffee contains caffeine, which is a stimulant. Stimulants work by increasing the activity of the central nervous system. This is why coffee increases alertness and energy.
 
@@ -220,7 +218,7 @@ Some people may be more susceptible to coffee jitters than others. Factors like 
 
 If you're someone who gets jittery from coffee, there are a few things you can do to reduce the effects. First, try drinking smaller amounts of coffee. Or, switch to decaf coffee or tea which have lower levels of caffeine.
 
-### **Sleep**
+### Sleep
 
 Caffeine is a stimulant and can make it difficult to fall asleep or stay asleep.
 
@@ -232,7 +230,7 @@ Caffeine has a half-life of 5 hours. In other words, you drink a cup of joe. 5 h
 
 That's why it's best to stop drinking coffee at least 10 hours before your bedtime. So if you do drink coffee, try to drink no more than two cups, early in the day.
 
-### **Digestion**
+### Digestion
 
 Coffee is a stimulant, and as such, it can speed up the digestive process. That's why people drink it to lose weight.
 
