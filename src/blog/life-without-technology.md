@@ -1,9 +1,9 @@
 ---
 tags: ['post']
-title: 'Life Without Technology: 14 Tips to Know Before You Unplug'
-titleShort: Life Without Technology (15 Tips)
+title: 'Life Without Technology: Lessons from 30 Days Unplugged'
+titleShort: Life Without Technology
 date: 2023-02-23
-description: Discover 14 practical tips for living a life without technology and distractions — 1. Use a Watch 2. Wake Up Naturally 3. Use a Dumb Phone for Calls
+description: 14 lessons drawn from a 30-day experiment for those considering life without technology and distractions. Boredom, punctuality, and relationships.
 image: /assets/blog/life-without-technology.jpg
 imageAlt: life without technology
 mySlug: life-without-technology
@@ -11,9 +11,9 @@ mySlug: life-without-technology
 
 <img class="img-fw" src="/assets/blog/life-without-technology.jpg" alt="life without technology">
 
-I recently took on the challenge of living without technology for a month. No internet, no laptop, and no TV. Just a dumb phone for calling friends and local businesses. In this article, you'll discover 14 tips that I took away from the 30-day experiment.
+I recently took on the challenge of living without technology for a month. No internet, no laptop, and no TV. Just a dumb phone for calling friends and local businesses. In this article, you'll discover 14 lessons that I took away from the 30-day experiment.
 
-Whether you're looking to unplug for a day, a week, or longer, these tips will help you simplify your life, rediscover the beauty of the present moment, and find joy in the analog world.
+Whether you're looking to unplug for a day, a week, or longer, these lessons will help you simplify your life, rediscover the beauty of the present moment, and find joy in the analog world.
 
 Let's dive in.
 
