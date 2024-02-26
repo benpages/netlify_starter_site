@@ -700,14 +700,14 @@ textarea {
 	overflow: auto;
 }
 
-.hero__img {
+/* .hero__img {
 	position: absolute;
 	bottom: 0;
 	height: 550px;
 	object-fit: cover;
 	left: 50%;
 	transform: translatex(-50%);
-}
+} */
 
 .hero__title {
 	color: white;
@@ -745,7 +745,6 @@ textarea {
 
 @media screen and (min-width: 768px) {
 	.section--hero {
-		grid-template-columns: 1fr 1fr;
 		min-height: min(80vh, 700px);
 	}
 
