@@ -1,5 +1,5 @@
 ---
-title: 'Turn Your iPhone Into a Dumb Phone: The Simple Guide (2023)'
+title: 'Turn Your iPhone Into a Dumb Phone: The Simple Guide (2024)'
 titleShort: 'Turn Your iPhone Into a Dumb Phone'
 eleventyExcludeFromCollections: false
 mySlug: iphone-dumb-phone

@@ -1,5 +1,5 @@
 ---
-title: '5 Best Portable Ice Baths for Every Budget [2023 Reviews]'
+title: '5 Best Portable Ice Baths for Every Budget [2024 Reviews]'
 titleShort: 'Best Portable Ice Baths'
 eleventyExcludeFromCollections: false
 mySlug: portable-ice-baths

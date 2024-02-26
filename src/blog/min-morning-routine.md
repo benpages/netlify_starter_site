@@ -1,5 +1,5 @@
 ---
-title: 'Minimalist Morning Routine: 10 Rituals to Transform Your Day (2023)'
+title: 'Minimalist Morning Routine: 10 Rituals to Transform Your Day (2024)'
 titleShort: 'Minimalist Morning Routine'
 date: 2022-10-27
 description: This is a 10-step minimalist morning routine you can do daily to prepare yourself for a day of calm, focus, and energy. For men and women.
