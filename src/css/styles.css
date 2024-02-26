@@ -281,6 +281,11 @@ a:focus {
 .btn-outline:focus {
 	border: 1px solid rgba(var(--clr-primary-rgb), 0.7);
 }
+.btn-subtext {
+	color: white;
+	font-size: 0.825em;
+	margin-top: 0.5em;
+}
 
 /* Header and Footer */
 
@@ -700,14 +705,14 @@ textarea {
 	overflow: auto;
 }
 
-/* .hero__img {
+.hero__img {
 	position: absolute;
 	bottom: 0;
 	height: 550px;
 	object-fit: cover;
 	left: 50%;
 	transform: translatex(-50%);
-} */
+}
 
 .hero__title {
 	color: white;
@@ -746,15 +751,14 @@ textarea {
 @media screen and (min-width: 768px) {
 	.section--hero {
 		min-height: min(80vh, 700px);
+		grid-template-columns: 2fr 1fr;
 	}
-
 	.section--hero .column-right {
 		display: flex;
 	}
 	.section--hero .column-left {
 		text-align: inherit;
 	}
-
 	.hero__title {
 		font-size: 2.6rem;
 	}
@@ -766,7 +770,7 @@ textarea {
 	}
 	.hero__form {
 		flex-direction: row;
-		white-space: nowrap;
+		flex-wrap: nowrap;
 	}
 	.hero__form input {
 		width: 250px;
