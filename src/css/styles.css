@@ -18,8 +18,6 @@
 html {
 	box-sizing: border-box;
 	font-size: 18px;
-}
-html:focus-within {
 	scroll-behavior: smooth;
 }
 
