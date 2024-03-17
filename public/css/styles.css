@@ -67,6 +67,7 @@ body {
 	font-weight: 400;
 	color: var(--clr-black);
 	line-height: 1.65;
+	text-wrap: pretty;
 }
 
 .content p,
