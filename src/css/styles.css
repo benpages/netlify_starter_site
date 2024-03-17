@@ -9,8 +9,9 @@
 	--clr-light-gray: #f7fafc;
 	--clr-light-gray-rgb: 247, 250, 252;
 	--clr-gray: #dae8f1;
-	--font-body: 'Lora', sans-serif;
-	--font-mono: 'Oswald', monospace;
+	--font-body: system-ui, sans-serif;
+	--font-mono: ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo, Consolas,
+		'DejaVu Sans Mono', monospace;
 }
 
 /* CSS Reset */
