@@ -1,11 +1,11 @@
 :root {
-	--fs-300: clamp(0.9rem, 0.9748rem + -0.1863vi, 0.9375rem);
+	--fs-300: clamp(0.844rem, 0.9255rem + -0.1274vi, 0.9rem);
 	--fs-400: clamp(1.125rem, 1.125rem + 0vi, 1.125rem);
-	--fs-500: clamp(1.35rem, 1.2941rem + 0.2795vi, 1.4063rem);
-	--fs-600: clamp(1.62rem, 1.483rem + 0.6848vi, 1.7578rem);
-	--fs-700: clamp(1.944rem, 1.6923rem + 1.2585vi, 2.1973rem);
-	--fs-800: clamp(2.3328rem, 1.9216rem + 2.0561vi, 2.7466rem);
-	--fs-900: clamp(2.7994rem, 2.1694rem + 3.1497vi, 3.4332rem);
+	--fs-500: clamp(1.4063rem, 1.3638rem + 0.2122vi, 1.4996rem);
+	--fs-600: clamp(1.7578rem, 1.6482rem + 0.5482vi, 1.999rem);
+	--fs-700: clamp(2.1973rem, 1.9848rem + 1.0623vi, 2.6647rem);
+	--fs-800: clamp(2.7466rem, 2.3805rem + 1.8305vi, 3.552rem);
+	--fs-900: clamp(3.4332rem, 2.8416rem + 2.9582vi, 4.7348rem);
 
 	--ff-body: system-ui, sans-serif;
 	--ff-heading: ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo,
@@ -48,6 +48,7 @@ body {
 	font-family: var(--ff-body);
 	line-height: 1.65;
 	color: var(--clr-text);
+	text-wrap: pretty;
 }
 
 h1,
@@ -57,6 +58,7 @@ h4 {
 	font-family: var(--ff-heading);
 	line-height: 1.2;
 	text-transform: lowercase;
+	margin: 0;
 }
 
 h1 {
@@ -181,6 +183,7 @@ section.hero {
 
 .hero__title {
 	color: white;
+	text-wrap: balance;
 }
 
 .hero__lead {
@@ -198,4 +201,20 @@ section.hero {
 .article-snippet__title {
 	font-size: var(--fs-500);
 	font-weight: 400;
+}
+
+@media (min-width: 750px) {
+	section.hero {
+		background-image: url(/assets/ben-transparent.png);
+		background-repeat: no-repeat;
+		background-size: auto 90%;
+		background-position: bottom 0px right calc(50% - 300px);
+	}
+	.hero__content {
+		max-width: 60%;
+	}
+
+	.inline-form {
+		display: inline-block;
+	}
 }
