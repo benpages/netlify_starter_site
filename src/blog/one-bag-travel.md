@@ -18,7 +18,7 @@ You'll read reviews of the best travel bags available today and learn how to pac
 Let's jump right in and look at the benefits of one bag travel.
 
 <figure>
-    <img src="/assets/blog/one-bag-winter-vs-summer.jpg" alt="one bag outfits in the summer and winter" class="img-fw">
+    <img src="/assets/blog/one-bag-winter-vs-summer.jpg" alt="one bag outfits in the summer and winter">
     <figcaption class="figure-caption">The same carry on backpack got me from the Canary Islands to the slopes of the Czech Republic (skis, gloves, helmet, and goggles rented for a little over 10 euros a day)</figcaption>
 </figure>
 
@@ -128,7 +128,7 @@ Front-loaders, also known as *clamshell backpack*s or *panel loader*s, let you u
 <figure>
 <img class="img-fw" src="/assets/blog/front-loading-travel-backpack.jpeg" alt="open clamshell backpack">
 <figcaption class="figure-caption">
-A front-loading backpack allows for easy packing and quick access to any part of the pack. (Courtesy of Heimplanet)</figcpation>
+A front-loading backpack allows for easy packing and quick access to any part of the pack. (Courtesy of Heimplanet)</figcaption>
 </figure>
 
 ### Tech Compartment: What to Look For
@@ -200,7 +200,7 @@ A lightweight first aid kit is essential for travel peace of mind. Here's are so
 - Nail clippers
 - Lip balm or vaseline (apply to hotspots to reduce friction and prevent blisters)
 
-<button class="btn btn-outline" onclick="window.open('/assets/blog/sample-one-bag-packing-list.pdf' + location.search)" type="button">Download This Packing List (PDF)</button>
+<a class="btn btn-outline" href="/assets/blog/sample-one-bag-packing-list.pdf">Download This Packing List (PDF)</a>
 
 <h2 id="tips">Packing Tips</h2>
 

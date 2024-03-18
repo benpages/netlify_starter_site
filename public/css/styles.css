@@ -80,11 +80,18 @@ h4 {
 a {
 	color: var(--clr-primary);
 	text-decoration: none;
+	transition: color 0.3s ease;
 }
 
 a:hover,
 a:focus {
 	color: var(--clr-accent);
+}
+
+.figure-caption {
+	font-size: var(--fs-300);
+	text-align: center;
+	margin-top: 0.5em;
 }
 
 button,
@@ -94,8 +101,12 @@ input {
 }
 
 .wrapper {
-	width: min(100% - 3em, 1176px);
+	width: min(100% - 3em, 1100px);
 	margin-inline: auto;
+}
+
+.wrapper--narrow {
+	width: min(100% - 3em, 60ch);
 }
 
 .flow > * + * {
@@ -103,6 +114,13 @@ input {
 }
 
 /* Utilities */
+
+.img-fw {
+	width: calc(60ch * 1.05);
+	max-width: calc(100vw - 2em);
+	margin-left: 50%;
+	transform: translateX(-50%);
+}
 
 .list-style-none {
 	list-style: none;
@@ -210,6 +228,53 @@ section.hero {
 	width: 100%;
 }
 
+.article img {
+	border-radius: 5px;
+}
+
+.article__title {
+	font-size: var(--fs-800);
+	font-weight: 400;
+	text-align: center;
+}
+
+.toc,
+.well {
+	padding: 2em;
+	background-color: var(--clr-tertiary);
+	border: 1px solid var(--clr-secondary);
+	text-transform: lowercase;
+	font-family: var(--ff-heading);
+}
+
+.toc__title {
+	margin-bottom: 1rem;
+}
+
+.toc > ul {
+	list-style: none;
+	padding-left: 0;
+}
+
+img.author-bio__img {
+	max-width: 125px;
+	border-radius: 25em;
+	margin: 0 auto;
+	margin-bottom: 1em;
+}
+
+@media (min-width: 600px) {
+	.author-bio {
+		display: flex;
+		gap: 2rem;
+		align-items: center;
+	}
+
+	img.author-bio__img {
+		margin-bottom: 0;
+	}
+}
+
 @media (min-width: 750px) {
 	section.hero {
 		background-image: url(/assets/ben-transparent.png);
@@ -227,45 +292,5 @@ section.hero {
 
 	.article-snippet {
 		grid-template-columns: 1fr 1fr;
-	}
-
-	.footer__wrapper {
-		display: grid;
-		grid-template-columns: 1fr 1fr;
-		grid-template-areas: 'links posts' 'newsletter newsletter';
-		gap: 2em;
-	}
-
-	.footer__posts,
-	.footer__newsletter {
-		margin-top: 0;
-	}
-
-	.footer__links {
-		grid-area: links;
-	}
-
-	.footer__posts {
-		grid-area: posts;
-	}
-
-	.footer__newsletter {
-		grid-area: newsletter;
-	}
-
-	.footer .footer__form input {
-		margin-bottom: 0.5em;
-	}
-}
-
-@media (min-width: 1024px) {
-	.footer__wrapper {
-		grid-template-columns: 1fr 1fr 2fr;
-		grid-template-areas: unset;
-	}
-	.footer__links,
-	.footer__posts,
-	.footer__newsletter {
-		grid-area: unset;
 	}
 }

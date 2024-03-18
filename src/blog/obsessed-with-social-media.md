@@ -22,7 +22,7 @@ Let's dive in.
 _**This is not medical advice.** If you feel like you might be developing a social media addiction, talk to a therapist. But if you're looking for tips on how to cut down the time you spend on social media, read on._
 
 <div class="toc">
-  <h4>Table of Content</h4>
+  <h4 class="toc__title">Table of Content</h4>
   <ul>
 	<li><a href="#find-your-why">1. Use the 5 Why's Technique</a></li>
 	<li><a href="#practice-being-unplugged">2. Practice being unplugged</a></li>
@@ -89,7 +89,7 @@ These small practices will help you reduce your time on social media and slowly 
 
 <figure>
 <img class="img-fw" src="/assets/blog/dumb-iphone.jpg" alt="No obsession with social media with a dumb phone">
-<figcaption>A black and white, dumbed down iPhone (<a href="https://whatifididnt.com/blog/iphone-dumb-phone/">read the tutorial</a>)</figcaption>
+<figcaption class="figure-caption">A black and white, dumbed down iPhone (<a href="https://whatifididnt.com/blog/iphone-dumb-phone/">read the tutorial</a>)</figcaption>
 </figure>
 
 <h2 id="limit-social-media-use-to-desktop">3. Limit social media use to Desktop</h2>
@@ -110,7 +110,7 @@ If you _really_ need the app version of a social media platform for one reason o
 
 <figure>
 	<img class="img-fw" src="/assets/blog/tik-tok-desktop.jpg" alt="Limit browser extension social media settings">
-	<figcaption>Tik Tok isn't nearly as fun on desktop</figcaption>
+	<figcaption class="figure-caption">Tik Tok isn't nearly as fun on desktop</figcaption>
 	</figure>
 
 <h2 id="replace-social-media-with-other-activities">4. Fill your time intentionally</h2>
@@ -151,7 +151,7 @@ You may achieve your goal or not - it doesn’t matter. Just keep on setting the
 
 <figure>
 <img class="img-fw" src="/assets/blog/iphone-screen-time.jpg" alt="Obsessed with social media">
-<figcaption>You can track your progress with Screen Time (but don't obsess over it)</figcaption>
+<figcaption class="figure-caption">You can track your progress with Screen Time (but don't obsess over it)</figcaption>
 </figure>
 
 <h2 id="configure-your-notifications">6. Choose your notifications wisely</h2>
@@ -168,7 +168,7 @@ Visit your app’s settings and disable all the notifications you don’t need. 
 
 <figure>
 	<img class="img-fw" src="/assets/blog/ig-notification-settings.jpg" alt="instagram notification settings">
-	<figcaption>Customizing notifications in Instagram</figcaption>
+	<figcaption class="figure-caption">Customizing notifications in Instagram</figcaption>
 	</figure>
 
 One type of notification I recommend disabling for all apps and activity is "badges" - those little red dots that remind you there's new activity in an app. They feed your obsession. And you don't need them. So turn them off.
@@ -177,7 +177,7 @@ To do so on an iPhone, go to Settings -> Notifications, then tap each app one by
 
 <figure>
 	<img class="img-fw" src="/assets/blog/iphone-badge-notifications.jpg" alt="deactivating social media badge notifications">
-	<figcaption>Remove badge notifications in iOS</figcaption>
+	<figcaption class="figure-caption">Remove badge notifications in iOS</figcaption>
 	</figure>
 
 <h2 id="social-media-blockers">Are social media blockers effective?</h2>
@@ -188,7 +188,7 @@ For example, there are some apps out there that automatically lock you out of so
 
 <figure>
 <img class="img-fw" src="/assets/blog/limit-social-media.jpg" alt="Limit browser extension social media settings">
-<figcaption>Facebook blocked by the Freedom app</figcaption>
+<figcaption class="figure-caption">Facebook blocked by the Freedom app</figcaption>
 </figure>
 
 To me, these apps grossly underestimate the power of human obsession.
