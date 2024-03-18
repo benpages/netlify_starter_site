@@ -298,4 +298,4 @@ Here's how you might use this:
 Your bag should weigh between 10 lbs and 20 lbs. Anything above 20 lbs and you start to lose some of the benefits of efficient and minimal packing. Also note that in Europe, most airlines won't allow carry-ons heavier than 10 kg (22 lbs).
 
 <br />
-<p><em>A big shoutout to Reddit’s <a href="https://www.reddit.com/r/onebag/" target="_blank" rel="noreferrer noopener nofollow">r/onebag</a> community for all the amazing tips and resources they’ve made available!<em></p>
+<p><em>A big shoutout to Reddit’s <a href="https://www.reddit.com/r/onebag/" target="_blank" rel="noreferrer noopener nofollow">r/onebag</a> community for all the amazing tips and resources they’ve made available!</em></p>

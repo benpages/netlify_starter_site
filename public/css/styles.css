@@ -17,8 +17,8 @@
 /* CSS Reset */
 
 html {
-	box-sizing: border-box;
 	font-size: 18px;
+	box-sizing: border-box;
 	scroll-behavior: smooth;
 }
 
@@ -63,19 +63,12 @@ img + p {
 /* Typography */
 
 body {
-	font-family: var(--font-mono);
+	font-family: var(--font-body);
 	font-weight: 400;
 	color: var(--clr-black);
 	line-height: 1.65;
 	text-wrap: pretty;
-}
-
-.content p,
-.content li,
-.content figcaption,
-.content blockquote,
-.footer p {
-	font-family: var(--font-body);
+	height: 100vh;
 }
 
 p {
@@ -114,6 +107,7 @@ footer,
 label,
 .toc {
 	text-transform: lowercase;
+	font-family: var(--font-mono);
 }
 
 h1,
@@ -295,6 +289,7 @@ a:focus {
 	margin-top: 6em;
 	background-color: var(--clr-light-gray);
 	border-top: 1px solid var(--clr-gray);
+	font-size: 0.875rem;
 }
 
 .pre-footer a {
@@ -417,6 +412,7 @@ nav ul {
 	padding: 0;
 	list-style: none;
 	word-spacing: -0.125rem;
+	font-family: var(--font-mono);
 }
 
 nav li {
@@ -723,6 +719,7 @@ textarea {
 
 .hero__lead {
 	margin-bottom: 2rem;
+	font-family: var(--font-mono);
 }
 
 .hero__form {
