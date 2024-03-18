@@ -163,7 +163,8 @@ textarea {
 	padding-block: 3em;
 }
 
-.footer__col + .footer__col {
+.footer__posts,
+.footer__newsletter {
 	margin-top: 1em;
 }
 
@@ -226,5 +227,45 @@ section.hero {
 
 	.article-snippet {
 		grid-template-columns: 1fr 1fr;
+	}
+
+	.footer__wrapper {
+		display: grid;
+		grid-template-columns: 1fr 1fr;
+		grid-template-areas: 'links posts' 'newsletter newsletter';
+		gap: 2em;
+	}
+
+	.footer__posts,
+	.footer__newsletter {
+		margin-top: 0;
+	}
+
+	.footer__links {
+		grid-area: links;
+	}
+
+	.footer__posts {
+		grid-area: posts;
+	}
+
+	.footer__newsletter {
+		grid-area: newsletter;
+	}
+
+	.footer .footer__form input {
+		margin-bottom: 0.5em;
+	}
+}
+
+@media (min-width: 1024px) {
+	.footer__wrapper {
+		grid-template-columns: 1fr 1fr 2fr;
+		grid-template-areas: unset;
+	}
+	.footer__links,
+	.footer__posts,
+	.footer__newsletter {
+		grid-area: unset;
 	}
 }

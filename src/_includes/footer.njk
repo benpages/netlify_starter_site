@@ -1,6 +1,6 @@
 <footer class="footer">
 	<div class="wrapper footer__wrapper">
-		<div class="footer__col flow">
+		<div class="footer__links flow">
 			<h4>Helpful links</h4>
 			<ul class="list-style-none">
 				<li>
@@ -20,7 +20,7 @@
 				</li>
 			</ul>
 		</div>
-		<div class="footer__col flow">
+		<div class="footer__posts flow">
 			<h4>Recent posts</h4>
 			<ul class="list-style-none">
 				{%- for post in collections.post | reverse -%}
@@ -30,10 +30,10 @@
 					{%- endfor -%}
 				</ul>
 			</div>
-			<div class="footer__col flow">
+			<div class="footer__newsletter flow">
 				<h4>Newsletter</h4>
 				<p>Enter your name and email address to join the newsletter. You'll receive new posts, exclusive content, and much more.</p>
-				<form class="inline-form" name="newsletter" method="POST" data-netlify="true">
+				<form class="footer__form inline-form" name="newsletter" method="POST" data-netlify="true">
 					<input id="email" type="email" name="email" placeholder="Your email"/>
 					<button class="btn btn-primary" type="submit">Sign Up</button>
 				</form>
