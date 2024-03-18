@@ -133,6 +133,8 @@ textarea {
 }
 
 .btn {
+	cursor: pointer;
+	display: inline-block;
 	padding: 0.75em 1.25em;
 	border-radius: 0.25em;
 }
@@ -199,8 +201,12 @@ section.hero {
 }
 
 .article-snippet__title {
-	font-size: var(--fs-500);
+	font-size: var(--fs-600);
 	font-weight: 400;
+}
+
+.article-snippet img {
+	width: 100%;
 }
 
 @media (min-width: 750px) {
@@ -216,5 +222,9 @@ section.hero {
 
 	.inline-form {
 		display: inline-block;
+	}
+
+	.article-snippet {
+		grid-template-columns: 1fr 1fr;
 	}
 }
