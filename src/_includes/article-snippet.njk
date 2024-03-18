@@ -1,13 +1,10 @@
 <li class="article-snippet">
-  <a class="article-img-wrapper" href="{{ post.url }}">
-    <img class="article-img" src="{{ post.data.image }}" alt="{{ post.data.imageAlt }}">
+  <a href="{{ post.url }}">
+    <img src="{{ post.data.image }}" alt="{{ post.data.imageAlt }}">
   </a>
   <article>
-    <h4 class="h5">
+    <h4>
       <a href="{{ post.url }}">{{ post.data.title }}</a>
     </h4>
-    {# <p>{{ post.date | postDate }}</p> #}
-    {# <p>{{ post.data.description }}</p> #}
-    {# <a href="{{ post.url }}">Read ></a> #}
   </article>
 </li>

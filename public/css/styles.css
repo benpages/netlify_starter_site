@@ -76,6 +76,7 @@ h4 {
 
 a {
 	color: var(--clr-primary);
+	text-decoration: none;
 }
 
 a:hover,
@@ -136,14 +137,22 @@ textarea {
 
 /* Utilities */
 
+.list-style-none {
+	list-style: none;
+	padding: 0;
+}
+
 .subtext {
 	font-size: var(--fs-300);
 }
 
 /* Individual styles */
 
-section.hero {
+section {
 	padding-block: 3em;
+}
+
+section.hero {
 	background-color: var(--clr-accent);
 }
 
@@ -155,4 +164,10 @@ section.hero {
 	font-size: var(--fs-500);
 	font-family: var(--ff-heading);
 	text-transform: lowercase;
+}
+
+.article-snippet {
+	display: grid;
+	gap: 0.5em;
+	margin-top: 1.5em;
 }
