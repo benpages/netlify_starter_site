@@ -14,7 +14,8 @@
 	--clr-text: #050315;
 	--clr-background: #ffffff;
 	--clr-primary: #bf7160;
-	--clr-secondary: #f7fafc;
+	--clr-secondary: #dae8f1;
+	--clr-tertiary: #f7fafc;
 	--clr-accent: #39c7d3;
 }
 
@@ -99,6 +100,17 @@ input {
 	margin-top: 1em;
 }
 
+/* Utilities */
+
+.list-style-none {
+	list-style: none;
+	padding: 0;
+}
+
+.subtext {
+	font-size: var(--fs-300);
+}
+
 /* Components */
 
 input,
@@ -135,15 +147,26 @@ textarea {
 	color: var(--clr-primary);
 }
 
-/* Utilities */
+/* Footer */
 
-.list-style-none {
-	list-style: none;
-	padding: 0;
+.footer {
+	background-color: var(--clr-tertiary);
+	border-top: 1px solid var(--clr-secondary);
+	text-transform: lowercase;
 }
 
-.subtext {
+.footer__wrapper {
+	padding-block: 3em;
+}
+
+.footer__col + .footer__col {
+	margin-top: 1em;
+}
+
+.copyright {
 	font-size: var(--fs-300);
+	text-align: center;
+	padding: 1rem;
 }
 
 /* Individual styles */
@@ -170,4 +193,9 @@ section.hero {
 	display: grid;
 	gap: 0.5em;
 	margin-top: 1.5em;
+}
+
+.article-snippet__title {
+	font-size: var(--fs-500);
+	font-weight: 400;
 }
