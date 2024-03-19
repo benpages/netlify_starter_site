@@ -188,6 +188,10 @@ textarea {
 	color: var(--clr-primary);
 }
 
+tr {
+	border-bottom: 3px solid red;
+}
+
 /* Footer */
 
 .header {
@@ -287,7 +291,7 @@ section.hero {
 }
 
 .article-snippet__title {
-	font-size: var(--fs-600);
+	font-size: var(--fs-500);
 	font-weight: 400;
 }
 

@@ -65,7 +65,7 @@ The size you choose will depend on how light you want to pack and what airline y
 
 If you're new to one bag travel, start with a pack in the 30L to 40L range. Then work your way down as you optimize your gear and learn to pack more efficiently.
 
-<table class="table table-striped">
+<table class="table">
     <thead>
         <tr>
             <th>Airline</th>
