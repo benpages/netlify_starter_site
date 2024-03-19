@@ -14,6 +14,7 @@
 	--clr-text: #050315;
 	--clr-background: #ffffff;
 	--clr-primary: #bf7160;
+	--clr-primary--hover: #9f5545;
 	--clr-secondary: #dae8f1;
 	--clr-tertiary: #f7fafc;
 	--clr-accent: #39c7d3;
@@ -80,12 +81,17 @@ h4 {
 a {
 	color: var(--clr-primary);
 	text-decoration: none;
-	transition: color 0.3s ease;
+	transition: all 0.3s ease;
 }
 
 a:hover,
 a:focus {
-	color: var(--clr-accent);
+	color: var(--clr-primary--hover);
+}
+
+a.btn:hover,
+a.btn:focus {
+	box-shadow: rgba(0, 0, 0, 0.04) 0px 3px 5px;
 }
 
 .figure-caption {
@@ -131,6 +137,19 @@ input {
 	font-size: var(--fs-300);
 }
 
+.visually-hidden {
+	position: absolute;
+	position: absolute !important;
+	width: 1px !important;
+	height: 1px !important;
+	padding: 0 !important;
+	margin: -1px !important;
+	overflow: hidden !important;
+	clip: rect(0, 0, 0, 0) !important;
+	white-space: nowrap !important;
+	border: 0 !important;
+}
+
 /* Components */
 
 input,
@@ -170,6 +189,54 @@ textarea {
 }
 
 /* Footer */
+
+.header {
+	position: static;
+}
+
+.header__wrapper {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	gap: 1em;
+}
+
+.nav-toggle {
+	display: none;
+	z-index: 2;
+}
+
+.nav-toggle .icon-close {
+	display: none;
+}
+
+.header__logo {
+	z-index: 2;
+}
+
+.header__logo svg {
+	max-width: 200px;
+	height: auto;
+}
+
+.nav__list {
+	list-style: none;
+	padding-left: 0;
+	font-family: var(--ff-heading);
+	text-transform: lowercase;
+	display: flex;
+	gap: 1.5em;
+}
+
+.nav__link {
+	color: var(--clr-text);
+	transition: color 0.3s ease;
+}
+
+.nav__link:hover,
+.nav__link:focus {
+	color: var(--clr-primary);
+}
 
 .footer {
 	background-color: var(--clr-tertiary);
@@ -292,5 +359,35 @@ img.author-bio__img {
 
 	.article-snippet {
 		grid-template-columns: 1fr 1fr;
+	}
+}
+
+@media (max-width: 600px) {
+	.nav {
+		display: none;
+		position: fixed;
+		inset: 0 0 auto;
+		z-index: 1;
+		padding: calc(3em + 4.5em) 1.5em 3em 1.5em;
+		background-color: var(--clr-tertiary);
+		border-bottom: 1px solid var(--clr-secondary);
+	}
+
+	.nav__list {
+		flex-direction: column;
+		align-items: center;
+		font-weight: 500;
+	}
+
+	.nav[data-visible] {
+		display: block;
+	}
+
+	.nav-toggle {
+		display: block;
+		cursor: pointer;
+		background: transparent;
+		border: none;
+		padding: 0.5em;
 	}
 }

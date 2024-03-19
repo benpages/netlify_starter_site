@@ -109,9 +109,4 @@ And that’s ok.
 
 What you’ll gain in exchange is the ability to think again. You’ll be more productive. You’ll feel less anxious. And you’ll be present with the people you love.
 
-<br>
-<small>
-<em style="color:rgba(var(--clr-black-rgb),0.8";>
-Full disclosure: if you purchase a product using one of our links, we may earn a small commission. This helps us keep the lights on and doesn't cost you a thing. Thanks for your support!
-</em>
-</small>
+<p><em>Full disclosure: if you purchase a product using one of our links, we may earn a small commission. This helps us keep the lights on and doesn't cost you a thing. Thanks for your support!</em></p>

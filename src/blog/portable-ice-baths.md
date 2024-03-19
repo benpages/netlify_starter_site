@@ -363,9 +363,4 @@ All the peer-reviewed studies I've found reach similar conclusions, stating thin
 
 Now, if you’ve ever taken an ice bath or a cold shower, you know that you feel amazing afterward. And that, for me, is enough to continue practicing cold water exposure year after year.
 
-<br>
-<small>
-<em style="color:rgba(var(--clr-black-rgb),0.8";>
-Full disclosure: When you buy a product through our links, we may earn a small commission. This helps us keep going, and it won't cost you a penny. Thanks for backing us.
-</em>
-</small>
+_Full disclosure: When you buy a product through our links, we may earn a small commission. This helps us keep going, and it won't cost you a penny. Thanks for backing us._
