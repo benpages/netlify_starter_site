@@ -47,7 +47,7 @@ Down below, you'll discover a minimalist morning routine made of 10 simple ritua
 
 Pick and choose what works for you. Experiment with each individual habit and ask: "Does this bring me value? Does this bring me joy?". If the answer is no, eliminate it.
 
-<img class="img-fw" src="/assets/blog/minimalist-morning-routine.jpg" alt="a minimalist morning routine starting with books">
+<img class="wrapper--wide" src="/assets/blog/minimalist-morning-routine.jpg" alt="a minimalist morning routine starting with books">
 
 <h2 id="10-minimalist-morning-rituals-for-your-routine">10 minimalist morning rituals for your routine</h2>
 
@@ -59,7 +59,7 @@ Use a tongue scraper to remove bacteria from your tongue, then brush your teeth.
 
 Worried about bad breath? Flossing and flushing your mouth with water or a fluoride solution after breakfast will help get rid of food residue between your teeth and keep a clean mouth.
 
-<img class="img-fw" src="/assets/blog/morning-routine-oral-care.jpg" alt="a toothbrush during a minimalist morning routine">
+<img class="wrapper--wide" src="/assets/blog/morning-routine-oral-care.jpg" alt="a toothbrush during a minimalist morning routine">
 
 <h3 id="drink-a-large-glass-of-water">Drink a large glass of water</h3>
 
@@ -94,7 +94,7 @@ Depending on the amount of time you have and your level of fitness, consider the
 - **Bodyweight exercises:** A dozen of jump-and-jacks, squats, pushups, crunches, or burpees should do the trick.
 - **Cardio:** If you have the time, go out for a brisk walk, a jog, or go up and down the staircase a few times.
 
-<img class="img-fw" src="/assets/blog/morning-routine-stretching.jpg" alt="a minimalist stretching as part of ah her morning routine">
+<img class="wrapper--wide" src="/assets/blog/morning-routine-stretching.jpg" alt="a minimalist stretching as part of ah her morning routine">
 
 <h3 id="get-direct-sunlight">Get direct sunlight</h3>
 
@@ -112,11 +112,9 @@ Light coming from a screen or through a window doesn't work as well. So step out
 
 Do not wear sunglasses. They block light and prevent it from working its magic.
 
-<div class="well">
-<div class="container-sm">
+<div class="well flow">
 <h4>☕️ Pro tip: Delay caffeine intake</h4>
 <p>The moment light hits your eye in the morning, your body starts releasing cortisol. Because caffeine interferes with the production of said cortisol, it is best to delay caffeine intake to about 60 minutes after waking up so you enjoy the energizing effects of not only coffee, but also your body's natural clock.</p>
-</div>
 </div>
 
 <h3 id="meditate">Meditate</h3>
@@ -129,7 +127,7 @@ Meditation is a difficult practice. A guided practice like <a href="https://www.
 
 If you haven't had much success with meditation, try <a href="https://whatifididnt.com/blog/breathing-exercises/">breathing exercises</a> instead. They have the similar - though not as profound - effect of grounding and pausing your stream of thoughts.
 
-<img class="img-fw" src="/assets/blog/morning-routine-meditation.jpg" alt="A statue of buddha and a roll of sage">
+<img class="wrapper--wide" src="/assets/blog/morning-routine-meditation.jpg" alt="A statue of buddha and a roll of sage">
 
 <h3 id="practice-gratitude">Practice gratitude</h3>
 
@@ -163,15 +161,14 @@ Ask something of your subconscious the night before, like "should I take the job
 
 First thing when you wake up, pull out your journal and write down all the thoughts about the issue that come to mind.
 
-<div class="well">
-<div class="container-sm">
+<div class="well flow">
   <h4>🙉 Pro tip: Journal pre-input</h4>
   <p>Access your deepest, most creative thoughts <a href="https://twitter.com/PompPodcast/status/1533114599981170688" target="_blank" rel="noreferrer noopener nofollow">pre-input</a>.</p> <p>External stimuli like the news, the weather, or social media updates clutter your mind and make it difficult to retrieve ideas and concepts your subconscious distilled during the night.</p>
   <p>So journal as early as in the morning as possible. Before you turn on your phone. Before you turn on the TV. Before you talk to anyone.</p>
-  </div>
+
 </div>
 
-<img class="img-fw" src="/assets/blog/morning-routine-journaling.jpg" alt="a notebook that serves for the minimalist morning routine journaling">
+<img class="wrapper--wide" src="/assets/blog/morning-routine-journaling.jpg" alt="a notebook that serves for the minimalist morning routine journaling">
 
 <h3 id="set-intentions">Set your intentions</h3>
 
@@ -189,8 +186,7 @@ Grooming in the morning can help you feel more attractive and confident. Ultimat
 
 Take some time in the morning to take care of yourself.
 
-<div class="well mb-3">
-<div class="container-sm">
+<div class="well flow">
   <h4>🚿 Pro tip: Cold showers</h4>
 
 If you like to shower in the morning, try turning the shower knob all the way to cold for at least 30 seconds either at the beginning or end of your wash.
@@ -199,7 +195,6 @@ Cold exposure will improve your mood, boost your immune system, and train you to
 
 Breathe deeply and resist the urge to quit.
 
-  </div>
 </div>
 
 <h2 id="why-is-a-morning-routine-important">Why is a morning routine important?</h2>

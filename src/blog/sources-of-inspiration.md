@@ -41,7 +41,7 @@ The simple act of walking forces your physiology to change. And when your physio
 
 You may find that even mundane scenes like a child playing with her doll or a clerk counting change can become sources of inspiration.
 
-<img class="img-fw" src="/assets/blog/sources-of-inspiration-camel.jpg" alt="sources of inspiration">
+<img class="wrapper--wide" src="/assets/blog/sources-of-inspiration-camel.jpg" alt="sources of inspiration">
 
 <h2 id="read-a-book">2. Read a book</h2>
 
@@ -63,7 +63,7 @@ Don't worry if no inspiration comes from these dates at first. Keep trying diffe
 
 Solo dates are fun. So even if inspiration doesn't strike, you'll enjoy a good time.
 
-<img class="img-fw" src="/assets/blog/solo-date.jpg" alt="finding inspiration at a concert">
+<img class="wrapper--wide" src="/assets/blog/solo-date.jpg" alt="finding inspiration at a concert">
 
 <h2 id="listen-to-music">4. Listen to instrumental music</h2>
 
@@ -85,7 +85,7 @@ Be patient.
 
 **Sit with a single piece of art longer than it feels comfortable**, and you'll start to notice subtleties you had not seen before. You may begin to understand some of the artist's decisions and the story they hoped to convey.
 
-<img class="img-fw" src="/assets/blog/source-of-inspiration-museum.jpg" alt="a woman getting inspiration at an art gallery">
+<img class="wrapper--wide" src="/assets/blog/source-of-inspiration-museum.jpg" alt="a woman getting inspiration at an art gallery">
 
 <h2 id="learn-about-someone-successful">6. Learn about someone you admire</h2>
 
@@ -107,7 +107,7 @@ You might find yourself inspired by the architecture and art of a new destinatio
 
 The inspiration you get when traveling can fade quickly though. So I recommend you **keep a journal while you travel** to jot down thoughts, ideas, and emotions as they come up to capture the spark and keep it alive long after your trip ends.
 
-<img class="img-fw" src="/assets/blog/travel-inspiration.jpg" alt="travel is a top source of inspiration">
+<img class="wrapper--wide" src="/assets/blog/travel-inspiration.jpg" alt="travel is a top source of inspiration">
 
 <h2 id="call-a-creative-friend">8. Call a creative friend</h2>
 

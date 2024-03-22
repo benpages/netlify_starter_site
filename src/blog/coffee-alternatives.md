@@ -11,7 +11,7 @@ imageAlt: a cup of coffee alternative
 eleventyExcludeFromCollections: false
 ---
 
-<img class="img-fw" src="/assets/blog/coffee-alternatives.jpg" alt="best coffee alternatives for energy">
+<img class="wrapper--wide" src="/assets/blog/coffee-alternatives.jpg" alt="best coffee alternatives for energy">
 
 In this article, you will discover 10 healthy alternatives to coffee, both caffeinated and non-caffeinated.
 
@@ -41,7 +41,7 @@ Add about 2-3 ounces of warm water (60-70 degrees). Then, use a whisk or spoon (
 
 If you want a sweeter drink, you can add honey or sugar to taste. For a cold drink, mix matcha with cold water or milk and ice.
 
-<img class="img-fw" src="/assets/blog/matcha.jpg" alt="matcha coffee alternative">
+<img class="wrapper--wide" src="/assets/blog/matcha.jpg" alt="matcha coffee alternative">
 
 ## 2. Yerba Mate
 
@@ -59,7 +59,7 @@ It contains theobromine and theophylline, which help smooth out the effects of c
 
 The traditional way to drink yerba is to use a gourd and a metallic straw called a bombilla.
 
-<img class="img-fw" src="/assets/blog/yerba.jpg" alt="drink yerba matte instead of coffee">
+<img class="wrapper--wide" src="/assets/blog/yerba.jpg" alt="drink yerba matte instead of coffee">
 
 ## 3. Green Tea
 
@@ -79,7 +79,7 @@ Place the green tea leaves in a tea filter and into your teapot or teacup. Pour 
 
 Once the tea has finished steeping, remove the leaves, and set them aside. Don't throw them out. You can use them again for your next batch of tea.
 
-<img class="img-fw" src="/assets/blog/green-tea.jpg" alt="drinking green tea as a coffee alternative">
+<img class="wrapper--wide" src="/assets/blog/green-tea.jpg" alt="drinking green tea as a coffee alternative">
 
 ## 4. Black Tea
 
@@ -97,7 +97,7 @@ So let the water cool down at least 2 minutes before pouring it in.
 
 Set the leaves aside and reuse them once or twice more.
 
-<img class="img-fw" src="/assets/blog/black-tea.jpg" alt="black tea is a great coffee alternative">
+<img class="wrapper--wide" src="/assets/blog/black-tea.jpg" alt="black tea is a great coffee alternative">
 
 ## 5. Mushroom Coffee
 
@@ -111,7 +111,7 @@ Choose a brand that uses high-quality mushrooms and doesn't add fillers. I like[
 
 Four Sigmatic's mushroom coffee is instant and comes in individual packets. Mix it with hot water, drink up, and buckle up! You can also add milk or sugar to taste.
 
-<img class="img-fw" src="/assets/blog/mushroom-coffee.jpg" alt="Mushroom coffee from Four Sigmatic">
+<img class="wrapper--wide" src="/assets/blog/mushroom-coffee.jpg" alt="Mushroom coffee from Four Sigmatic">
 
 ## 6. Chicory
 
@@ -149,7 +149,7 @@ Once the milk heats through, strain the spices out and enjoy.
 
 Sweeten it with honey or stevia. I like to whisk in a tablespoon of coconut milk. The result is Oh-So creamy.
 
-<img class="img-fw" src="/assets/blog/turmeric-latte.jpg" alt="Turmeric latte best coffee alternative">
+<img class="wrapper--wide" src="/assets/blog/turmeric-latte.jpg" alt="Turmeric latte best coffee alternative">
 
 ## 8. Chai
 
@@ -163,7 +163,7 @@ Chai tea has many health benefits. It may reduce the risk of heart disease, boos
 
 Brewing chai tea is simple. Steep black tea with cardamom, cinnamon, cloves, and ginger for 3-5 minutes. Add sweetener if desired. Milk is optional.
 
-<img class="img-fw" src="/assets/blog/chai.jpg" alt="drink chai latte as a coffee alternative">
+<img class="wrapper--wide" src="/assets/blog/chai.jpg" alt="drink chai latte as a coffee alternative">
 
 ## 9. Lemon Water
 
@@ -187,7 +187,7 @@ If you feel adventurous, here are additions worth trying:
 - Himalayan sea salt: It helps you recover the electrolytes you've lost during the night.
 - Apple cider vinegar (ACV): ACV improves the taste of the mixture. And drinking it every day also[ ](https://www.webmd.com/diet/apple-cider-vinegar-and-your-health)[may have health benefits](https://www.webmd.com/diet/apple-cider-vinegar-and-your-health).
 
-<img class="img-fw" src="/assets/blog/lemon-water.jpg" alt="lemon water instead of coffee for energy">
+<img class="wrapper--wide" src="/assets/blog/lemon-water.jpg" alt="lemon water instead of coffee for energy">
 
 ## 10. Ginger Tea
 
@@ -204,7 +204,7 @@ To make ginger tea:
 
 Ginger is a strong-tasting spice. You may need time to get used to it. You can add milk or honey to taste.
 
-<img class="img-fw" src="/assets/blog/ginger-tea.jpg" alt="ginger tea is a coffee alternative">
+<img class="wrapper--wide" src="/assets/blog/ginger-tea.jpg" alt="ginger tea is a coffee alternative">
 
 ## Reasons to Avoid Coffee
 

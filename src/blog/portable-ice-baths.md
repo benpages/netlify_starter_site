@@ -11,7 +11,7 @@ image: /assets/blog/portable-ice-bath.jpg
 imageAlt: Portable ice bath
 ---
 
-<img class="img-fw" src="/assets/blog/portable-ice-bath.jpg" alt="Man relaxing in portable ice bath">
+<img class="wrapper--wide" src="/assets/blog/portable-ice-bath.jpg" alt="Man relaxing in portable ice bath">
 
 The best portable ice baths are light, simple to set up, and budget-friendly. They're a great alternative to traditional ice baths, which are bulky, cannot be transported, and often cost a small fortune.
 
@@ -39,9 +39,7 @@ Let's dive in.
 </ul>
 </div>
 
-<small>
-<strong>⚠️ This blog post is intended for informational purposes only and is not a substitute for medical advice. Consult a healthcare professional to determine the safety and suitability of ice baths for your situation, as cold exposure may carry health risks.</strong>
-</small>
+<p class="subtext"><strong>Warning:</strong> This blog post is intended for informational purposes only and is not a substitute for medical advice. Consult a healthcare professional to determine the safety and suitability of ice baths for your situation, as cold exposure may carry health risks.</strong></p>
 
 <h2 id="considerations">Considerations</h2>
 
@@ -50,7 +48,7 @@ Let's dive in.
 Most ice baths can accommodate people up to 6 feet 7 inches (2 meters). This number can vary slightly based on the brand and model. When shopping for ice baths, look for "max. suitable height" in the product specs to make sure it's the right fit. Some models exist in larger sizes. The Cold Pod XL, for example, is a wider version of the original Cold Pod that provides an additional 120 L of space.
 
 <figure>
-<img class="img-fw" src="/assets/blog/portable-ice-bath-size.jpg" alt="How to sit in a portable ice bath">
+<img class="wrapper--wide" src="/assets/blog/portable-ice-bath-size.jpg" alt="How to sit in a portable ice bath">
 <figcaption>6 ft tall, sitting in the 420 L LUMI Rocovery Pod Max</figcaption>
 </figure>
 
@@ -63,7 +61,7 @@ You can cool ice baths in two ways: with ice or using an electric chiller. Most 
 Most portable ice baths are inflatable and can be folded for easy transport. However, there are some exceptions, like the Ice Barrel 400. It is made of hard plastic that can't be folded or taken apart. At 55 lbs, it can still be transported and set up just about anywhere but with more hassle than other models on our list, all of which weigh under 8 lbs.
 
 <figure>
-<img class="img-fw" src="/assets/blog/portable-ice-bath-packed.jpg" alt="Portable ice bath packed into a roll-top dry bag">
+<img class="wrapper--wide" src="/assets/blog/portable-ice-bath-packed.jpg" alt="Portable ice bath packed into a roll-top dry bag">
 <figcaption>Once packed, portable ice baths take very little space.</figcaption>
 </figure>
 
@@ -76,7 +74,7 @@ If you’re going to leave your ice bath outside, you’ll want to make sure the
 Every portable ice bath uses different insulation technology to keep the water as cool as possible. The LUMI Recovery Pod, for example, uses 3 layers of thermal insulated TPE (Thermoplastic Elastomers). Proper insulation helps keep the water cool inside your tub for a longer time - meaning you’ll have to refill with ice less often, especially in warmer weather.
 
 <figure>
-<img class="img-fw" src="/assets/blog/portable-ice-bath-insulation.jpg" alt="Portable ice bath close with thermal lid">
+<img class="wrapper--wide" src="/assets/blog/portable-ice-bath-insulation.jpg" alt="Portable ice bath close with thermal lid">
 <figcaption>A thermal cover helps to keep the water inside the tub cold between plunges.</figcaption>
 </figure>
 
@@ -85,17 +83,13 @@ Every portable ice bath uses different insulation technology to keep the water a
 A drain is an important element that every ice bath should have. It allows you to quickly drain the water from the tub when you need to. Without a drain, you’ll have to empty the tub one bucket of water at a time or you’ll have to invest in a submersible pump. The models we've chosen for you below all have one.
 
 <figure>
-<img class="img-fw" src="/assets/blog/portable-ice-bath-drain.jpg" alt="Drain valve on a portable ice bath">
+<img class="wrapper--wide" src="/assets/blog/portable-ice-bath-drain.jpg" alt="Drain valve on a portable ice bath">
 <figcaption>Drain valve</figcaption>
 </figure>
 <h2 id="best-ice-baths">The best portable ice baths</h2>
 
-<p class="mobile-only align-right">
-<small>(scroll) &rarr;</small>
-</p>
-
-<div class="table-fw">
-<table><thead><tr><th></th><th><a href="#icepod">The Ice Pod by The Pod Company</a></th><th><a href="#polar">Polar Recovery Tub™</a></th><th><a href="#barrel">Ice Barrel 400</a></th><th><a href="#lumi">The Recovery Pod by LUMI</a></th><th><a href="#coldpod">The Cold Pod</a></th></tr></thead><tbody><tr><td>Capacity</td><td>300 L</td><td>270L</td><td>397 L</td><td>320 L</td><td>320 L</td></tr><tr><td>Diameter</td><td>32″<br>(81.3 cm)</td><td>31.5″<br>(80 cm)</td><td>31″<br>(78.7 cm)</td><td>31.5″<br>(80 cm)</td><td>29.5″<br>(75 cm)</td></tr><tr><td>Height</td><td>29″<br>(73.7 cm)</td><td>29.5″<br>(75 cm)</td><td>42″<br>(106.7 cm)</td><td>29.5″<br>(75 cm)</td><td>29.5″<br>(75 cm)</td></tr><tr><td>Person size (up to)</td><td>6′ 9″<br>(205 cm)</td><td>6′ 7″<br>(200 cm)</td><td>6′ 6″<br>(198 cm)</td><td>6′ 7″<br>(200 m)</td><td>6′ 7″<br>(200 cm)</td></tr><tr><td>Weight (empty)</td><td>7 lbs<br>(3.18 kg)</td><td>6.6 lbs<br>(3 kg)</td><td>55 lbs<br>(25 kg)</td><td>7.7 lbs<br>(3.5 kg)</td><td>7.7 lbs<br>(3.5 kg)</td></tr><tr><td>Folds</td><td>Yes</td><td>Yes</td><td>No</td><td>Yes</td><td>Yes</td></tr><tr><td>Price</td><td>$119</td><td>$99</td><td>$1,199.99</td><td>$119</td><td>$120</td></tr><tr><td>Shipping</td><td>USA only</td><td>UK, USA, Australia, Canada, Ireland</td><td>USA only</td><td>Worldwide<br>(from UK)</td><td>Worldwide<br>(from UK)</td></tr><tr><td>Warranty</td><td>6-month</td><td>1-year</td><td>Lifetime</td><td>1-year</td><td>No</td></tr></tbody></table>
+<div class="table-container wrapper--important">
+<table class="table"><thead><tr><th></th><th><a href="#icepod">The Ice Pod by The Pod Company</a></th><th><a href="#polar">Polar Recovery Tub™</a></th><th><a href="#barrel">Ice Barrel 400</a></th><th><a href="#lumi">The Recovery Pod by LUMI</a></th><th><a href="#coldpod">The Cold Pod</a></th></tr></thead><tbody><tr><td>Capacity</td><td>300 L</td><td>270L</td><td>397 L</td><td>320 L</td><td>320 L</td></tr><tr><td>Diameter</td><td>32″<br>(81.3 cm)</td><td>31.5″<br>(80 cm)</td><td>31″<br>(78.7 cm)</td><td>31.5″<br>(80 cm)</td><td>29.5″<br>(75 cm)</td></tr><tr><td>Height</td><td>29″<br>(73.7 cm)</td><td>29.5″<br>(75 cm)</td><td>42″<br>(106.7 cm)</td><td>29.5″<br>(75 cm)</td><td>29.5″<br>(75 cm)</td></tr><tr><td>Person size (up to)</td><td>6′ 9″<br>(205 cm)</td><td>6′ 7″<br>(200 cm)</td><td>6′ 6″<br>(198 cm)</td><td>6′ 7″<br>(200 m)</td><td>6′ 7″<br>(200 cm)</td></tr><tr><td>Weight (empty)</td><td>7 lbs<br>(3.18 kg)</td><td>6.6 lbs<br>(3 kg)</td><td>55 lbs<br>(25 kg)</td><td>7.7 lbs<br>(3.5 kg)</td><td>7.7 lbs<br>(3.5 kg)</td></tr><tr><td>Folds</td><td>Yes</td><td>Yes</td><td>No</td><td>Yes</td><td>Yes</td></tr><tr><td>Price</td><td>$119</td><td>$99</td><td>$1,199.99</td><td>$119</td><td>$120</td></tr><tr><td>Shipping</td><td>USA only</td><td>UK, USA, Australia, Canada, Ireland</td><td>USA only</td><td>Worldwide<br>(from UK)</td><td>Worldwide<br>(from UK)</td></tr><tr><td>Warranty</td><td>6-month</td><td>1-year</td><td>Lifetime</td><td>1-year</td><td>No</td></tr></tbody></table>
 </div>
 
 <h3 id="icepod">The Ice Pod by The Pod Company</h3>
@@ -323,7 +317,7 @@ Cold water immersion can take some getting used to. Start with 59° F (15°C) an
 
 If you don't have an ice bath yet, start building up your resistance to the cold by taking cold or contrast showers daily.
 
-<img class="img-fw" src="/assets/blog/portable-ice-bath-accessories.jpg" alt="Close up of blocks of ice and a floating thermoter">
+<img class="wrapper--wide" src="/assets/blog/portable-ice-bath-accessories.jpg" alt="Close up of blocks of ice and a floating thermoter">
 
 <h3 id="change-water">How often do I change the water in the tub?</h3>
 
@@ -347,7 +341,7 @@ Your balcony may not be built to sustain such pressure.
 
 Consult your developer, builder, Homeowners Association (HOA), Condominium Board, or structural engineer before it is safe to set up a portable ice bath on your balcony.
 
-<img class="img-fw" src="/assets/blog/ice-bath-landscape.jpg" alt="Filling up a portable ice bath with garden hose">
+<img class="wrapper--wide" src="/assets/blog/ice-bath-landscape.jpg" alt="Filling up a portable ice bath with garden hose">
 
 <h2 id="benefits">Benefits of Ice Baths: Real or Made Up?</h2>
 

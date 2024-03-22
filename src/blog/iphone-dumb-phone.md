@@ -13,7 +13,7 @@ image: /assets/blog/dumb-iphone-before-after.jpg
 imageAlt: how to turn iphone into dumb phone
 ---
 
-<img class="img-fw" src="/assets/blog/dumb-iphone-before-after.jpg" alt="how to turn iphone into dumb phone before after">
+<img class="wrapper--wide" src="/assets/blog/dumb-iphone-before-after.jpg" alt="how to turn iphone into dumb phone before after">
 
 Turning your iPhone into a dumb phone is a nuclear option for bringing back focus and intention into your life.
 
@@ -38,7 +38,7 @@ Yes. All apps. You can always add back whatever you need later.
 Swipe left from your home screen until you reach the App Library. From there, hold your finger down on an icon until a menu appears. Select Delete App and confirm when prompted. Repeat until all apps are gone. Some apps, Apple won’t let you delete, like Safari and the Camera. We’ll take care of those in the next step.
 
 <div class="align-full">
-<img class="img-fw" src="/assets/blog/deleting-apps-iphone.jpg" alt="deleting unessential iphone apps">
+<img class="wrapper--wide" src="/assets/blog/deleting-apps-iphone.jpg" alt="deleting unessential iphone apps">
 </div>
 
 ### 2. Disable Safari
@@ -52,7 +52,7 @@ Go to Allowed Apps and toggle Safari off
 
 If you want you can also deactivate the Camera, although we consider it more useful than distracting.
 
-<img class="img-fw" src="/assets/blog/iphone-delete-safari.jpg" alt="disabling camera and safari in dumb iphone settings">
+<img class="wrapper--wide" src="/assets/blog/iphone-delete-safari.jpg" alt="disabling camera and safari in dumb iphone settings">
 
 ### 3. Turn off notifications for all apps
 
@@ -64,7 +64,7 @@ If you absolutely need to keep notifications on for a particular app, make sure 
 
 These are designed to steal your attention away and should be deactivated for all apps.
 
-<img class="img-fw" src="/assets/blog/disable-iphone-notifications.jpg" alt="turn iphone notifications off to dumb it down">
+<img class="wrapper--wide" src="/assets/blog/disable-iphone-notifications.jpg" alt="turn iphone notifications off to dumb it down">
 
 ### 4. Turn your phone to grayscale
 
@@ -73,7 +73,7 @@ The colors of your phone are yet another distraction. So let’s turn our iPhone
 In the Settings app, find Accessibility -> Display & Text Size -> Color Filters.
 Toggle Color Filters on and select Grayscale.
 
-<img class="img-fw" src="/assets/blog/iphone-color-filters.jpg" alt="dumb iphone grayscale settings">
+<img class="wrapper--wide" src="/assets/blog/iphone-color-filters.jpg" alt="dumb iphone grayscale settings">
 
 ### 5. Add apps that bring value to your life
 
@@ -91,7 +91,7 @@ Social media apps like Instagram, TikTok, and Youtube are off limits. News and s
 
 Instead, favor apps that facilitate productivity and creative output. Like Notes, Reminders, Voice Memos, and the Calendar.
 
-<img class="img-fw" src="/assets/blog/dumb-iphone.jpg" alt="dumb black and white minimalist iphone">
+<img class="wrapper--wide" src="/assets/blog/dumb-iphone.jpg" alt="dumb black and white minimalist iphone">
 
 ## Why a dumb phone?
 
