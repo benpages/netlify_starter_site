@@ -193,6 +193,7 @@ textarea {
 	padding: 0.5em 1.25em;
 	border-radius: 0.25em;
 	font-family: var(--ff-heading);
+	text-align: center;
 }
 
 .btn-primary {
@@ -355,6 +356,19 @@ img.author-bio__img {
 }
 
 @media (min-width: 600px) {
+	.footer__wrapper {
+		display: flex;
+	}
+
+	.footer__posts,
+	.footer__newsletter {
+		margin-top: 0;
+	}
+
+	.footer__wrapper > * {
+		width: 100%;
+	}
+
 	.author-bio {
 		display: flex;
 		gap: 2rem;
@@ -367,6 +381,11 @@ img.author-bio__img {
 }
 
 @media (min-width: 750px) {
+	.inline-form {
+		display: inline-grid;
+		grid-template-columns: 1fr auto;
+	}
+
 	section.hero {
 		background-image: url(/assets/ben-transparent.png);
 		background-repeat: no-repeat;
@@ -375,11 +394,6 @@ img.author-bio__img {
 	}
 	.hero__content {
 		max-width: 60%;
-	}
-
-	.inline-form {
-		display: inline-grid;
-		grid-template-columns: 1fr auto;
 	}
 
 	.article-snippet {
