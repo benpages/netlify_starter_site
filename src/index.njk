@@ -4,41 +4,34 @@ layout: "base.njk"
 description: Regain control of your attention and unlock your full potential. whatifididint helps you build healthy digital habits to be more productive and fulfilled.
 ---
 
-<section class="section--hero">
-  <div class="column-left">
-    <h2 class="hero__title">
+<section class="hero">
+  <div class="wrapper">
+    <div class="hero__content flow">
+      <h1 class="hero__title">
 				Enjoy a Simpler Life
-			</h2>
-    <p class="hero__lead h4">Sign up to receive monthly tips and hacks for a more streamlined, productive, and meaningful life.</p>
-    <form class="hero__form" name="newsletter" method="POST" data-netlify="true">
-
-      <input id="email" type="email" name="email" placeholder="Your email"/>
-
-      <button class="btn btn-primary" type="submit">Sign Up</button>
-
-    </form>
-    <p class="btn-subtext">Sent once a month. Unsubscribe anytime.</p>
-  </div>
-  <div class="column-right">
-    <img src="/assets/ben-transparent.png" class="hero__img">
+			</h1>
+      <p class="hero__lead">Sign up to receive monthly tips and hacks for a more streamlined, productive, and meaningful life.</p>
+      <form class="inline-form" name="newsletter" method="POST" data-netlify="true">
+        <input id="email" type="email" name="email" placeholder="Your email"/>
+        <a class="btn btn-primary" type="submit">Sign Up</a>
+      </form>
+      <p class="subtext">Sent once a month. Unsubscribe anytime.</p>
+    </div>
   </div>
 </section>
 
-<section>
-  <div class="container-sm">
-    <h2 class"section-title">Recent Posts</h2>
+<section class="recent-posts">
+  <div class="wrapper wrapper--narrow flow">
+    <h2>Recent Posts</h2>
     <ul class="list-style-none">
-
       {%- for post in collections.post | reverse -%}
         {% if loop.index0 < 5 %}
           {% include 'article-snippet.njk' %}
           {% endif%}
         {%- endfor -%}
-        <li style="text-align:right;">
-
-          <a class="btn" href="/blog/">👉 see all 👀</a>
-
-        </li>
       </ul>
+      <a class="btn btn-outline" href="/blog">
+        View more
+      </a>
     </div>
   </section>

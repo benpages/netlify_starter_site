@@ -3,8 +3,9 @@ layout: 'base.njk'
 title: 'Blog - whatifididnt'
 description: Tips, hacks, and habits that'll help you regain control of your attention, set digital boundaries, reconnect with yourself, and maximize your potential.
 ---
-<div class="content">
-  <h1>Blog</h1>
+
+<div class="page wrapper wrapper--narrow">
+  <h1 class="page__title">Blog</h1>
   <ul class="list-style-none">
 
     {%- for post in collections.post | reverse -%}
@@ -12,15 +13,4 @@ description: Tips, hacks, and habits that'll help you regain control of your att
     {%- endfor -%}
 
   </ul>
-  <br>
-  <div class="well text-center">
-    <p>
-      <strong>Want to request an article? Have a story to share?</strong>
-    </p>
-    <p>
-      💌 <a href="/contact/">
-        <strong>Drop us a note</strong>
-      </a>
-    </p>
-  </div>
 </div>

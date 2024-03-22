@@ -30,7 +30,7 @@ Let's dive in.
 </ul>
 </div>
 
-<img class="img-fw" src="/assets/blog/ayurvedic-back-massage.jpg" alt="ayurvedic back massage">
+<img class="wrapper--wide" src="/assets/blog/ayurvedic-back-massage.jpg" alt="ayurvedic back massage">
 
 <h2 id="what-is">What Is an Ayurvedic Massage?</h2>
 
@@ -46,7 +46,7 @@ When Ayurveda speaks of _balance_, it refers to <a href="https://www.webmd.com/b
 - Pitta represents the energy of transformation
 - Kapha represents the energy of structure and stability
 <figure>
-<img class="img-fw" src="/assets/blog/ayurvedic-oil.jpg" alt="ayurvedic massage oil">
+<img class="wrapper--wide" src="/assets/blog/ayurvedic-oil.jpg" alt="ayurvedic massage oil">
 <figcaption>Most ayurvedic massages use oil</figcaption>
 </figure>
 
@@ -68,7 +68,7 @@ A <a href="https://www.healthdirect.gov.au/swedish-massage" target="_blank" rel=
 
 The Ayurveda therapist will ask about your diet, sleep, bowels, and emotions. And only then will they decide how to massage you.
 
-<img class="img-fw" src="/assets/blog/ayurvedic-massage-front.jpg" alt="ayurvedic body massage">
+<img class="wrapper--wide" src="/assets/blog/ayurvedic-massage-front.jpg" alt="ayurvedic body massage">
 
 <h2 id="types">Different Types of Ayurvedic Massages</h2>
 
@@ -81,7 +81,7 @@ There are a variety of ayurvedic massages, each with its own unique benefits.
 Ayurvedic massage comes in many forms: oil-based body massages, dry massages, and specialized massages that focus on certain parts of the body (such as the feet).
 
 <figure>
-<img class="img-fw" src="/assets/blog/ayurvedic-self-massage.jpg" alt="ayurveda self massage">
+<img class="wrapper--wide" src="/assets/blog/ayurvedic-self-massage.jpg" alt="ayurveda self massage">
 <figcaption>Ayurvedic self-massage</figcaption>
 </figure>
 
@@ -131,7 +131,7 @@ Most people find that 1 to 2 massages per month are effective for general relaxa
 
 Avoid getting a massage if you are experiencing digestion problems, during periods, and if you are sick or pregnant.
 
-<img class="img-fw" src="/assets/blog/ayurvedic-practices.jpg" alt="meditation is another ayurvedic practice">
+<img class="wrapper--wide" src="/assets/blog/ayurvedic-practices.jpg" alt="meditation is another ayurvedic practice">
 
 <h2 id="other-principles">Ayurveda Principles to Live By</h2>
 

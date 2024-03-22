@@ -11,7 +11,7 @@ tags:
   - post
 ---
 
-<img class="img-fw" src="/assets/blog/burning-calories-sauna.jpg" alt="woman preparing to enter a sauna and burn calories">
+<img class="wrapper--wide" src="/assets/blog/burning-calories-sauna.jpg" alt="woman preparing to enter a sauna and burn calories">
 
 ## TL;DR
 
@@ -46,7 +46,7 @@ This means a 180 lb individual with 15% body fat would burn up to 486 calories i
 These numbers assume you're jumping in the sauna 3 to 5 times per week for at least half an hour.
 
 <figure>
-<img class="img-fw" src="/assets/blog/calories-burned-sauna.jpg" alt="table showing the number of calories one burns sitting in the sauna for 10 minutes">
+<img class="wrapper--wide" src="/assets/blog/calories-burned-sauna.jpg" alt="table showing the number of calories one burns sitting in the sauna for 10 minutes">
 <figcaption>Calories you burn in a sauna during 10 minutes (very appox.)</figcaption>
 </figure>
 
@@ -92,7 +92,7 @@ If saunas help you burn 0.5% of body fat in a week, it means the more fat you ca
 
 Other factors like meetabolic rate, gender, and age may also play a role but the data on the subject is too thin to draw any conclusion.
 
-<img class="img-fw" src="/assets/blog/water-weight-sauna.jpg" alt="a person sitting in a sauna shedding water weight">
+<img class="wrapper--wide" src="/assets/blog/water-weight-sauna.jpg" alt="a person sitting in a sauna shedding water weight">
 
 <h2 id="good-way-to-lose-weight">Are Saunas a Good Way to Lose Weight?</h2>
 
@@ -116,7 +116,7 @@ In comparison, the same person would burn about <a href="https://www.researchgat
 
 So is the sauna a good way to burn calories? The answer is no. If your goal is to lose weight, you're better off going for a walk or jog than sitting in a sauna.
 
-<img class="img-fw" src="/assets/blog/finnish-sauna.jpg" alt="a traditional finnish sauna to burn calories">
+<img class="wrapper--wide" src="/assets/blog/finnish-sauna.jpg" alt="a traditional finnish sauna to burn calories">
 
 <h2 id="tips-sauna">Tips to Burn Calories in a Sauna Effectively and Safely</h2>
 

@@ -18,8 +18,8 @@ You'll read reviews of the best travel bags available today and learn how to pac
 Let's jump right in and look at the benefits of one bag travel.
 
 <figure>
-    <img src="/assets/blog/one-bag-winter-vs-summer.jpg" alt="one bag outfits in the summer and winter" class="img-fw">
-    <figcaption class="figure-caption">The same carry on backpack got me from the Canary Islands to the slopes of the Czech Republic (skis, gloves, helmet, and goggles rented for a little over 10 euros a day)</figcaption>
+    <img src="/assets/blog/one-bag-winter-vs-summer.jpg" alt="one bag outfits in the summer and winter">
+    <figcaption>The same carry on backpack got me from the Canary Islands to the slopes of the Czech Republic (skis, gloves, helmet, and goggles rented for a little over 10 euros a day)</figcaption>
 </figure>
 
 <div class="toc">
@@ -48,7 +48,7 @@ If you're serious about one bagging, you'll want to invest in a great travel bac
 
 <figure>
     <img src="/assets/blog/heimplanet-transit-line-backpack.jpeg" alt="heimplanet transit line" class="product-img">
-    <figcaption class="figure-caption">The Heimplanet 34L Transit Line</figcaption>
+    <figcaption>The Heimplanet 34L Transit Line</figcaption>
 </figure>
 
 <h2 id="backpack-considerations">Backpack Considerations</h2>
@@ -65,57 +65,60 @@ The size you choose will depend on how light you want to pack and what airline y
 
 If you're new to one bag travel, start with a pack in the 30L to 40L range. Then work your way down as you optimize your gear and learn to pack more efficiently.
 
-<table class="table table-striped">
-    <thead>
-        <tr>
-            <th>Airline</th>
-            <th class="text-center" data-align="center"><strong>Max. Carry On Size</strong></th>
-            <th class="text-center" data-align="center"><strong>Max. Carry On Weight</strong></th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td><strong>Southwest</strong></td>
-            <td class="text-center" data-align="center">24 x 16 x 10 in</td>
-            <td class="text-center" data-align="center">None</td>
-        </tr>
-        <tr>
-            <td><strong>Delta</strong></td>
-            <td class="text-center" data-align="center">22 x 14 x 9 in</td>
-            <td class="text-center" data-align="center"><meta charset="utf-8" />None</td>
-        </tr>
-        <tr>
-            <td><strong>American Airlines</strong></td>
-            <td class="text-center" data-align="center">22 x 14 x 9 in</td>
-            <td class="text-center" data-align="center"><meta charset="utf-8" />None</td>
-        </tr>
-        <tr>
-            <td><strong>United</strong></td>
-            <td class="text-center" data-align="center">22 x 14 x 9 in</td>
-            <td class="text-center" data-align="center">None</td>
-        </tr>
-        <tr>
-            <td><strong>British Airways</strong></td>
-            <td class="text-center" data-align="center">22 x 18 x 10 in</td>
-            <td class="text-center" data-align="center">51 lbs</td>
-        </tr>
-        <tr>
-            <td><strong>JetBlue</strong></td>
-            <td class="text-center" data-align="center"><meta charset="utf-8" />22 x 14 x 9 in</td>
-            <td class="text-center" data-align="center">None</td>
-        </tr>
-        <tr>
-            <td><strong>Lufthansa</strong></td>
-            <td class="text-center" data-align="center">21 x 15 x 9 in</td>
-            <td class="text-center" data-align="center">18 lbs</td>
-        </tr>
-        <tr>
-            <td><strong>EasyJet</strong></td>
-            <td class="text-center" data-align="center">18 x 14 x 8 in*</td>
-            <td class="text-center" data-align="center">None</td>
-        </tr>
-    </tbody>
-</table>
+<div class="table-container">
+    <table class="table">
+        <caption>Carry-on bag allowance per airline</caption>
+        <thead>
+            <tr>
+                <th>Airline</th>
+                <th>Max. Carry On Size</th>
+                <th>Max. Carry On Weight</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Southwest</td>
+                <td>24 x 16 x 10 in</td>
+                <td>None</td>
+            </tr>
+            <tr>
+                <td>Delta</td>
+                <td>22 x 14 x 9 in</td>
+                <td>None</td>
+            </tr>
+            <tr>
+                <td>American Airlines</td>
+                <td>22 x 14 x 9 in</td>
+                <td>None</td>
+            </tr>
+            <tr>
+                <td>United</td>
+                <td>22 x 14 x 9 in</td>
+                <td>None</td>
+            </tr>
+            <tr>
+                <td>British Airways</td>
+                <td>22 x 18 x 10 in</td>
+                <td>51 lbs</td>
+            </tr>
+            <tr>
+                <td>JetBlue</td>
+                <td>22 x 14 x 9 in</td>
+                <td>None</td>
+            </tr>
+            <tr>
+                <td>Lufthansa</td>
+                <td>21 x 15 x 9 in</td>
+                <td>18 lbs</td>
+            </tr>
+            <tr>
+                <td>EasyJet</td>
+                <td>18 x 14 x 8 in*</td>
+                <td>None</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
 
 \*_: Larger cabin bags (22 x 18 x 10 in) are allowed for an additional fee_
 
@@ -126,9 +129,9 @@ Top-loaders are packed from the bottom up. This means you'll have to take everyt
 Front-loaders, also known as *clamshell backpack*s or *panel loader*s, let you unzip and open the entire front panel of the pack. Like a suitcase. This type of backpack is more popular for travel because you can easily access any part of the bag without having to take anything out.
 
 <figure>
-<img class="img-fw" src="/assets/blog/front-loading-travel-backpack.jpeg" alt="open clamshell backpack">
-<figcaption class="figure-caption">
-A front-loading backpack allows for easy packing and quick access to any part of the pack. (Courtesy of Heimplanet)</figcpation>
+<img class="wrapper--wide" src="/assets/blog/front-loading-travel-backpack.jpeg" alt="open clamshell backpack">
+<figcaption>
+A front-loading backpack allows for easy packing and quick access to any part of the pack. (Courtesy of Heimplanet)</figcaption>
 </figure>
 
 ### Tech Compartment: What to Look For
@@ -143,7 +146,7 @@ The following packing list gives you an idea of what will fit inside a 30L trave
 
 ### Clothing
 
-<img src="/assets/blog/one-bag-travel-clothes.jpeg" alt="one bag travel clothes" class="img-fw">
+<img src="/assets/blog/one-bag-travel-clothes.jpeg" alt="one bag travel clothes" class="wrapper--wide">
 
 - 4 t-shirts (plain shirts in neutral colors like white, black, navy, brown, or khaki go with everything)
 - Hoodie (your go-to lounge and travel wear)
@@ -163,7 +166,7 @@ The following packing list gives you an idea of what will fit inside a 30L trave
 
 ### Toiletries
 
-<img src="/assets/blog/toiletries-one-bag.jpg" alt="one bag toiletries" class="img-fw">
+<img src="/assets/blog/toiletries-one-bag.jpg" alt="one bag toiletries" class="wrapper--wide">
 
 Most places you'll visit will have shower gel, cotton swabs, and sunscreen readily available. Purchase those upon arrival. Your toiletry kit doesn't have to be much more sophisticated than this:
 
@@ -177,7 +180,7 @@ Store everything inside a ziplock bag or a lightweight pencil case.
 
 ### Tech (Optional)
 
-<img src="/assets/blog/travel-tech-gear.jpeg" alt="one bag travel tech gear" class="img-fw">
+<img src="/assets/blog/travel-tech-gear.jpeg" alt="one bag travel tech gear" class="wrapper--wide">
 
 This section only applies if you plan to work while abroad. This is going to be the heaviest gear in your bag, so leave it at home unless you truly need it.
 
@@ -188,7 +191,7 @@ This section only applies if you plan to work while abroad. This is going to be 
 
 ### First Aid Kit
 
-<img src="/assets/blog/one-bag-first-aid.jpg" alt="one bag first aid kit" class="img-fw">
+<img src="/assets/blog/one-bag-first-aid.jpg" alt="one bag first aid kit" class="wrapper--wide">
 
 A lightweight first aid kit is essential for travel peace of mind. Here's are some basics:
 
@@ -200,7 +203,7 @@ A lightweight first aid kit is essential for travel peace of mind. Here's are so
 - Nail clippers
 - Lip balm or vaseline (apply to hotspots to reduce friction and prevent blisters)
 
-<button class="btn btn-outline" onclick="window.open('/assets/blog/sample-one-bag-packing-list.pdf' + location.search)" type="button">Download This Packing List (PDF)</button>
+<a class="btn btn-outline" href="/assets/blog/sample-one-bag-packing-list.pdf">Download This Packing List (PDF)</a>
 
 <h2 id="tips">Packing Tips</h2>
 
@@ -213,8 +216,8 @@ Still thinking: "No way I can travel with only one bag"? This section is for you
 **3\. Buy it there:** Unless you're traveling to a remote destination, there is no need to take your umbrella, deck of cards, sunscreen, headlamp, and cough syrup. In the off-chance you do end up needing them, you can purchase them on site. You can also rent pricier items like surfboards, guitars, and climbing shoes for cheap.
 
 <figure>
-    <img src="/assets/blog/philippines-laundry-detergent.jpeg" alt="corner shop in the phillippines" class="img-fw">
-    <figcaption class="figure-caption">
+    <img src="/assets/blog/philippines-laundry-detergent.jpeg" alt="corner shop in the phillippines" class="wrapper--wide">
+    <figcaption>
         You will find shampoo, detergent, and other toiletries at your destination.<br /><em>(Photo: Sari-Sari Store in Cavite, the Philippines by Glen | <a href="https://commons.wikimedia.org/wiki/File:Sari-Sari_Store_Cavite.jpg" taget="_blank" rel="nofollow referrer noopener"> Wikimedia</a> | CC BY 2.0)</em>
     </figcaption>
 </figure>
@@ -226,8 +229,8 @@ Still thinking: "No way I can travel with only one bag"? This section is for you
 **6\. Wear the heavy and bulky:** Wear your bulk and heavy items when traveling. That includes shoes, belts, hats, jackets, etc. That way, you take some of the load off of your back and create additional space in your pack. Naturally, don't overdo it. If you're wearing a sweater in 100-degree weather, you're doing it wrong.
 
 <figure>
-    <img src="/assets/blog/packing-cubes.jpeg" alt="how to use packing cubes" class="img-fw">
-    <figcaption class="figure-caption">I roll a pair of socks and underwear inside each shirt before putting it inside the packing cube.</figcaption>
+    <img src="/assets/blog/packing-cubes.jpeg" alt="how to use packing cubes" class="wrapper--wide">
+    <figcaption>I roll a pair of socks and underwear inside each shirt before putting it inside the packing cube.</figcaption>
 </figure>
 
 **7\. Stuff hollow items:** If you carry an extra pair of sneakers in your pack, stuff them with clothes to utilize every inch of space and get rid of the extra space. The same goes for hats.
@@ -253,8 +256,8 @@ The benefits of one bag travel far outweigh the inconvenience of leaving a DSLR 
 **Live More Intentionally**: There is something weirdly satisfying about a neatly-organized bag where each item has had to fight for its place on the trip.
 
 <figure>
-    <img src="/assets/blog/lightweight-travel-benefits.jpeg" alt="downside of heavy luggage" class="img-fw">
-    <figcaption class="figure-caption">Not that. Ever. <em>(Credit: Francisco Antunes | <a href="https://www.flickr.com/photos/francisco-antunes/" target="_blank" rel="noreferrer noopener nofollow">Flickr</a> | CC BY 2.0)</em>
+    <img src="/assets/blog/lightweight-travel-benefits.jpeg" alt="downside of heavy luggage" class="wrapper--wide">
+    <figcaption>Not that. Ever. <em>(Credit: Francisco Antunes | <a href="https://www.flickr.com/photos/francisco-antunes/" target="_blank" rel="noreferrer noopener nofollow">Flickr</a> | CC BY 2.0)</em>
     </figcaption>
 </figure>
 
@@ -279,8 +282,8 @@ In cold weather, you might be tempted to pack a thick winter jacket, snow pants,
 Instead, think in layers. The colder it gets, the more layers you stack on top of each other.
 
 <figure>
-    <img src="/assets/blog/layering-cold-weather.jpeg" alt="winter clothes using layering" class="img-fw">
-    <figcaption class="figure-caption">The basics of layering for cold weather</figcaption>
+    <img src="/assets/blog/layering-cold-weather.jpeg" alt="winter clothes using layering" class="wrapper--wide">
+    <figcaption>The basics of layering for cold weather</figcaption>
 </figure>
 
 First, you'll want a moisture-wicking base layer made of wool or polyester. Next, a mid-layer made from an insulating material like fleece or down. And last, a waterproof and windproof layer made of DWR-treated nylon or GORE-TEX.
