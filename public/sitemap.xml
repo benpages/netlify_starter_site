@@ -83,11 +83,6 @@
         </url>
     
         <url>
-            <loc>https://whatifididnt.com/css/dynamic.css</loc>
-            <lastmod>2024-02-26T09:10:31.343Z</lastmod>
-        </url>
-    
-        <url>
             <loc>https://whatifididnt.com/privacy-policy/</loc>
             <lastmod>2024-02-26T09:10:31.343Z</lastmod>
         </url>
@@ -100,6 +95,11 @@
         <url>
             <loc>https://whatifididnt.com/write-for-us/</loc>
             <lastmod>2024-03-18T17:59:12.862Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>https://whatifididnt.com/css/dynamic.css</loc>
+            <lastmod>2024-03-19T17:20:55.919Z</lastmod>
         </url>
     
 </urlset>

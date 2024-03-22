@@ -11,7 +11,7 @@
 	--ff-heading: ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo,
 		Consolas, 'DejaVu Sans Mono', monospace;
 
-	--clr-text: #050315;
+	--clr-text: rgb(53, 53, 53);
 	--clr-background: #ffffff;
 	--clr-primary: #bf7160;
 	--clr-primary--hover: #9f5545;
@@ -63,19 +63,19 @@ h4 {
 }
 
 h1 {
-	font-size: var(--fs-900);
-}
-
-h2 {
 	font-size: var(--fs-800);
 }
 
-h3 {
+h2 {
 	font-size: var(--fs-700);
 }
 
-h4 {
+h3 {
 	font-size: var(--fs-600);
+}
+
+h4 {
+	font-size: var(--fs-500);
 }
 
 a {
@@ -94,6 +94,13 @@ a.btn:focus {
 	box-shadow: rgba(0, 0, 0, 0.04) 0px 3px 5px;
 }
 
+.page__title {
+	text-align: center;
+	font-size: var(--fs-800);
+	font-weight: 400;
+	margin-bottom: 1em;
+}
+
 .figure-caption {
 	font-size: var(--fs-300);
 	text-align: center;
@@ -104,6 +111,7 @@ button,
 input {
 	font-family: var(--ff-heading);
 	text-transform: lowercase;
+	font-size: inherit;
 }
 
 .wrapper {
@@ -115,11 +123,20 @@ input {
 	width: min(100% - 3em, 60ch);
 }
 
+.page {
+	padding-top: 1.5em;
+	padding-bottom: 4.5em;
+}
+
 .flow > * + * {
 	margin-top: 1em;
 }
 
 /* Utilities */
+
+.hyphen {
+	hyphens: manual;
+}
 
 .img-fw {
 	width: calc(60ch * 1.05);
@@ -154,9 +171,10 @@ input {
 
 input,
 textarea {
-	padding: 0.75em 1.25em;
+	padding: 0.5em 1.25em;
 	border-radius: 0.25em;
 	border: 1px solid var(--clr-secondary);
+	width: 100%;
 }
 
 textarea {
@@ -166,14 +184,15 @@ textarea {
 
 .inline-form {
 	display: grid;
-	gap: 1em;
+	gap: 0.5em;
 }
 
 .btn {
 	cursor: pointer;
 	display: inline-block;
-	padding: 0.75em 1.25em;
+	padding: 0.5em 1.25em;
 	border-radius: 0.25em;
+	font-family: var(--ff-heading);
 }
 
 .btn-primary {
@@ -276,6 +295,7 @@ section.hero {
 .hero__title {
 	color: white;
 	text-wrap: balance;
+	font-size: var(--fs-900);
 }
 
 .hero__lead {
@@ -358,7 +378,8 @@ img.author-bio__img {
 	}
 
 	.inline-form {
-		display: inline-block;
+		display: inline-grid;
+		grid-template-columns: 1fr auto;
 	}
 
 	.article-snippet {
