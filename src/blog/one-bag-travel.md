@@ -40,6 +40,8 @@ If you're serious about one bagging, you'll want to invest in a great travel bac
 
 <p><a href="https://www.tkqlhce.com/click-101115130-15013044?url=https%3A%2F%2Fen.heimplanet.com%2Fproducts%2Ftaschen-transit_line-travel-pack-34-black%3Futm_source%3Dcj%26utm_medium%3Daffiliate%26utm_campaign%3Dproducts&cjsku=shopify_DE_6031166537888_37959410057376"><strong>Heimplanet Transit Line</strong></a><strong>:</strong> Sleek, comfortable, and durable travel backpack made by German company Heimplanet. Best for Europeans looking to avoid hefty import fees and costly shipping. I've owned this backpack for 2+ years and rely on it for all my international travels. I love how spacious and practical it is.</p>
 
+<p class="subtext">[Use code <code>whatifididnt15</code> at checkout to get 15% off the Transit Line 34L.]</p>
+
 <p><strong><a href="https://www.amazon.com/Tortuga-Mens-Setout-Divide-Expandable/dp/B087HBL113">Tortuga Setout Divide 26L</a>:</strong> One of the most popular backpacks for one bag travel. Sleek and well-built, but slightly heavier than the competition. It can expand to 34L.</p>
 
 <p><a href="https://www.aersf.com/travel-pack-2-black"><strong>Aer Travel Pack 2</strong></a><strong>:</strong> Incredible design, quality, and comfort. Lots of well-thought-out pockets and compartments.</p>
