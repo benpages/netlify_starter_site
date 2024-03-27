@@ -4,7 +4,7 @@ titleShort: One Bag Travel (Guide)
 tags: ['post', 'featured']
 date: 2023-11-24
 description: 'Join the One Bag Travel movement with this guide: best backpacks, packing tips, packing list, and much more. Models by Tortuga, Osprey, and Aer.'
-image: /assets/blog/one-bag-travel.jpg
+image: /assets/blog/one-bag-travel.webp
 imageAlt: One bag travel guide
 mySlug: one-bag-travel
 ---
@@ -18,7 +18,7 @@ You'll read reviews of the best travel bags available today and learn how to pac
 Let's jump right in and look at the benefits of one bag travel.
 
 <figure>
-    <img src="/assets/blog/one-bag-winter-vs-summer.jpg" alt="one bag outfits in the summer and winter">
+    <img src="/assets/blog/one-bag-winter-vs-summer.webp" alt="one bag outfits in the summer and winter">
     <figcaption>The same carry on backpack got me from the Canary Islands to the slopes of the Czech Republic (skis, gloves, helmet, and goggles rented for a little over 10 euros a day)</figcaption>
 </figure>
 
@@ -49,7 +49,7 @@ If you're serious about one bagging, you'll want to invest in a great travel bac
 <p><a href="https://www.osprey.com/id/en/product/farpoint-travel-pack-carry-on-40-FARPNT40.html"><strong>Osprey Farpoint 40</strong></a><strong>:</strong> Best if you don't travel with a laptop. The pack has a laptop sleeve, but it's at the front of the pack.</p>
 
 <figure>
-    <img src="/assets/blog/heimplanet-transit-line-backpack.jpeg" alt="heimplanet transit line" class="product-img">
+    <img src="/assets/blog/heimplanet-transit-line-backpack.webp" alt="heimplanet transit line" style="margin: 0 auto;">
     <figcaption>The Heimplanet 34L Transit Line</figcaption>
 </figure>
 
@@ -131,7 +131,7 @@ Top-loaders are packed from the bottom up. This means you'll have to take everyt
 Front-loaders, also known as *clamshell backpack*s or *panel loader*s, let you unzip and open the entire front panel of the pack. Like a suitcase. This type of backpack is more popular for travel because you can easily access any part of the bag without having to take anything out.
 
 <figure>
-<img class="wrapper--wide" src="/assets/blog/front-loading-travel-backpack.jpeg" alt="open clamshell backpack">
+<img class="wrapper--wide" src="/assets/blog/front-loading-travel-backpack.webp" alt="open clamshell backpack">
 <figcaption>
 A front-loading backpack allows for easy packing and quick access to any part of the pack. (Courtesy of Heimplanet)</figcaption>
 </figure>
@@ -148,7 +148,7 @@ The following packing list gives you an idea of what will fit inside a 30L trave
 
 ### Clothing
 
-<img src="/assets/blog/one-bag-travel-clothes.jpeg" alt="one bag travel clothes" class="wrapper--wide">
+<img src="/assets/blog/one-bag-travel-clothes.webp" alt="one bag travel clothes" class="wrapper--wide">
 
 - 4 t-shirts (plain shirts in neutral colors like white, black, navy, brown, or khaki go with everything)
 - Hoodie (your go-to lounge and travel wear)
@@ -168,7 +168,7 @@ The following packing list gives you an idea of what will fit inside a 30L trave
 
 ### Toiletries
 
-<img src="/assets/blog/toiletries-one-bag.jpg" alt="one bag toiletries" class="wrapper--wide">
+<img src="/assets/blog/toiletries-one-bag.webp" alt="one bag toiletries" class="wrapper--wide">
 
 Most places you'll visit will have shower gel, cotton swabs, and sunscreen readily available. Purchase those upon arrival. Your toiletry kit doesn't have to be much more sophisticated than this:
 
@@ -182,7 +182,7 @@ Store everything inside a ziplock bag or a lightweight pencil case.
 
 ### Tech (Optional)
 
-<img src="/assets/blog/travel-tech-gear.jpeg" alt="one bag travel tech gear" class="wrapper--wide">
+<img src="/assets/blog/travel-tech-gear.webp" alt="one bag travel tech gear" class="wrapper--wide">
 
 This section only applies if you plan to work while abroad. This is going to be the heaviest gear in your bag, so leave it at home unless you truly need it.
 
@@ -193,7 +193,7 @@ This section only applies if you plan to work while abroad. This is going to be 
 
 ### First Aid Kit
 
-<img src="/assets/blog/one-bag-first-aid.jpg" alt="one bag first aid kit" class="wrapper--wide">
+<img src="/assets/blog/one-bag-first-aid.webp" alt="one bag first aid kit" class="wrapper--wide">
 
 A lightweight first aid kit is essential for travel peace of mind. Here's are some basics:
 
@@ -218,9 +218,9 @@ Still thinking: "No way I can travel with only one bag"? This section is for you
 **3\. Buy it there:** Unless you're traveling to a remote destination, there is no need to take your umbrella, deck of cards, sunscreen, headlamp, and cough syrup. In the off-chance you do end up needing them, you can purchase them on site. You can also rent pricier items like surfboards, guitars, and climbing shoes for cheap.
 
 <figure>
-    <img src="/assets/blog/philippines-laundry-detergent.jpeg" alt="corner shop in the phillippines" class="wrapper--wide">
+    <img src="/assets/blog/philippines-laundry-detergent.webp" alt="corner shop in the phillippines" class="wrapper--wide">
     <figcaption>
-        You will find shampoo, detergent, and other toiletries at your destination.<br /><em>(Photo: Sari-Sari Store in Cavite, the Philippines by Glen | <a href="https://commons.wikimedia.org/wiki/File:Sari-Sari_Store_Cavite.jpg" taget="_blank" rel="nofollow referrer noopener"> Wikimedia</a> | CC BY 2.0)</em>
+        You will find shampoo, detergent, and other toiletries at your destination.<br /><em>(Photo: Sari-Sari Store in Cavite, the Philippines by Glen | <a href="https://commons.wikimedia.org/wiki/File:Sari-Sari_Store_Cavite.webp" taget="_blank" rel="nofollow referrer noopener"> Wikimedia</a> | CC BY 2.0)</em>
     </figcaption>
 </figure>
 
@@ -231,7 +231,7 @@ Still thinking: "No way I can travel with only one bag"? This section is for you
 **6\. Wear the heavy and bulky:** Wear your bulk and heavy items when traveling. That includes shoes, belts, hats, jackets, etc. That way, you take some of the load off of your back and create additional space in your pack. Naturally, don't overdo it. If you're wearing a sweater in 100-degree weather, you're doing it wrong.
 
 <figure>
-    <img src="/assets/blog/packing-cubes.jpeg" alt="how to use packing cubes" class="wrapper--wide">
+    <img src="/assets/blog/packing-cubes.webp" alt="how to use packing cubes" class="wrapper--wide">
     <figcaption>I roll a pair of socks and underwear inside each shirt before putting it inside the packing cube.</figcaption>
 </figure>
 
@@ -258,7 +258,7 @@ The benefits of one bag travel far outweigh the inconvenience of leaving a DSLR 
 **Live More Intentionally**: There is something weirdly satisfying about a neatly-organized bag where each item has had to fight for its place on the trip.
 
 <figure>
-    <img src="/assets/blog/lightweight-travel-benefits.jpeg" alt="downside of heavy luggage" class="wrapper--wide">
+    <img src="/assets/blog/lightweight-travel-benefits.webp" alt="downside of heavy luggage" class="wrapper--wide">
     <figcaption>Not that. Ever. <em>(Credit: Francisco Antunes | <a href="https://www.flickr.com/photos/francisco-antunes/" target="_blank" rel="noreferrer noopener nofollow">Flickr</a> | CC BY 2.0)</em>
     </figcaption>
 </figure>
@@ -284,7 +284,7 @@ In cold weather, you might be tempted to pack a thick winter jacket, snow pants,
 Instead, think in layers. The colder it gets, the more layers you stack on top of each other.
 
 <figure>
-    <img src="/assets/blog/layering-cold-weather.jpeg" alt="winter clothes using layering" class="wrapper--wide">
+    <img src="/assets/blog/layering-cold-weather.webp" alt="winter clothes using layering" class="wrapper--wide">
     <figcaption>The basics of layering for cold weather</figcaption>
 </figure>
 
