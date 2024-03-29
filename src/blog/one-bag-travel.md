@@ -4,7 +4,7 @@ titleShort: One Bag Travel (Guide)
 tags: ['post', 'featured']
 date: 2023-11-24
 description: 'Join the One Bag Travel movement with this guide: best backpacks, packing tips, packing list, and much more. Models by Tortuga, Osprey, and Aer.'
-image: /assets/blog/one-bag-travel.webp
+image: /assets/blog/one-bag-travel.jpg
 imageAlt: One bag travel guide
 mySlug: one-bag-travel
 ---
