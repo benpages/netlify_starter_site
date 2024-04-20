@@ -207,8 +207,6 @@ A lightweight first aid kit is essential for travel peace of mind. Here's are so
 
 <button class="btn btn-primary ml-onclick-form" onclick="ml('show', '26xkTP', true)">Download This Packing List (PDF)</button>
 
-<button class="ml-onclick-form" onclick="ml('show', '26xkTP', true)">Click here to show form</button>
-
 <h2 id="tips">Packing Tips</h2>
 
 Still thinking: "No way I can travel with only one bag"? This section is for you. These 9 tips will help reduce your load and pack everything in one bag.
