@@ -205,7 +205,9 @@ A lightweight first aid kit is essential for travel peace of mind. Here's are so
 - Nail clippers
 - Lip balm or vaseline (apply to hotspots to reduce friction and prevent blisters)
 
-<a class="btn btn-outline" href="/assets/blog/sample-one-bag-packing-list.pdf">Download This Packing List (PDF)</a>
+<button class="btn btn-primary ml-onclick-form" onclick="ml('show', '26xkTP', true)">Download This Packing List (PDF)</button>
+
+<button class="ml-onclick-form" onclick="ml('show', '26xkTP', true)">Click here to show form</button>
 
 <h2 id="tips">Packing Tips</h2>
 
