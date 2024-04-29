@@ -38,7 +38,7 @@ Let's jump right in and look at the benefits of one bag travel.
 
 If you're serious about one bagging, you'll want to invest in a great travel backpack that is lightweight, carry-on friendly, and packs effectively. Here are four popular options to consider:
 
-<p><a href="https://www.tkqlhce.com/click-101115130-15013044?url=https%3A%2F%2Fen.heimplanet.com%2Fproducts%2Ftaschen-transit_line-travel-pack-34-black%3Futm_source%3Dcj%26utm_medium%3Daffiliate%26utm_campaign%3Dproducts&cjsku=shopify_DE_6031166537888_37959410057376"><strong>Heimplanet Transit Line</strong></a><strong>:</strong> Sleek, comfortable, and durable travel backpack made by German company Heimplanet. Best for Europeans looking to avoid hefty import fees and costly shipping. I've owned this backpack for 2+ years and rely on it for all my international travels. I love how spacious and practical it is.</p>
+<p><a href="https://heimplanet.com/products/taschen-transit_line-travel-pack-34-black"><strong>Heimplanet Transit Line</strong></a><strong>:</strong> Sleek, comfortable, and durable travel backpack made by German company Heimplanet. Best for Europeans looking to avoid hefty import fees and costly shipping. I've owned this backpack for 2+ years and rely on it for all my international travels. I love how spacious and practical it is.</p>
 
 <p class="subtext">[Use code <code>whatifididnt15</code> at checkout to get 15% off the Transit Line 34L.]</p>
 
