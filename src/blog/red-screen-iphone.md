@@ -1,5 +1,5 @@
 ---
-title: 'Red Screen iPhone: How to Turn on and Automate the Feature'
+title: 'How to Turn On Red Screen on iPhone and Macbook (Step-by-Step)'
 titleShort: 'How to Turn on Red Screen on iPhone'
 description: 'Learn how to turn on and automate red light on iPhone and Mac. Turn on the feature with a triple click of the side button or automatically every evening.'
 date: 2024-04-26
@@ -28,7 +28,7 @@ Let’s dive in.
 3.  Tap "Display & Text Size"
 4.  Enable "Color Filters"
 5.  Select "Color Tint"
-6.  Slide the "Intensity" and "Hue" sliders to the maximum.
+6.  Slide the "Intensity" and "Hue" sliders all the way to the right
 
 This setting will turn your screen red, reducing blue light significantly.
 
@@ -68,23 +68,22 @@ Your screen will now automatically turn red at 10 PM each day. To turn it off in
 ### Turn on the feature in Mac OS settings
 
 1.  Click the Apple icon at the top-left of your screen
-2.  Select "System Preferences"
-3.  Choose "Accessibility"
-4.  Click "Display" in the sidebar
-5.  Choose "Color Filters"
+2.  Select "System Settings"
+3.  Choose "Accessibility" in the sidebar
+4.  Click on "Display"
+5.  Scroll all the way down to the "Color Filters" menu
 6.  Turn on "Color Filters”
-7.  Select "Color Tint"
-8.  Use the color wheel to find a deep red
-9.  Move the intensity slider to the right
+7.  Select "Color Tint" in the "Filter Type" menu
+8.  Turn the intensity slider all the way to the right
+9.  For "Tint", choose a deep red color (right of the color wheel)
 
 ### Activate red screen with a triple-click of Touch ID
 
-1.  Click the Apple icon at the top-left of your screen.
-2.  Select "System Preferences".
-3.  Choose "Accessibility".
-4.  Scroll down and click "Accessibility Shortcut" at the bottom of the sidebar.
-5.  Check the box next to "Color Filters".
-6.  Now, you can activate or deactivate the color filter by triple-clicking the Touch ID button.
+1.  Still in your System Settings, select "Accessibility" in the sidebar
+2.  Scroll all the way down and under "General", select "Shortcut"
+3.  Check the box next to "Color Filters".
+
+Now, you can activate or deactivate the color filter by triple-clicking the Touch ID button.
 
 ## Why Make Your iPhone Screen Red
 
@@ -92,18 +91,14 @@ When we make our iPhone screens red, we eliminate most of the blue light that co
 
 Blue light can keep us up at night. And if it doesn't keep us up, it reduces the quality of our sleep, ie. less deep sleep and REM sleep. Less time in these sleep phases means worse memory, learning, and physical recovery.
 
-> "In the late afternoon, follow the natural rhythm of the sun and start to dim the work environment. Try to reduce blue light exposure to aid the transition to sleep later. Turn off overhead lights; use lamps or softer lighting and dim the computer screen.” - Hubermann
-
-> “Dr. Samer Hattar also warned that UVB light exposure from artificial sources/screens at night (10 p.m.-4 a.m.) decreases dopamine levels and negatively impacts feelings of depression and anxiety. Once in a while is fine, but if you are looking at your phone or turning on bright lights, especially overhead lights, between 10 p.m. and 4 a.m. on a regular basis, your health will suffer.” - Hubermann
-
 The general guideline is to avoid blue light in the last hour before going to bed. This encourages the production of melatonin in your body, a hormone that makes you sleepy.
-
-Blue light is melatonin's kryptonite. Blue light, which is also present in the sun, indicates to your body that it should be awake. In response to blue light, your body stops producing melatonin to keep you alert and awake.
 
 > "Stay away from screens, especially those LED screens. Those blue-light emitting devices fool your brain into thinking that it's still daytime, even though it's night-time and you want to get to sleep.” Matthew Walker
 
+Blue light is melatonin's kryptonite. Blue light, which is also present in the sun, indicates to your body that it should be awake. In response to blue light, your body stops producing melatonin to keep you alert and awake.
+
 So if you're going to use your phone or laptop before sleep, reducing the amount of blue light it emits will help you enjoy better sleep.
 
-In this post, we focus on phones and laptops, but keep in mind that blue light is everywhere in your home: your television screen, the lights in your living room and bathroom, and even the light in your fridge.
+In this post, we focus on phones and laptops. But keep in mind that blue light is everywhere in your home: your television screen, the lights in your living room and bathroom, and even the light in your fridge.
 
 The best way I know to protect yourself from other sources of blue light in the hour before sleep is to use blue light-blocking glasses. Do not wear these glasses during the daytime. During the day, you do want exposure to blue light. It keeps you alert and awake.
