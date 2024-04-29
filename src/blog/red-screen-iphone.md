@@ -52,7 +52,7 @@ First, make sure you have the Shortcuts app on your phone. It comes standard wit
 2.  Tap the "Automation" tab at the bottom.
 3.  Click the "+" sign to create a new automation.x
 4.  Under Personal Automation, select "Time of Day".
-5.  Set the time to 10 PM and choose "Daily".
+5.  Set the time to one hour before your usual bedtime and choose "Daily".
 6.  Tap "Next".
 7.  Select “New Blank Automation”
 8.  Tap "Add Action".
