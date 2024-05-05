@@ -4,8 +4,8 @@ titleShort: 'How to Turn on Red Screen on iPhone'
 description: 'Learn how to turn on and automate red light on iPhone and Mac. Turn on the feature with a triple click of the side button or automatically every evening.'
 date: 2024-04-26
 mySlug: red-screen-iphone
-image: /assets/blog/red-screen-iphone.webp
-imageAlt: Red screen iPhone
+image: /assets/blog/iphone-red-screen.webp
+imageAlt: Red screen iPhone on wooden table
 tags: ['post', 'featured']
 ---
 
@@ -32,6 +32,8 @@ Let’s dive in.
 
 This setting will turn your screen red, reducing blue light significantly.
 
+<img class="wrapper--wide" src="/assets/blog/iphone-red-screen-setting.webp" alt="iphone settings showing how to activate red screen color filter">
+
 ### Activate red screen with a triple-click of the side button
 
 OK! Now how do you activate it without going in the settings every single time? Let’s set up a shortcut so that you can turn “red mode” on and off by triple-clicking the side button of your iPhone.
@@ -41,6 +43,8 @@ OK! Now how do you activate it without going in the settings every single time? 
 3.  Scroll down and tap "Accessibility Shortcut".
 4.  From the list, choose "Color Filters".
 5.  Now, triple-clicking the side or home button will toggle the red screen on or off.
+
+<img class="wrapper--wide" src="/assets/blog/iphone-accessibility-shortcut.webp" alt="Iphone red screen accesssibility shortcut">
 
 ### Turn it on automatically in the evenings
 
@@ -63,6 +67,8 @@ First, make sure you have the Shortcuts app on your phone. It comes standard wit
 
 Your screen will now automatically turn red at 10 PM each day. To turn it off in the morning, simply click three times on the button on the right side of your iPhone (the one that locks your phone).
 
+<img class="wrapper--wide" src="/assets/blog/iphone-red-screen-automation.webp" alt="How to automate red screen iphone with Apple Shortcuts">
+
 ## How to Turn on Red Screen on Mac
 
 ### Turn on the feature in Mac OS settings
@@ -77,6 +83,8 @@ Your screen will now automatically turn red at 10 PM each day. To turn it off in
 8.  Turn the intensity slider all the way to the right
 9.  For "Tint", choose a deep red color (right of the color wheel)
 
+<img class="wrapper--wide" src="/assets/blog/macbook-red-screen.webp" alt="Macbook color filter red screen settings">
+
 ### Activate red screen with a triple-click of Touch ID
 
 1.  Still in your System Settings, select "Accessibility" in the sidebar
@@ -85,6 +93,8 @@ Your screen will now automatically turn red at 10 PM each day. To turn it off in
 
 Now, you can activate or deactivate the color filter by triple-clicking the Touch ID button.
 
+<img class="wrapper--wide" src="/assets/blog/macbook-color-filter-shortcut.webp" alt="Red screen accessibility shortcut on macbook">
+
 ## Why Make Your iPhone Screen Red
 
 When we make our iPhone screens red, we eliminate most of the blue light that comes from it.
@@ -92,8 +102,6 @@ When we make our iPhone screens red, we eliminate most of the blue light that co
 Blue light can keep us up at night. And if it doesn't keep us up, it reduces the quality of our sleep, ie. less deep sleep and REM sleep. Less time in these sleep phases means worse memory, learning, and physical recovery.
 
 The general guideline is to avoid blue light in the last hour before going to bed. This encourages the production of melatonin in your body, a hormone that makes you sleepy.
-
-> "Stay away from screens, especially those LED screens. Those blue-light emitting devices fool your brain into thinking that it's still daytime, even though it's night-time and you want to get to sleep.” Matthew Walker
 
 Blue light is melatonin's kryptonite. Blue light, which is also present in the sun, indicates to your body that it should be awake. In response to blue light, your body stops producing melatonin to keep you alert and awake.
 
