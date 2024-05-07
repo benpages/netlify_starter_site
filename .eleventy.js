@@ -14,6 +14,11 @@ module.exports = function (eleventyConfig) {
 		return DateTime.fromJSDate(dateObj).toLocaleString(DateTime.DATE_MED);
 	});
 
+	// Add a filter to format dates for structured data
+	eleventyConfig.addFilter('isoDate', function (date) {
+		return date.toISOString();
+	});
+
 	eleventyConfig.addFilter(
 		'excludeFromCollection',
 		(collection = [], pageUrl = this.ctx.page.url) => {

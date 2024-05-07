@@ -3,9 +3,8 @@ title: 10 Healthy Alternatives to Coffee for Lasting Energy
 titleShort: Healthy Alternatives to Coffee
 mySlug: coffee-alternatives
 description: 'Discover 10 healthy alternative to coffee that will help you wake up and increase your energy in the morning. Includes options with and without caffeine.'
-date: 2022-04-29T09:00:00.000Z
-tags:
-  - post
+date: 2022-04-29
+lastUpdated: 2023-12-08
 image: /assets/blog/coffee-cup.jpg
 imageAlt: a cup of coffee alternative
 eleventyExcludeFromCollections: false

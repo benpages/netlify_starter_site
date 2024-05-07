@@ -6,7 +6,6 @@ date: 2024-03-25
 mySlug: mac-productivity-apps
 image: /assets/blog/mac-productivity-apps.webp
 imageAlt: productivity tools and apps for mac
-tags: ['post', 'featured']
 ---
 
 Here's a rundown of the productivity Mac tools and apps that have become indispensable in my life.

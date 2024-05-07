@@ -6,9 +6,7 @@ mySlug: calories-in-a-sauna
 description: A study out of Binghamton University found you lose up to 4% of body fat in 2 months with regular infrared sauna sessions.
 image: /assets/blog/finnish-sauna.jpg
 imageAlt: a traditional finnish sauna
-date: 2022-05-27T13:25:29.346Z
-tags:
-  - post
+date: 2022-05-27
 ---
 
 <img class="wrapper--wide" src="/assets/blog/burning-calories-sauna.jpg" alt="woman preparing to enter a sauna and burn calories">

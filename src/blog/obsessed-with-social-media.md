@@ -4,8 +4,7 @@ titleShort: Obsessed with Social Media (6 Hacks)
 mySlug: obsessed-with-social-media
 description: 'Discover 6 hacks to stop your obsession with social media. The 5 Why’s Technique • Daily Habits •  Desktop Apps • Weekly Goals • Notifications'
 date: 2023-04-11
-tags:
-  - post
+lastUpdated: 2023-04-15
 image: '/assets/blog/obsessed-with-social-media.jpg'
 imageAlt: obsessed with social media
 eleventyExcludeFromCollections: false

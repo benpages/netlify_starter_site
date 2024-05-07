@@ -1,8 +1,8 @@
 ---
-tags: ['post']
 title: 'Life Without Technology: Lessons from 30 Days Unplugged'
 titleShort: Life Without Technology
 date: 2023-02-23
+lastUpdated: 2023-12-11
 description: 14 lessons drawn from a 30-day experiment for those considering life without technology and distractions. Boredom, punctuality, and relationships.
 image: /assets/blog/life-without-technology.jpg
 imageAlt: life without technology

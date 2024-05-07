@@ -5,9 +5,7 @@ eleventyExcludeFromCollections: false
 mySlug: ayurvedic-massage
 description: Discover the benefits of an Ayurvedic Massage, how it works, and
   how to find the right massage therapist. Plus tips to prep your first visit.
-date: 2022-05-05T09:38:42.761Z
-tags:
-  - post
+date: 2022-05-05
 image: /assets/blog/ayurvedic-oil.jpg
 imageAlt: ayurvedic massage oil dripping in masseuse's hand
 ---

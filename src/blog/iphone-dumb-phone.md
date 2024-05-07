@@ -1,14 +1,10 @@
 ---
 title: 'Turn Your iPhone Into a Dumb Phone: The Simple Guide (2024)'
 titleShort: 'Turn Your iPhone Into a Dumb Phone'
-eleventyExcludeFromCollections: false
 mySlug: iphone-dumb-phone
-description: Use these 5 steps to turn your iPhone into a dumb phone. 1. Delete
-  all apps 2. Safari and Camera 3. Notifications 4. Grayscale 5. Adding things
-  back
-date: 2022-08-03T14:23:32.202Z
-tags:
-  - post
+date: 2022-08-03
+lastUpdated: 2024-04-15
+description: Use these 5 steps to turn your iPhone into a dumb phone. 1.Delete all apps 2. Safari and Camera 3. Notifications 4. Grayscale 5. Adding things back
 image: /assets/blog/dumb-iphone-before-after.webp
 imageAlt: how to turn iphone into dumb phone
 ---

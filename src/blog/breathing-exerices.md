@@ -1,5 +1,4 @@
 ---
-tags: ['post']
 title: 3 Breathing Exercices for Anxiety Relief
 titleShort: 3 Breathing Exercices for Anxiety Relief
 date: 2019-05-21

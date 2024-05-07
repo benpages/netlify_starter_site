@@ -5,8 +5,6 @@ eleventyExcludeFromCollections: false
 mySlug: sources-of-inspiration
 description: These sources of inspiration will reignite your creative spark FAST. Take yourself out on a date. Journal. Call a creative friend. Listen to instrumental music.
 date: 2022-12-23
-tags:
-  - post
 image: /assets/blog/sources-of-inspiration-camel.jpg
 imageAlt: sources of inspiration
 ---

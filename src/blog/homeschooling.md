@@ -8,9 +8,7 @@ description: Wondering if homeschooling is right for you? This guide will help
   misconceptions.
 image: /assets/blog/girl-homeschooling.jpg
 imageAlt: mom homeschooling her daughter
-date: 2022-04-29T11:46:27.913Z
-tags:
-  - post
+date: 2022-04-29
 ---
 
 <img class="wrapper--wide" src="/assets/blog/girl-homeschooling.jpg" alt="happy homeschooled girl">

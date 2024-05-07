@@ -4,7 +4,13 @@ layout: 'base.njk'
 <div class="wrapper wrapper--narrow">
   <article class="article flow">
     <h1 class="article__title">{{ title }}</h1>
-    {# <p>by {{ author }} on {{ date | postDate }}</p> #}
+    <p class="article__meta">
+      {% if lastUpdated %}
+        Updated {{ lastUpdated | postDate }}
+      {% else %}
+        Published {{ date | postDate }}
+      {% endif %}
+    </p>
     {{ content | safe }}
 
     <div class="author-bio">

@@ -13,6 +13,22 @@
 		<meta name="theme-color" content="#ffffff">
 
 		<title>{{ title }}</title>
+		{% if tags == "post" %}
+			<script type="application/ld+json">
+				{
+					"@context": "https://schema.org",
+					"@type": "BlogPosting",
+					"headline": "{{ title }}",
+					"datePublished": "{{ page.date | isoDate }}",
+					"dateModified": "{{ lastUpdated or page.date | isoDate }}",
+					"author": {
+						"@type": "Person",
+						"name": "{{ author }}"
+					}
+				}
+			</script>
+		{% endif %}
+
 		<meta name="description" content="{{ description }}">
 		<meta name="twitter:site" content="@smply.ben"/>
 		<meta property="og:title" content="{{ title }}"/>

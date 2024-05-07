@@ -412,7 +412,14 @@ section.hero {
 .article__title {
 	font-size: var(--fs-800);
 	font-weight: 400;
-	text-align: center;
+}
+
+.article__meta {
+	color: var(--clr-text-50);
+	font-weight: 100;
+	margin-block: 1.5em 3em;
+	font-size: var(--fs-400);
+	position: relative;
 }
 
 .toc,

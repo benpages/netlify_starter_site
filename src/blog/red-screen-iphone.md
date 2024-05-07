@@ -3,10 +3,10 @@ title: 'How to Turn On Red Screen on iPhone and Macbook (Step-by-Step)'
 titleShort: 'How to Turn on Red Screen on iPhone'
 description: 'Learn how to turn on and automate red light on iPhone and Mac. Turn on the feature with a triple click of the side button or automatically every evening.'
 date: 2024-04-26
+lastUpdated: 2024-05-07
 mySlug: red-screen-iphone
 image: /assets/blog/iphone-red-screen.webp
 imageAlt: Red screen iPhone on wooden table
-tags: ['post', 'featured']
 ---
 
 If you want to improve the quality of your sleep, learn how to make your iPhone screen red. It’s a simple trick hidden in your iPhone settings.
