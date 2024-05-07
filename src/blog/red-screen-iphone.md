@@ -9,6 +9,8 @@ image: /assets/blog/iphone-red-screen.webp
 imageAlt: Red screen iPhone on wooden table
 ---
 
+<img class="wrapper--wide" src="/assets/blog/iphone-red-screen.webp" alt="Red screen iphone">
+
 If you want to improve the quality of your sleep, learn how to make your iPhone screen red. It’s a simple trick hidden in your iPhone settings.
 
 Screens keep us at night because of the blue light they emit. Making the screen on your iPhone red gets rid of most blue light and ensures you can fall and stay asleep.
