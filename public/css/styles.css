@@ -433,10 +433,13 @@ section.hero {
 	padding-left: 0;
 }
 
+.author-bio {
+	margin-top: 3em;
+}
+
 img.author-bio__img {
 	max-width: 125px;
 	border-radius: 25em;
-	margin: 0 auto;
 	margin-bottom: 1em;
 }
 
