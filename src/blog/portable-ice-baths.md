@@ -244,9 +244,9 @@ LUMI offers free economy worldwide shipping with delivery times between 30 and 4
 
 There's a 1-year warranty on the tub and a 1-month warranty on the inflatables (ie. the top ring and Thermo lid) that covers any structure defects and leakages.
 
-<button class="btn btn-outline" onclick="window.open('https://collabs.shop/xwsbhq' + location.search)" type="button" rel="noopener noreferrer">Get the LUMI Recovery Pod</button>
+<button class="btn btn-outline" onclick="window.open('https://lumitherapy.co.uk?dt_id=605630' + location.search)" type="button" rel="noopener noreferrer">Get the LUMI Recovery Pod</button>
 
-_(Use the discount code **COLDTODAY** at checkout to get $75 off)_
+_(Use the discount code **WHATIFIDIDNT** at checkout to get 15% off)_
 
 <h3 id="coldpod">The Cold Pod</h3>
 
