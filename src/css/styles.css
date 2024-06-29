@@ -113,6 +113,14 @@ a.btn-outline:focus {
 	border-color: var(--clr-primary-300);
 }
 
+a.link-unstyled {
+	color: unset;
+}
+
+a.link-unstyled:hover {
+	color: var(--clr-primary-500);
+}
+
 blockquote {
 	padding-left: 1.5em;
 	font-style: italic;

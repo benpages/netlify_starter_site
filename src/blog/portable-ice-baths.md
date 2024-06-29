@@ -88,87 +88,52 @@ A drain is an important element that every ice bath should have. It allows you t
 <h2 id="best-ice-baths">The best portable ice baths</h2>
 
 <div class="table-container wrapper--important">
-<table class="table"><thead><tr><th></th><th><a href="#icepod">The Ice Pod by The Pod Company</a></th><th><a href="#polar">Polar Recovery Tub™</a></th><th><a href="#barrel">Ice Barrel 400</a></th><th><a href="#lumi">The Recovery Pod by LUMI</a></th><th><a href="#coldpod">The Cold Pod</a></th></tr></thead><tbody><tr><td>Capacity</td><td>300 L</td><td>270L</td><td>397 L</td><td>320 L</td><td>320 L</td></tr><tr><td>Diameter</td><td>32″<br>(81.3 cm)</td><td>31.5″<br>(80 cm)</td><td>31″<br>(78.7 cm)</td><td>31.5″<br>(80 cm)</td><td>29.5″<br>(75 cm)</td></tr><tr><td>Height</td><td>29″<br>(73.7 cm)</td><td>29.5″<br>(75 cm)</td><td>42″<br>(106.7 cm)</td><td>29.5″<br>(75 cm)</td><td>29.5″<br>(75 cm)</td></tr><tr><td>Person size (up to)</td><td>6′ 9″<br>(205 cm)</td><td>6′ 7″<br>(200 cm)</td><td>6′ 6″<br>(198 cm)</td><td>6′ 7″<br>(200 m)</td><td>6′ 7″<br>(200 cm)</td></tr><tr><td>Weight (empty)</td><td>7 lbs<br>(3.18 kg)</td><td>6.6 lbs<br>(3 kg)</td><td>55 lbs<br>(25 kg)</td><td>7.7 lbs<br>(3.5 kg)</td><td>7.7 lbs<br>(3.5 kg)</td></tr><tr><td>Folds</td><td>Yes</td><td>Yes</td><td>No</td><td>Yes</td><td>Yes</td></tr><tr><td>Price</td><td>$119</td><td>$99</td><td>$1,199.99</td><td>$119</td><td>$120</td></tr><tr><td>Shipping</td><td>USA only</td><td>UK, USA, Australia, Canada, Ireland</td><td>USA only</td><td>Worldwide<br>(from UK)</td><td>Worldwide<br>(from UK)</td></tr><tr><td>Warranty</td><td>6-month</td><td>1-year</td><td>Lifetime</td><td>1-year</td><td>No</td></tr></tbody></table>
+<table class="table"><thead><tr><th></th><th><a href="#lumi">The Recovery Pod by LUMI</a></th><th><a href="#barrel">Ice Barrel 400</a></th><th><a href="#coldpod">The Cold Pod</a></th><th><a href="#icepod">The Ice Pod by The Pod Company</a></th><th><a href="#polar">Polar Recovery Tub™</a></th></tr></thead><tbody><tr><td>Capacity</td><td>320 L</td><td>397 L</td><td>320 L</td><td>300 L</td><td>270L</td></tr><tr><td>Diameter</td><td>31.5″<br>(80 cm)</td><td>31″<br>(78.7 cm)</td><td>29.5″<br>(75 cm)</td><td>32″<br>(81.3 cm)</td><td>31.5″<br>(80 cm)</td></tr><tr><td>Height</td><td>29.5″<br>(75 cm)</td><td>42″<br>(106.7 cm)</td><td>29.5″<br>(75 cm)</td><td>29″<br>(73.7 cm)</td><td>29.5″<br>(75 cm)</td></tr><tr><td>Person size (up to)</td><td>6′ 7″<br>(200 m)</td><td>6′ 6″<br>(198 cm)</td><td>6′ 7″<br>(200 cm)</td><td>6′ 9″<br>(205 cm)</td><td>6′ 7″<br>(200 cm)</td></tr><tr><td>Weight (empty)</td><td>7.7 lbs<br>(3.5 kg)</td><td>55 lbs<br>(25 kg)</td><td>7.7 lbs<br>(3.5 kg)</td><td>7 lbs<br>(3.18 kg)</td><td>6.6 lbs<br>(3 kg)</td></tr><tr><td>Folds</td><td>Yes</td><td>No</td><td>Yes</td><td>Yes</td><td>Yes</td></tr><tr><td>Price</td><td>$99</td><td>$1,199.99</td><td>$120</td><td>$119</td><td>$119.99</td></tr><tr><td>Shipping</td><td>Worldwide<br>(from UK)</td><td>USA only</td><td>Worldwide<br>(from UK)</td><td>USA only</td><td>UK, USA, Australia, Canada, Ireland</td></tr><tr><td>Warranty</td><td>1-year</td><td>Lifetime</td><td>No</td><td>6-month</td><td>1-year</td></tr></tbody></table>
 </div>
 
-<h3 id="icepod">The Ice Pod by The Pod Company</h3>
+<h3 id="lumi"><a class="link-unstyled" href="https://lumitherapy.co.uk?dt_id=605630" target="_blank" rel="noopener noreferrer">The Recovery Pod by LUMI</a></h3>
 
-<img class="product-img" src="/assets/blog/ice-pod.jpg" alt="The Ice Pod">
+<a href="https://lumitherapy.co.uk?dt_id=605630" target="_blank" rel="noopener noreferrer"><img class="product-img" src="/assets/blog/lumi.jpg" alt="LUMI Recovery Pod"></a>
 
 <div class="well">
 
 **How big is it?**
 
-- Capacity: 300 L
-- Diameter: 32 inches (81.3 cm)
-- Height: 29 inches (73.7 cm)
-- Suitable for: People up to 6 ft 9" (2.1m); up to 250-300lbs (115kg - 135kg)
-
-**How portable is it?**
-
-- Weight (empty): 7 lbs (3.18 kg)
-- Folds: Yes
-
-**Pricing and shipping**
-
-- Price: $119
-- Shipping: US only (2-6 business days)
-- Warranty: 6-month (extendable)
-
-</div>
-
-The Ice Pod is a 300-liter portable ice bath made by the Pod Company. Like other inflatable models we've reviewed, this ice bath comes complete with a hand pump, a lid, and a drainage hose. It also comes with a 6-month full warranty that you can choose to extend when checking out.
-
-With its 32″ diameter, the Ice Pod can fit people that are as tall as 6′ 9″, which is the tallest we've seen advertised from all brands we've come across when doing our research for this post. It features a 3-layer insulation system: an inner layer of phthalate-free PVC, a middle layer of pearl tech, and an outer layer of nylon for prolonged durability.
-
-But what truly sets the Pod Company apart from the competition is its offering of water chillers. For $999, you can get a 280-watt water chiller designed to cool the water in your ice bath to 39°F (4°C) and keep it there with minimal power consumption. This saves you the hassle of having to buy ice every time you want to use the Ice Pod. According to the company, the savings you'll make on ice could help you recoup your $999 investment within a year. (Note: The chiller is compatible with any ice bath.)
-
-The Pod Company currently only ships to the USA and its territories.
-
-<button class="btn btn-outline" onclick="window.open('https://www.podcompany.com/whatifididnt' + location.search)" type="button" rel="noopener noreferrer">Get the Ice Pod</button>
-
-_(Use the discount code **whatifididnt** at checkout to get $10 off)_
-
-<h3 id="polar">Polar Recovery Tub™</h3>
-
-<img class="product-img" src="/assets/blog/polar-recovery.jpg" alt="Polar Recovery Tub™">
-
-<div class="well">
-
-**How big is it?**
-
-- Capacity: 270L
+- Capacity: 320 L
 - Diameter: 31.5 inches (80 cm)
 - Height: 29.5 inches (75 cm)
 - Suitable for: People up to 6 ft 7" (2m tall)
 
 **How portable is it?**
 
-- Weight (empty): 6.6 lbs (3 kg)
+- Weight (empty): 7.7 lbs (3.5 kg)
 - Folds: Yes
 
 **Shipping and pricing**
 
-- Price: $99 | £99.99 | €119.95
-- Shipping: UK, USA, Australia, Canada, and Ireland
+- Price: $99 | €113.95 | £95
+- Shipping: Worldwide (14-21 days)
 - Warranty: 1-year
+
 </div>
 
-Polar Recovery is a company out of the United Kingdom. Their Recovery Tub is a budget-friendly portable ice bath made from durable materials. The product is shipped with a floating thermometer, reusable ice pack, hand pump, a telescopic drain hose, and a cover to keep debris out when not in use.
+LUMI, a British company located in southwest England, sells the best portable ice bath under $100: The Recovery Pod. That's the ice bath I personally use.
 
-With a 270L capacity, it's on the smaller side among our recommendations. If you're taller or need more room, consider getting a larger model.
+Crafted using thermal TPE and ripstop polyester, it provides exceptional insulation and durability, keeping the water inside the tub icy cold even in hot weather.
 
-Setting up the Polar Recovery Tub™ is simple. Simply insert the 8 support poles, inflate the top ring, and you're ready to go.
+This ice bath is designed to sit securely on 6 support legs. It comes with a Thermo lid, a telescopic drain hose, repair patches, and a foot pump for inflating the top ring as well as the Thermo lid.
 
-It seems that Polar Recovery is only shipping to the United Kingdom, the United States, Australia, Canada, and Ireland at the moment. So if you live in Europe (except Ireland), this one isn't going to be for you.
+For those seeking extra capacity and insulation, consider the Recovery Pod Max. It has an additional 100 L of capacity and two extra layers of insulation. It also comes with a slick roll-top dry bag that fits the ice bath and all of its accessories.
 
-The Polar Recovery Tub™ is available on polar-recovery.com as well as on Amazon UK and US.
+LUMI offers free economy worldwide shipping with delivery times between 30 and 40 days. Standard delivery, though not free, takes half the time. It costs $13 for Europe and the UK, $15 for the US, and around $40 for the rest of the world. Not too bad.
 
-<button class="btn btn-outline" onclick="window.open('https://www.awin1.com/cread.php?awinmid=60339&awinaffid=1435411&ued=https%3A%2F%2Fpolar-recovery.com%2Fproducts%2Fpolar-recovery-tub-ice-bath' + location.search)" type="button" rel="noopener noreferrer">Get the Polar Recovery Tub™</button>
+There's a 1-year warranty on the tub and a 1-month warranty on the inflatables (ie. the top ring and Thermo lid) that covers any structure defects and leakages.
 
-<h3 id="barrel">Ice Barrel 400</h3>
+<button class="btn btn-outline" onclick="window.open('https://lumitherapy.co.uk?dt_id=605630' + location.search)" type="button" rel="noopener noreferrer">Get the LUMI Recovery Pod</button>
 
-<img class="product-img" src="/assets/blog/ice-barrel-400.jpg" alt="Ice Barrel 400">
+<h3 id="barrel"><a class="link-unstyled" href="https://shareasale.com/r.cfm?b=1715344&u=3822885&m=106685&urllink=icebarrel%2Ecom%2Fproduct%2Fice%2Dbarrel%2D400%2F&afftrack=" target="_blank" rel="noopener noreferrer">Ice Barrel 400</a></h3>
+
+<a href="https://shareasale.com/r.cfm?b=1715344&u=3822885&m=106685&urllink=icebarrel%2Ecom%2Fproduct%2Fice%2Dbarrel%2D400%2F&afftrack=" target="_blank" rel="noopener noreferrer"><img class="product-img" src="/assets/blog/ice-barrel-400.jpg" alt="Ice Barrel 400"></a>
 
 <div class="well">
 
@@ -202,55 +167,15 @@ Now, let's talk about the elephant in the room: the price. The Ice Barrel 400 co
 
 It is sold with a stool for easy access, a sturdy stand for stability, and a cover to keep out debris.
 
-Delivery times are 4 to 6 weeks. So plan ahead if you want to gift it this Christmas.
+Delivery times are 4 to 6 weeks. So plan ahead if you want to gift it to someone.
 
 <button class="btn btn-outline" onclick="window.open('https://shareasale.com/r.cfm?b=1715344&u=3822885&m=106685&urllink=icebarrel%2Ecom%2Fproduct%2Fice%2Dbarrel%2D400%2F&afftrack=' + location.search)" type="button" rel="noopener noreferrer">Get the Ice Barrel 400</button>
 
-<h3 id="lumi">The Recovery Pod by LUMI</h3>
+<small><strong>(use coupon code COLDTODAY for $75 off)</strong></small>
 
-<img class="product-img" src="/assets/blog/lumi.jpg" alt="LUMI Recovery Pod">
+<h3 id="coldpod"><a class="link-unstyled" href="https://thecoldpod.com/product/the-cold-pod-portable-ice-bath/?coupon=whatifididnt" target="_blank" rel="noopener noreferrer">The Cold Pod</a></h3>
 
-<div class="well">
-
-**How big is it?**
-
-- Capacity: 320 L
-- Diameter: 31.5 inches (80 cm)
-- Height: 29.5 inches (75 cm)
-- Suitable for: People up to 6 ft 7" (2m tall)
-
-**How portable is it?**
-
-- Weight (empty): 7.7 lbs (3.5 kg)
-- Folds: Yes
-
-**Shipping and pricing**
-
-- Price: $119.99 | €113.95 | £95
-- Shipping: Worldwide (14-21 days)
-- Warranty: 1-year
-
-</div>
-
-LUMI, a British company located in southwest England, sells the best portable ice bath under $100: The Recovery Pod.
-
-Crafted using thermal TPE and ripstop polyester, it provides exceptional insulation and durability, keeping the water inside the tub icy cold even in hot weather.
-
-This ice bath is designed to sit securely on 6 support legs. It comes with a Thermo lid, a telescopic drain hose, repair patches, and a foot pump for inflating the top ring as well as the Thermo lid.
-
-For those seeking extra capacity and insulation, consider the Recovery Pod Max. It has an additional 100 L of capacity and two extra layers of insulation. It also comes with a slick roll-top dry bag that fits the ice bath and all of its accessories.
-
-LUMI offers free economy worldwide shipping with delivery times between 30 and 40 days. Standard delivery, though not free, takes half the time. It costs $13 for Europe and the UK, $15 for the US, and around $40 for the rest of the world. Not too bad.
-
-There's a 1-year warranty on the tub and a 1-month warranty on the inflatables (ie. the top ring and Thermo lid) that covers any structure defects and leakages.
-
-<button class="btn btn-outline" onclick="window.open('https://lumitherapy.co.uk?dt_id=605630' + location.search)" type="button" rel="noopener noreferrer">Get the LUMI Recovery Pod</button>
-
-_(Use the discount code **WHATIFIDIDNT** at checkout to get 15% off)_
-
-<h3 id="coldpod">The Cold Pod</h3>
-
-<img class="product-img" src="/assets/blog/cold-pod.jpg" alt="Cold pod">
+<a href="https://thecoldpod.com/product/the-cold-pod-portable-ice-bath/?coupon=whatifididnt" target="_blank" rel="noopener noreferrer"><img class="product-img" src="/assets/blog/cold-pod.jpg" alt="Cold pod"></a>
 
 <div class="well">
 
@@ -287,6 +212,79 @@ On paper, this ice bath is very similar to the LUMI Recovery Pod—same volume, 
 You can get it directly from the Cold Pod website as well as on Amazon for $139.99.
 
 <button class="btn btn-outline" onclick="window.open('https://thecoldpod.com/product/the-cold-pod-portable-ice-bath/?coupon=whatifididnt' + location.search)" type="button" rel="noopener noreferrer">Get the Cold Pop</button>
+
+<h3 id="icepod"><a class="link-unstyled" href="https://www.podcompany.com/whatifididnt" target="_blank" rel="noopener noreferrer">The Ice Pod by The Pod Company</a></h3>
+
+<a href="https://www.podcompany.com/whatifididnt" target="_blank" rel="noopener noreferrer"><img class="product-img" src="/assets/blog/ice-pod.jpg" alt="The Ice Pod"></a>
+
+<div class="well">
+
+**How big is it?**
+
+- Capacity: 300 L
+- Diameter: 32 inches (81.3 cm)
+- Height: 29 inches (73.7 cm)
+- Suitable for: People up to 6 ft 9" (2.1m); up to 250-300lbs (115kg - 135kg)
+
+**How portable is it?**
+
+- Weight (empty): 7 lbs (3.18 kg)
+- Folds: Yes
+
+**Pricing and shipping**
+
+- Price: $119
+- Shipping: US only (2-6 business days)
+- Warranty: 6-month (extendable)
+
+</div>
+
+The Ice Pod is a 300-liter portable ice bath made by the Pod Company. Like other inflatable models we've reviewed, this ice bath comes complete with a hand pump, a lid, and a drainage hose. It also comes with a 6-month full warranty that you can choose to extend when checking out.
+
+With its 32″ diameter, the Ice Pod can fit people that are as tall as 6′ 9″, which is the tallest we've seen advertised from all brands we've come across when doing our research for this post. It features a 3-layer insulation system: an inner layer of phthalate-free PVC, a middle layer of pearl tech, and an outer layer of nylon for prolonged durability.
+
+But what truly sets the Pod Company apart from the competition is its offering of water chillers. For $999, you can get a 280-watt water chiller designed to cool the water in your ice bath to 39°F (4°C) and keep it there with minimal power consumption. This saves you the hassle of having to buy ice every time you want to use the Ice Pod. According to the company, the savings you'll make on ice could help you recoup your $999 investment within a year. (Note: The chiller is compatible with any ice bath.)
+
+The Pod Company currently only ships to the USA and its territories.
+
+<button class="btn btn-outline" onclick="window.open('https://www.podcompany.com/whatifididnt' + location.search)" type="button" rel="noopener noreferrer">Get the Ice Pod</button>
+
+<h3 id="polar"><a class="link-unstyled" href="https://www.awin1.com/cread.php?awinmid=60339&awinaffid=1435411&ued=https%3A%2F%2Fpolar-recovery.com%2Fproducts%2Fpolar-recovery-tub-ice-bath" target="_blank" rel="noopener noreferrer">Polar Recovery Tub™</a></h3>
+
+<a href="https://www.awin1.com/cread.php?awinmid=60339&awinaffid=1435411&ued=https%3A%2F%2Fpolar-recovery.com%2Fproducts%2Fpolar-recovery-tub-ice-bath" target="_blank" rel="noopener noreferrer"><img class="product-img" src="/assets/blog/polar-recovery.jpg" alt="Polar Recovery Tub™"></a>
+
+<div class="well">
+
+**How big is it?**
+
+- Capacity: 270L
+- Diameter: 31.5 inches (80 cm)
+- Height: 29.5 inches (75 cm)
+- Suitable for: People up to 6 ft 7" (2m tall)
+
+**How portable is it?**
+
+- Weight (empty): 6.6 lbs (3 kg)
+- Folds: Yes
+
+**Shipping and pricing**
+
+- Price: $119.99 | £89.99 | €149.95
+- Shipping: UK, USA, Australia, Canada, and Ireland
+- Warranty: 1-year
+</div>
+
+Polar Recovery is a company out of the United Kingdom. Their Recovery Tub is a budget-friendly portable ice bath made from durable materials. The product is shipped with a floating thermometer, reusable ice pack, hand pump, a telescopic drain hose, and a cover to keep debris out when not in use.
+
+With a 270L capacity, it's on the smaller side among our recommendations. If you're taller or need more room, consider getting a larger model.
+
+Setting up the Polar Recovery Tub™ is simple. Simply insert the 8 support poles, inflate the top ring, and you're ready to go.
+
+It seems that Polar Recovery is only shipping to the United Kingdom, the United States, Australia, Canada, and Ireland at the moment. So if you live in Europe (except Ireland), this one isn't going to be for you.
+
+The Polar Recovery Tub™ is available on polar-recovery.com as well as on Amazon UK and US.
+
+<button class="btn btn-outline" onclick="window.open('https://www.awin1.com/cread.php?awinmid=60339&awinaffid=1435411&ued=https%3A%2F%2Fpolar-recovery.com%2Fproducts%2Fpolar-recovery-tub-ice-bath' + location.search)" type="button" rel="noopener noreferrer">Get the Polar Recovery Tub™</button>
 
 <h2 id="faq">FAQ</h2>
 
