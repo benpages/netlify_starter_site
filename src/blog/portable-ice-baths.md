@@ -1,11 +1,11 @@
 ---
-title: '5 Best Portable Ice Baths for Every Budget [2024 Reviews]'
+title: 'Best Portable Ice Baths: LUMI, Polar, or Cold Pod? (2024 Reviews)'
 titleShort: 'Best Portable Ice Baths'
 eleventyExcludeFromCollections: false
 mySlug: portable-ice-baths
-description: Discover the best portable ice baths ranging from $99 to $1,199.99. Models from LUMI, Ice Barrel, The Pod Company, Cold Pod, and Polar Recovery.
+description: Don't know which portable ice bath to buy? We reviewed tubs from LUMI, Polar Recovery, and more to help you find the best cold plunge under $120.
 date: 2023-09-08
-lastUpdated: 2024-03-07
+lastUpdated: 2024-06-29
 image: /assets/blog/portable-ice-bath.jpg
 imageAlt: Portable ice bath
 ---
