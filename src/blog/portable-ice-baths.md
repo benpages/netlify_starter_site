@@ -3,7 +3,7 @@ title: 'Best Portable Ice Baths: LUMI, Polar, or Cold Pod? (2024 Reviews)'
 titleShort: 'Best Portable Ice Baths'
 eleventyExcludeFromCollections: false
 mySlug: portable-ice-baths
-description: Don't know which portable ice bath to buy? We reviewed tubs from LUMI, Polar Recovery, and more to help you find the best cold plunge under $120.
+description: "Don't know which portable ice bath to buy? We reviewed tubs from LUMI, Polar Recovery, and more to help you find the best cold plunge under £100."
 date: 2023-09-08
 lastUpdated: 2024-06-29
 image: /assets/blog/portable-ice-bath.jpg
