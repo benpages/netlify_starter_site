@@ -62,6 +62,15 @@ These are designed to steal your attention away and should be deactivated for al
 
 <img class="wrapper--wide" src="/assets/blog/disable-iphone-notifications.webp" alt="turn iphone notifications off to dumb it down">
 
+<div class="well cta-callout wrapper--wide">
+<div class="flow">
+  <h3 class="text-center article-snippet__title">FREE Digital Decluttering Checklist</h3>
+  <p class="subtext">Declutter your email, social media, photos, messages... it's all in there.</p>
+  <button class="btn btn-primary ml-onclick-form" onclick="ml('show', 'D30UJF', true)">Download the checklist</button>
+</div>
+<img src="/assets/img/digital-decluttering-checklist-preview.jpeg" alt="digital decluttering checklist" class="callout-img">
+</div>
+
 ### 4. Turn your phone to grayscale
 
 The colors of your phone are yet another distraction. So let’s turn our iPhone to grayscale so we’re not tempted to tap on anything that doesn’t serve our interest.
