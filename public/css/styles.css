@@ -464,7 +464,6 @@ img.author-bio__img {
 }
 
 .callout-img {
-	max-width: 300px;
 	border: 1px solid var(--clr-primary-100);
 	margin-inline: auto;
 }
