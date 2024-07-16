@@ -49,7 +49,15 @@
 			defer
 			src="https://identity.netlify.com/v1/netlify-identity-widget.js"
 		></script>
-		
+		<!-- Branch information script -->
+		<script>
+			(function () {
+				var branch = "default-branch";
+				document.addEventListener('DOMContentLoaded', function () {
+					window.branch = branch;
+				});
+			})();
+		</script>
 		<!-- MailerLite Universal -->
 		<script>
 			(function (w, d, e, u, f, l, n) {
