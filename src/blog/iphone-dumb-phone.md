@@ -66,7 +66,9 @@ These are designed to steal your attention away and should be deactivated for al
 <div class="flow">
   <h3 class="text-center article-snippet__title">FREE Digital Decluttering Checklist</h3>
   <p class="subtext">Declutter your email, social media, photos, messages... it's all in there.</p>
-  <button class="btn btn-primary ml-onclick-form" onclick="ml('show', 'D30UJF', true)">Download the checklist</button>
+<button class="btn btn-primary ml-onclick-form" onclick="ml('show', 'D30UJF', true); goatcounter.count({path: 'button-click', title: 'Button Click'});">
+  Download checklist
+</button>
 </div>
 <img src="/assets/img/digital-decluttering-checklist-preview.jpeg" alt="digital decluttering checklist" class="callout-img">
 </div>
