@@ -104,7 +104,7 @@ Go to Settings > Focus and customize modes like "Work," "Personal," or "Sleep." 
 It’s a great way to ensure your iPhone enhances your life rather than distracting from it.
 
 <div class="flow">
-<p>Here’s an excellent video showing you how to make the most of Focus modes:</p>
+<p>Here’s an excellent video from Peter at ProperHonestTech explaining how to make the most of Focus modes:</p>
 <a style="display:block;" href="https://youtu.be/5dOwc1u-C34?feature=shared&t=53" rel="noopener noreferrer nofollow" target="_blank">
 <img class="wrapper--wide" src="/assets/blog/iphone-focus-mode-thumbnail.webp" alt="iphone focus modes video">
 </a>
