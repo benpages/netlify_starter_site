@@ -25,6 +25,17 @@ If you're not wanting to break the bank on a <a href="https://www.thelightphone.
 
 Let's jump right in.
 
+<div class="well cta-callout wrapper--wide">
+<div class="flow">
+  <h3 class="text-center article-snippet__title">FREE Digital Decluttering Checklist</h3>
+  <p class="subtext">Declutter your email, social media, photos, messages... it's all in there.</p>
+<button class="btn btn-primary ml-onclick-form" onclick="ml('show', 'D30UJF', true)" data-goatcounter-click="cta-40-scroll" data-goatcounter-title="Digital Decluttering Checklist">
+  Download Checklist
+</button>
+</div>
+<img src="/assets/img/digital-decluttering-checklist-preview.jpeg" alt="digital decluttering checklist" class="callout-img">
+</div>
+
 ## How to Dumb Down an iPhone
 
 ### 1. Delete All Deletetable Apps
@@ -61,17 +72,6 @@ If you absolutely need to keep notifications on for a particular app, make sure 
 These are designed to steal your attention away and should be deactivated for all apps.
 
 <img class="wrapper--wide" src="/assets/blog/disable-iphone-notifications.webp" alt="turn iphone notifications off to dumb it down">
-
-<div class="well cta-callout wrapper--wide">
-<div class="flow">
-  <h3 class="text-center article-snippet__title">FREE Digital Decluttering Checklist</h3>
-  <p class="subtext">Declutter your email, social media, photos, messages... it's all in there.</p>
-<button class="btn btn-primary ml-onclick-form" onclick="ml('show', 'D30UJF', true)" data-goatcounter-click="cta-40-scroll" data-goatcounter-title="Digital Decluttering Checklist">
-  Download Checklist
-</button>
-</div>
-<img src="/assets/img/digital-decluttering-checklist-preview.jpeg" alt="digital decluttering checklist" class="callout-img">
-</div>
 
 ### 4. Turn your phone to grayscale
 
