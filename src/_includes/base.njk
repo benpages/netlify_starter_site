@@ -43,7 +43,7 @@
 		<meta name="twitter:card" content="summary_large_image"/>
 		<meta name="twitter:image" content="{% if image %}{{ image }}{% else %}{%- for post in collections.post | reverse -%}{% if loop.index0 < 1 %}{{ post.data.image }}{% endif%}{%- endfor -%}{% endif %}"/>
 		<meta name="twitter:creator" content="@smply.ben"/>
-		<link rel="stylesheet" href="/css/styles.css"/>
+		<link rel="stylesheet" href="/css/styles.css?v1.1"/>
 		<!-- Netlify -->
 		<script
 			defer
