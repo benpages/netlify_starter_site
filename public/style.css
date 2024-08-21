@@ -67,7 +67,6 @@ h3,
 h4 {
 	font-family: var(--ff-heading);
 	line-height: 1.2;
-	text-transform: lowercase;
 	margin: 0;
 }
 
@@ -134,7 +133,6 @@ select {
 .btn,
 label {
 	font-family: var(--ff-heading);
-	text-transform: lowercase;
 }
 
 input {
@@ -314,7 +312,6 @@ caption {
 	list-style: none;
 	padding-left: 0;
 	font-family: var(--ff-heading);
-	text-transform: lowercase;
 	display: flex;
 	gap: 1.5em;
 }
@@ -331,7 +328,6 @@ caption {
 .footer {
 	background-color: var(--clr-tertiary);
 	border-top: 1px solid var(--clr-secondary);
-	text-transform: lowercase;
 	margin-top: auto;
 }
 
@@ -394,7 +390,6 @@ section {
 	padding: 2em;
 	background-color: var(--clr-tertiary);
 	border: 1px solid var(--clr-secondary);
-	text-transform: lowercase;
 	font-family: var(--ff-heading);
 }
 

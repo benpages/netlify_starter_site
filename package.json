@@ -1,24 +1,24 @@
 {
-  "name": "whatifididnt",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "start": "eleventy --serve",
-    "build": "eleventy"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/benpages/whatifididnt.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/benpages/whatifididnt/issues"
-  },
-  "homepage": "https://github.com/benpages/whatifididnt#readme",
-  "devDependencies": {
-    "@11ty/eleventy": "^2.0.1"
-  }
+	"name": "netlify_starter_site",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"start": "eleventy --serve",
+		"build": "eleventy"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/benpages/netlify_starter_site.git"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/benpages/netlify_starter_site/issues"
+	},
+	"homepage": "https://github.com/benpages/netlify_starter_site#readme",
+	"devDependencies": {
+		"@11ty/eleventy": "^2.0.1"
+	}
 }

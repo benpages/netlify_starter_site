@@ -4,6 +4,7 @@ module.exports = function (eleventyConfig) {
 	eleventyConfig.addPassthroughCopy('./src/assets');
 	eleventyConfig.addPassthroughCopy('src/_redirects');
 	eleventyConfig.addPassthroughCopy('src/script.js');
+	eleventyConfig.addPassthroughCopy('src/style.css');
 
 	eleventyConfig.addShortcode('year', () => `${new Date().getFullYear()}`);
 

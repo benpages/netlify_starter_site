@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/css" href="/css/main.css"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    
+        <url>
+            <loc>evelentystartersite.test/about/</loc>
+            <lastmod>2024-08-21T16:16:59.679Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>evelentystartersite.test/blog/</loc>
+            <lastmod>2024-08-21T16:16:59.708Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>evelentystartersite.test/contact/</loc>
+            <lastmod>2024-08-21T16:16:59.710Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>evelentystartersite.test/</loc>
+            <lastmod>2024-08-21T16:16:59.710Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>evelentystartersite.test/privacy-policy/</loc>
+            <lastmod>2024-08-21T16:16:59.710Z</lastmod>
+        </url>
+    
+</urlset>
