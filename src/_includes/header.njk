@@ -1,25 +1,32 @@
-<header class="header">
-  <div class="wrapper header__wrapper">
-    <a href="/" class="header__logo">
-      {{ site.name }}
-    </a>
-    <button class="nav-toggle" aria-controls="nav" aria-expanded="false">
-      <span class="visually-hidden">Menu</span>
-      <img class="icon-hamburger" src="/assets/icon-hamburger.svg" aria-hiiden="true" alt="">
-      <img class="icon-close" src="/assets/icon-close.svg" aria-hiiden="true" alt="">
-    </button>
-    <nav role="navigation" class="nav" id="nav">
-      <ul class="nav__list">
-        <li>
-          <a href="/blog/" class="nav__link">All posts</a>
-        </li>
-        <li>
-          <a href="/about/" class="nav__link">About</a>
-        </li>
-        <li>
-          <a href="/contact/" class="nav__link">Contact</a>
-        </li>
-      </ul>
-    </nav>
-  </div>
+<header class="wrapper">
+  <nav class="primary-nav">
+    <div class="nav-header">
+      <div class="brand">
+        <a href="/">
+          <p class="logo">{{ site.name }}</p>
+          <p class="tagline small-print">Site tagline</p>
+        </a>
+      </div>
+      <button class="nav-toggle" aria-controls="nav-list" aria-expanded="false">
+        <i class="hamburger-menu">
+          <span class="sr-only">Menu</span>
+          <span></span>
+        </i>
+      </button>
+    </div>
+    <ul class="nav-list list-style-none">
+      <li class="nav-link">
+        <a href="/services/">Services</a>
+      </li>
+      <li class="nav-link">
+        <a href="/blog/">Blog</a>
+      </li>
+      <li class="nav-link">
+        <a href="/about">About</a>
+      </li>
+      <li class="nav-link">
+        <a href="/contact">Contact</a>
+      </li>
+    </ul>
+  </nav>
 </header>

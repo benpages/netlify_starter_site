@@ -1,45 +1,32 @@
 <footer class="footer">
-  <div class="wrapper footer__wrapper">
-    <div class="footer__links flow">
+  <div class="footer-content wrapper">
+    <div class="flow footer-column">
+      <div class="logo">{{ site.name }}</div>
+    </div>
+    <div class="flow footer-column">
       <h4>Helpful links</h4>
       <ul class="list-style-none">
-        <li>
-          <a href="/blog/">All posts</a>
-        </li>
-        <li>
-          <a href="/about/">About</a>
-        </li>
-        <li>
-          <a href="/contact/">Contact</a>
-        </li>
-        <li>
-          <a href="/write-for-us/">Write for us</a>
-        </li>
-        <li>
-          <a href="/privacy-policy/">Privacy policy</a>
-        </li>
+        {% for page in collections.all %}
+          {% if page.url != "/blog/" and page
+            .url
+            .indexOf('/blog/') == -1 %}
+            <li>
+              <a href="{{ page.url }}">{{ page.data.title }}</a>
+            </li>
+          {% endif %}
+        {% endfor %}
       </ul>
     </div>
-    <div class="footer__posts flow">
-      <h4>Recent posts</h4>
-      <ul class="list-style-none">
-        {%- for post in collections.post | reverse -%}
-          {% if loop.index0 < 5 %}
-            {% include 'article-list.njk' %}
-            {% endif%}
-          {%- endfor -%}
-        </ul>
-      </div>
-      <div class="footer__newsletter flow">
-        <h4>Newsletter</h4>
-        <p>Enter your name and email address to join the newsletter. You'll receive new posts, exclusive content, and much more.</p>
-        <form class="footer__form inline-form" name="newsletter" method="POST" data-netlify="true" action="/thank-you/">
-          <input id="email" type="email" name="email" placeholder="Your email" required/>
-          <button class="btn btn-primary" type="submit">Sign Up</button>
-        </form>
-      </div>
+    <div class="flow footer-column">
+      <h4>Newsletter</h4>
+      <p>Enter your name and email address to join the newsletter. You'll receive new posts, exclusive content, and much more.</p>
+      <form class="footer__form inline-form" name="newsletter" method="POST" data-netlify="true" action="/thank-you/">
+        <input id="email" type="email" name="email" placeholder="Your email" required/>
+        <button class="btn btn-primary" type="submit">Sign Up</button>
+      </form>
     </div>
   </div>
-  <div class="copyright">{{ site.name }} · © {% year %}
-  </div>
+</div>
+<div class="copyright">{{ site.name }} · © {% year %}
+</div>
 </footer>

@@ -3,28 +3,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     
         <url>
-            <loc>evelentystartersite.test/about/</loc>
+            <loc>example.com/about/</loc>
             <lastmod>2024-08-21T16:16:59.679Z</lastmod>
         </url>
     
         <url>
-            <loc>evelentystartersite.test/blog/</loc>
+            <loc>example.com/blog/</loc>
             <lastmod>2024-08-21T16:16:59.708Z</lastmod>
         </url>
     
         <url>
-            <loc>evelentystartersite.test/contact/</loc>
+            <loc>example.com/contact/</loc>
             <lastmod>2024-08-21T16:16:59.710Z</lastmod>
         </url>
     
         <url>
-            <loc>evelentystartersite.test/</loc>
+            <loc>example.com/</loc>
             <lastmod>2024-08-21T16:16:59.710Z</lastmod>
         </url>
     
         <url>
-            <loc>evelentystartersite.test/privacy-policy/</loc>
+            <loc>example.com/privacy-policy/</loc>
             <lastmod>2024-08-21T16:16:59.710Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>example.com/services/</loc>
+            <lastmod>2024-08-21T17:54:01.115Z</lastmod>
         </url>
     
 </urlset>

@@ -4,59 +4,59 @@
 		<meta http-equiv="X-UA-Compatible" content="IE=edge"/>
 		<meta charset="UTF-8"/>
 		<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-		<link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
-		<link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
-		<link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
-		<link rel="manifest" href="/assets/site.webmanifest">
-		<link rel="mask-icon" href="/assets/safari-pinned-tab.svg" color="#5bbad5">
-		<meta name="msapplication-TileColor" content="#da532c">
-		<meta name="theme-color" content="#ffffff">
-
-		<title>Hello</title>
+		<title>Home </title>
 		
 
 		<meta name="description" content="">
-		<meta property="og:title" content="Hello"/>
+		<meta property="og:title" content="Home "/>
 		<meta property="og:type" content="article"/>
-		<meta property="og:url" content="evelentystartersite.test/"/>
+		<meta property="og:url" content="example.com/"/>
 		<meta property="og:description" content=""/>
 		<meta property="og:image" content=""/>
 		<meta property="og:locale" content="en_US"/>
 		<meta property="og:site_name" content="Eleventy Starter Site"/>
-		<link rel="canonical" href="evelentystartersite.test/">
+		<link rel="canonical" href="example.com/">
 		<meta name="robots" content="index, follow">
 		<link rel="stylesheet" href="/style.css"/>
 	</head>
 	<body>
-		<header class="header">
-  <div class="wrapper header__wrapper">
-    <a href="/" class="header__logo">
-      Eleventy Starter Site
-    </a>
-    <button class="nav-toggle" aria-controls="nav" aria-expanded="false">
-      <span class="visually-hidden">Menu</span>
-      <img class="icon-hamburger" src="/assets/icon-hamburger.svg" aria-hiiden="true" alt="">
-      <img class="icon-close" src="/assets/icon-close.svg" aria-hiiden="true" alt="">
-    </button>
-    <nav role="navigation" class="nav" id="nav">
-      <ul class="nav__list">
-        <li>
-          <a href="/blog/" class="nav__link">All posts</a>
-        </li>
-        <li>
-          <a href="/about/" class="nav__link">About</a>
-        </li>
-        <li>
-          <a href="/contact/" class="nav__link">Contact</a>
-        </li>
-      </ul>
-    </nav>
-  </div>
+		<header class="wrapper">
+  <nav class="primary-nav">
+    <div class="nav-header">
+      <div class="brand">
+        <a href="/">
+          <p class="logo">Eleventy Starter Site</p>
+          <p class="tagline small-print">Site tagline</p>
+        </a>
+      </div>
+      <button class="nav-toggle" aria-controls="nav-list" aria-expanded="false">
+        <i class="hamburger-menu">
+          <span class="sr-only">Menu</span>
+          <span></span>
+        </i>
+      </button>
+    </div>
+    <ul class="nav-list list-style-none">
+      <li class="nav-link">
+        <a href="/services/">Services</a>
+      </li>
+      <li class="nav-link">
+        <a href="/blog/">Blog</a>
+      </li>
+      <li class="nav-link">
+        <a href="/about">About</a>
+      </li>
+      <li class="nav-link">
+        <a href="/contact">Contact</a>
+      </li>
+    </ul>
+  </nav>
 </header>
 		<main>
 			
 <section class="recent-posts">
-  <div class="wrapper wrapper--narrow flow">
+  <div class="wrapper content flow">
+    <h1>Home </h1>
     <h2>Recent Posts</h2>
     <ul class="list-style-none"></ul>
       <a class="btn btn-outline" href="/blog/">
@@ -66,43 +66,60 @@
   </section>
 		</main>
 		<footer class="footer">
-  <div class="wrapper footer__wrapper">
-    <div class="footer__links flow">
+  <div class="footer-content wrapper">
+    <div class="flow footer-column">
+      <div class="logo">Eleventy Starter Site</div>
+    </div>
+    <div class="flow footer-column">
       <h4>Helpful links</h4>
       <ul class="list-style-none">
-        <li>
-          <a href="/blog/">All posts</a>
-        </li>
-        <li>
-          <a href="/about/">About</a>
-        </li>
-        <li>
-          <a href="/contact/">Contact</a>
-        </li>
-        <li>
-          <a href="/write-for-us/">Write for us</a>
-        </li>
-        <li>
-          <a href="/privacy-policy/">Privacy policy</a>
-        </li>
+        
+          
+            <li>
+              <a href="/about/">About</a>
+            </li>
+          
+        
+          
+        
+          
+            <li>
+              <a href="/contact/">Contact</a>
+            </li>
+          
+        
+          
+            <li>
+              <a href="/">Home </a>
+            </li>
+          
+        
+          
+            <li>
+              <a href="/privacy-policy/">Privacy Policy</a>
+            </li>
+          
+        
+          
+            <li>
+              <a href="/services/">Services</a>
+            </li>
+          
+        
       </ul>
     </div>
-    <div class="footer__posts flow">
-      <h4>Recent posts</h4>
-      <ul class="list-style-none"></ul>
-      </div>
-      <div class="footer__newsletter flow">
-        <h4>Newsletter</h4>
-        <p>Enter your name and email address to join the newsletter. You'll receive new posts, exclusive content, and much more.</p>
-        <form class="footer__form inline-form" name="newsletter" method="POST" data-netlify="true" action="/thank-you/">
-          <input id="email" type="email" name="email" placeholder="Your email" required/>
-          <button class="btn btn-primary" type="submit">Sign Up</button>
-        </form>
-      </div>
+    <div class="flow footer-column">
+      <h4>Newsletter</h4>
+      <p>Enter your name and email address to join the newsletter. You'll receive new posts, exclusive content, and much more.</p>
+      <form class="footer__form inline-form" name="newsletter" method="POST" data-netlify="true" action="/thank-you/">
+        <input id="email" type="email" name="email" placeholder="Your email" required/>
+        <button class="btn btn-primary" type="submit">Sign Up</button>
+      </form>
     </div>
   </div>
-  <div class="copyright">Eleventy Starter Site · © 2024
-  </div>
+</div>
+<div class="copyright">Eleventy Starter Site · © 2024
+</div>
 </footer>
 
 		<script src="/script.js"></script>

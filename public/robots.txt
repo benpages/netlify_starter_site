@@ -1,2 +1,2 @@
 
-User-agent: * Allow: / Sitemap: evelentystartersite.test/sitemap.xml
+User-agent: * Allow: / Sitemap: example.com/sitemap.xml

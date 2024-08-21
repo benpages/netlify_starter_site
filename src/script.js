@@ -1,11 +1,6 @@
-// NAVIGATION MENU
+const toggle = document.querySelector('.nav-toggle');
+const links = document.querySelector('.nav-list');
 
-const navToggle = document.querySelector('.nav-toggle');
-const nav = document.querySelector('.nav');
-
-navToggle.addEventListener('click', () => {
-	nav.hasAttribute('data-visible')
-		? nav.setAttribute('aria-expanded', false)
-		: nav.setAttribute('aria-expanded', true);
-	nav.toggleAttribute('data-visible');
+toggle.addEventListener('click', function () {
+	links.classList.toggle('show-nav-list');
 });
