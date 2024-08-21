@@ -1,16 +1,16 @@
 ---
 layout: 'base.njk'
-title: 'Blog - whatifididnt'
-description: Tips, hacks, and habits that'll help you regain control of your attention, set digital boundaries, reconnect with yourself, and maximize your potential.
+title: 'Blog -  {{ site.name }}'
+description: 
 ---
 
-<div class="page wrapper wrapper--narrow">
-  <h1 class="page__title">Blog</h1>
-  <ul class="list-style-none">
+<div class="content wrapper">
+	<h1>Blog</h1>
+	<ul class="list-style-none">
 
-    {%- for post in collections.post | reverse -%}
-      {% include 'article-snippet.njk' %}
-    {%- endfor -%}
+		{%- for post in collections.post | reverse -%}
+			{% include 'article-snippet.njk' %}
+		{%- endfor -%}
 
-  </ul>
+	</ul>
 </div>

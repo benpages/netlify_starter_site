@@ -30,51 +30,16 @@
 		{% endif %}
 
 		<meta name="description" content="{{ description }}">
-		<meta name="twitter:site" content="@smply.ben"/>
 		<meta property="og:title" content="{{ title }}"/>
 		<meta property="og:type" content="article"/>
 		<meta property="og:url" content="{{ site.url }}{{ page.url | url }}"/>
 		<meta property="og:description" content="{{ description }}"/>
 		<meta property="og:image" content="{% if image %}{{ image }}{% else %}{%- for post in collections.post | reverse -%}{% if loop.index0 < 1 %}{{ post.data.image }}{% endif%}{%- endfor -%}{% endif %}"/>
 		<meta property="og:locale" content="en_US"/>
-		<meta property="og:site_name" content="whatifididnt"/>
+		<meta property="og:site_name" content="{{ site.name }}"/>
 		<link rel="canonical" href="{{ site.url }}{{ page.url | url }}">
 		<meta name="robots" content="index, follow">
-		<meta name="twitter:card" content="summary_large_image"/>
-		<meta name="twitter:image" content="{% if image %}{{ image }}{% else %}{%- for post in collections.post | reverse -%}{% if loop.index0 < 1 %}{{ post.data.image }}{% endif%}{%- endfor -%}{% endif %}"/>
-		<meta name="twitter:creator" content="@smply.ben"/>
-		<link rel="stylesheet" href="/css/styles.css?v1.1"/>
-		<!-- Netlify -->
-		<script
-			defer
-			src="https://identity.netlify.com/v1/netlify-identity-widget.js"
-		></script>
-		<!-- Branch information script -->
-		<script>
-			(function () {
-				var branch = "{{ branch.branch }}";
-				document.addEventListener('DOMContentLoaded', function () {
-					window.branch = branch;
-				});
-			})();
-		</script>
-		<!-- MailerLite Universal -->
-		<script>
-			(function (w, d, e, u, f, l, n) {
-				w[f] = w[f] || function () {
-					(w[f].q = w[f].q || []).push(arguments);
-				},
-				l = d.createElement(e),
-				l.async = 1,
-				l.src = u,
-				n = d.getElementsByTagName(e)[0],
-				n
-					.parentNode
-					.insertBefore(l, n);
-			})(window, document, 'script', 'https://assets.mailerlite.com/js/universal.js', 'ml');
-			ml('account', '914183');
-		</script>
-		<!-- End MailerLite Universal -->
+		<link rel="stylesheet" href="/css/styles.css"/>
 	</head>
 	<body>
 		{% include 'header.njk' %}
@@ -83,24 +48,9 @@
 		</main>
 		{% include 'footer.njk' %}
 
-		<script>
-			if (window.netlifyIdentity) {
-				window
-					.netlifyIdentity
-					.on("init", (user) => {
-						if (!user) {
-							window
-								.netlifyIdentity
-								.on("login", () => {
-									document.location.href = "/admin/";
-								});
-						}
-					});
-			}
-		</script>
 		<script src="/script.js"></script>
 		{# Goat Counter Analytics #}
-		<script data-goatcounter="https://whatifididnt.goatcounter.com/count"
-        async src="//gc.zgo.at/count.js"></script>
+		{# <script data-goatcounter=""
+        async src="//gc.zgo.at/count.js"></script> #}
 	</body>
 </html>

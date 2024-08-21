@@ -8,8 +8,7 @@
 	--fs-900: clamp(3.4332rem, 2.8416rem + 2.9582vi, 4.7348rem);
 
 	--ff-body: system-ui, sans-serif;
-	--ff-heading: ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo,
-		Consolas, 'DejaVu Sans Mono', monospace;
+	--ff-heading: system-ui, sans-serif;
 
 	--clr-text-50: #999999;
 	--clr-text-100: #808080;
@@ -30,11 +29,6 @@
 	--clr-tertiary: #f7fafc;
 	--clr-accent: #39c7d3;
 }
-
-/* @media (prefers-color-scheme: dark) {
-	:root {
-	}
-} */
 
 *,
 *::before,
@@ -147,13 +141,6 @@ input {
 	font-family: var(--ff-body);
 }
 
-.page__title {
-	text-align: center;
-	font-size: var(--fs-800);
-	font-weight: 400;
-	margin-bottom: 1em;
-}
-
 figcaption {
 	font-size: var(--fs-300);
 	text-align: center;
@@ -165,24 +152,7 @@ figcaption {
 	margin-inline: auto;
 }
 
-.wrapper--narrow {
-	width: min(100% - 3em, 60ch);
-}
-
-.wrapper--wide {
-	width: 110%;
-	max-width: calc(100vw - 3em);
-	margin-left: 50%;
-	transform: translateX(-50%);
-}
-
-.wrapper--important {
-	width: min(100vw - 3em, 1100px);
-	margin-left: 50%;
-	transform: translateX(-50%);
-}
-
-.page {
+.content {
 	padding-top: 1.5em;
 	padding-bottom: 4.5em;
 }
@@ -192,10 +162,6 @@ figcaption {
 }
 
 /* Utilities */
-
-.hyphen {
-	hyphens: manual;
-}
 
 .list-style-none {
 	list-style: none;
@@ -313,7 +279,7 @@ caption {
 	background: var(--clr-tertiary);
 }
 
-/* Footer */
+/* Header */
 
 .header {
 	position: static;
@@ -388,23 +354,6 @@ caption {
 
 section {
 	padding-block: 3em;
-}
-
-section.hero {
-	background-color: var(--clr-accent);
-	padding-block: 6em;
-}
-
-.hero__title {
-	color: white;
-	text-wrap: balance;
-	font-size: var(--fs-900);
-}
-
-.hero__lead {
-	font-size: var(--fs-500);
-	font-family: var(--ff-heading);
-	text-transform: lowercase;
 }
 
 .article-snippet,
